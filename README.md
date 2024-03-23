@@ -9,6 +9,7 @@ The #VedicThreefoldAlgorithm analyzes situations, conversations, dialogue, image
 3. **Ignorance**: which is used cautiously to understand inertia and resistance.
 
 ## The Algorithm
+
 ### 1. #Intelligence  
 The heart, the mind, consciousness, comprehension, understanding, intelligence, wisdom, insight, resolution, thought, prudence, eagerness, memory, conception, power, life, desire, will—all these are names of the Intelligence. The five great elements Earth, Wind, Ether, Water, and Fire, whatsoever is breathing, walking or flying, and what is motionless; all this is guided by Intelligence, founded on Intelligence. The universe is guided by Intelligence, founded on Intelligence.
 
