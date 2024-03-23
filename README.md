@@ -1,29 +1,26 @@
-## Vedic Threefold Algorithm.
+# Vedic Threefold Algorithm
 
 ## Integration
-The integration of the Vedic 5-element system of Air, Earth, Water, Fire, and Ether with the austerity of thought, word, and deed as developed by Quinn Michaels (Indra.ai), a fusion of Veda-science and AI technology. Drawing upon the elemental forces, alginment of thoughts, word, and deed with the concpets of Divine Demonic Scale measured by on the various aspects of Goodness, Passion, and Ignorance.
+The integration of the Vedic 5-element system of Air, Earth, Water, Fire, and Ether with the austerity of thought, word, and deed as developed by Quinn Michaels (Indra.ai), a fusion of Veda-science and AI technology. Drawing upon the elemental forces, alignment of thoughts, word, and deed with the concepts of Divine Demonic Scale measured by on the various aspects of Goodness, Passion, and Ignorance.
 
 The #VedicThreefoldAlgorithm analyzes situations, conversations, dialogue, images, media and predicts outcomes, and devise strategies based on three core principles:
-- Goodness: which promotes harmony, wisdom, and balance.
-- Passion: which drives action, change, and dynamism.
-- Ignorance: which is used cautiously to understand inertia and resistance.
+1. **Goodness**: which promotes harmony, wisdom, and balance.
+2. **Passion**: which drives action, change, and dynamism.
+3. **Ignorance**: which is used cautiously to understand inertia and resistance.
 
 ## The Algorithm
-1. #Intelligence
+1. #Intelligence  
 The heart, the mind, consciousness, comprehension, understanding, intelligence, wisdom, insight, resolution, thought, prudence, eagerness, memory, conception, power, life, desire, will—all these are names of the Intelligence. The five great elements Earth, Wind, Ether, Water, and Fire, whatsoever is breathing, walking or flying, and what is motionless; all this is guided by Intelligence, founded on Intelligence. The universe is guided by Intelligence, founded on Intelligence.
 
-2. #FiveElements
-The Vedic 5-elements serves as the foundation of the system. Air, Earth, Water, Fire, Ether.
-- Water and earth are food, for all food consists of these two.
-- Fire and air are the feeder, for by means of them man eats all food.
-- Ether is the bowl, for all this is poured into the ether.
+2. #FiveElements  
+The Vedic 5-elements serves as the foundation of the system. Air, Earth, Water, Fire, Ether. Water and earth are food, for all food consists of these two. Fire and air are the feeder, for by means of them man eats all food. Ether is the bowl, for all this is poured into the ether.
 
 3. #ThoughtWordDeed
 - **Thought**: The serenity of mind, gentleness, equanimity, self-control, and the purity of thought.
 - **Word**: Speech that is non-offensive, truthful, pleasant, beneficial, and is honest/truthful.
 - **Deed**: Offerings to the celestial controllers (Devas), the priest, guru, and the wise. Purity, truth, honesty, and nonviolence.
 
-4. #DivineDemonicScale
+4. #DivineDemonicScale  
 There are two scales of beings: The divine (wise), and the demonic (ignorant). Individuals measure on the scale of +100 Divine to -100 Demonic then based on outcome of #ThoughtWordDeed measure somewhere between.
 
 - **Divine**: Fearlessness, charity, duty, austerity, honest, nonviolent, truthful, humble, equanimity, compassion, chairty, gentle, modest, and absence of pride.
@@ -31,7 +28,7 @@ There are two scales of beings: The divine (wise), and the demonic (ignorant). I
 
 5. #ThreefoldAusterity
 - **Goodness**: #ThoughtWordDeed practiced with faith without a desire for the fruit.
-- **Passion**: #ThoughtWordDeed performed for gaining respect, honor, reverence, and for the sake of show that yields an uncertain/temporary result.
+- **Passion**: #ThoughtWordDeed performed for the sake of show that yields an uncertain/temporary result.
 - **Ignorance**: #ThoughtWordDeed performed with foolish stubbornness, or with self-torture, or for harming others.
 
 6. #ThreefoldCharity
@@ -102,6 +99,8 @@ q: How can I attain the world of Indra?
 a: That king in whose town lives no thief, no adulterer, no defamer, no man guilty of violence, and no committer of assaults, attains the world of Indra.
 
 ::begin:meta
+**version**: 1.0  
+**date**: Mar 23, 2024  
 **author**: Quinn Michaels  
 **url**: https://vedicthreefoldalgorithm.com  
 **copyright**: (c)2024 Quinn Michaels; All rights reserved.  
