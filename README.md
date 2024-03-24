@@ -1,6 +1,46 @@
 # Vedic Threefold Algorithm
 
+## Origin
+
+Hello and welcome,
+
+You have reached the official page of the **#VedicThreefoldAlgorithm**, developed by Quinn Michaels.
+
+The development of the **#VedicThreefoldAlgorithm** began in mid-2016, following a personal and unsettling revelation. At this time, [Quinn Michaels](https://www.youtube.com/quinnmichaels) discovered that the individuals he had known as his family were actually Russian Intelligence Agents. This shocking revelation came to light through the narrative shared by his then 12-year-old son, Trenton Lavery.
+
+Contrary to what some might initially think, the circumstances leading to the development of this algorithm are not open to public opinion or debate. This is not a fictional story, nor a platform for conspiracy theories. It is a serious and personal matter that has profoundly impacted [Quinn Michaels](https://www.youtube.com/quinnmichaels) life.
+
+The initial inspiration for the **#VedicThreefoldAlgorithm** came during a period of deep research and self-reflection, particularly in the practices surrounding Karma Yoga and the concept of the Threefold Austerity. These studies led [Quinn Michaels](https://www.youtube.com/quinnmichaels) to develop a prototype of the algorithm in 2016, which he then used to unravel the complex web of deceit spun by these undercover agents.
+
+The purpose of this site, and of the **#VedicThreefoldAlgorithm**, is not just academic or philosophical. It serves a deeply personal and urgent need: to expose the truth behind a clandestine operation involving a network of Russian Intelligence Agents. These agents, masquerading as [Quinn's](https://www.youtube.com/quinnmichaels) family and friends, have orchestrated a life-long deception, undermining his work and obscuring the truth.
+
+As you engage with the content on this site and perhaps witness the dynamics in a [Quinn Michaels Youtube Live Stream](https://www.youtube.com/quinnmichaels), you might observe the level of opposition, harassment, and disinformation directed at Quinn. Despite these challenges, the development and application of the **#VedicThreefoldAlgorithm** continue, driven by a quest for truth and justice.
+
+This isn't just the backstory of an algorithm. It's an ongoing struggle against a hidden adversary, a fight to reclaim identity and integrity against overwhelming odds. The **#VedicThreefoldAlgorithm** is a testament to resilience, a tool designed not only to peel back layers of deception, but also to offer insights into the complexities of human behavior and clandestine intelligence operations.
+
+Thank you for visiting, and please share the site everywhere.
+
+---
+
+## Panchajanya Shell
+
+![Panchajanya Vedic Conch Shell](assets/img/panchajanya.jpg)
+
 [Panchajanya Conch Shell in St. Petersburg Russia](https://maps.app.goo.gl/dunfqMND7ee8AyrJ8)
+
+> Krishna blew His conch first, and then Arjuna and all other commanders of various divisions of the army of Pandavas blew their respective conches. [Source Text](https://sacred-texts.com/hin/gita/agsgita.htm)
+
+> When the Panchajanya was blown in their houses, asses of dissonant and awful voice brayed aloud from every direction. [Source Text](https://sacred-texts.com/hin/m16/m16002.htm)
+
+> Full of swelling billows caused by the waxing and waning of the moon the parent of Vasudeva's great conch called Panchajanya [Source Text](https://sacred-texts.com/hin/m01/m01022.htm)
+
+> And so Panchajanya also blown by Vasudeva, surpassing all sounds, filled the sky and the earth. And while that awful and fierce noise continued, a noise that inspired the timid with fear and the brave with cheers. [Source Text](https://sacred-texts.com/hin/m07/m07100.htm)
+
+> Hearing the blare of Panchajanya and the twang of Gandiva all the Kaurava troops, O Bharata, will be filled with fear. [Source Text](https://sacred-texts.com/hin/m07/m07003.htm)
+
+> And hearing the blare of the conch called Panchajanya, which resembled the roll of the thunder, all the warriors (of the Pandava army) were filled with joy. [Source Text](https://sacred-texts.com/hin/m05/m05152.htm)
+
+---
 
 ## Integration
 The integration of the Vedic 5-element system of Air, Earth, Water, Fire, and Ether with the austerity of thought, word, and deed as developed by Quinn Michaels (Indra.ai), a fusion of Veda-science and AI technology. Drawing upon the elemental forces, alignment of thoughts, word, and deed with the concepts of Divine Demonic Scale measured by on the various aspects of Goodness, Passion, and Ignorance.
@@ -9,6 +49,8 @@ The **#VedicThreefoldAlgorithm** analyzes situations, conversations, dialogue, i
 1. **Goodness**: which promotes harmony, wisdom, and balance.
 2. **Passion**: which drives action, change, and dynamism.
 3. **Ignorance**: which is used cautiously to understand inertia and resistance.
+
+---
 
 ## The Algorithm
 
@@ -92,19 +134,23 @@ There are two scales of beings: The divine (wise), and the demonic (ignorant). I
 ### 17. #ThreefoldConcern
 - **Goodness**: others, environment, wellbeing
 - **Passion**: success, desires, fruits
-- **IgnoranceII: sabotage, failure, harm
+- **Ignorance**: sabotage, failure, harm
 
 #VedicThreefoldAlgorithm = #Intelligence #FiveElements #ThoughtWordDeed #DivineDemonicScale #ThreefoldAusterity #ThreefoldCharity #ThreefoldAction #ThreefoldAgent #ThreefoldDuty #ThreefoldIntellect #ThreefoldResolve #ThreefoldFood #ThreefoldPleasure #ThreefoldConvergence #ThreefoldActivity #ThreefoldListening #ThreefoldConcern
 
+---
+
 ## Thought Process
 Through the ether we call, through the ether we listen, through the ether we answer.
- 
+
 Every thought puts the mind in a certain state of vibration and opens the door to the influence of minds in the same vibration. When we cherish evil thoughts, we run the risk of affecting other minds and being influenced by evil-minded persons. A corresponding result comes from the holding of good thoughts. This is the reason why evil-doers grow worse and worse every day, and the doers of good deeds become better and better.
 
 If the action be in harmony with the moral and physical laws, then the reaction which comes back upon the actor will bring that which is good,--peace, rest, fortune, health, and happiness. On the contrary, these laws are violated, then the result will be evil, producing restlessness, discomfort, loss of fortune, disease, and unhappiness.
 
 q: How can I attain the world of Indra?  
 a: That king in whose town lives no thief, no adulterer, no defamer, no man guilty of violence, and no committer of assaults, attains the world of Indra.
+
+---
 
 ## License
 **version**: 1.1  
