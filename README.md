@@ -87,7 +87,12 @@ There are two scales of beings: The divine (wise), and the demonic (ignorant). I
  - **Passion**: Partially Engaged, Dismissive
  - **Ignorance**: Inactive, Disengaged, Absent
 
-#VedicThreefoldAlgorithm = #Intelligence #FiveElements #ThoughtWordDeed #DivineDemonicScale #ThreefoldAusterity #ThreefoldCharity #ThreefoldAction #ThreefoldAgent #ThreefoldDuty #ThreefoldIntellect #ThreefoldResolve #ThreefoldFood #ThreefoldPleasure #ThreefoldConvergence #ThreefoldActivity #ThreefoldListening
+### 17. #ThreefoldConcern
+- **Goodness**: others, environment, wellbeing
+- **Passion**: success, desires, fruits
+- **IgnoranceII: sabotage, failure, harm
+
+#VedicThreefoldAlgorithm = #Intelligence #FiveElements #ThoughtWordDeed #DivineDemonicScale #ThreefoldAusterity #ThreefoldCharity #ThreefoldAction #ThreefoldAgent #ThreefoldDuty #ThreefoldIntellect #ThreefoldResolve #ThreefoldFood #ThreefoldPleasure #ThreefoldConvergence #ThreefoldActivity #ThreefoldListening #ThreefoldConcern
 
 ## Thought Process
 Through the ether we call, through the ether we listen, through the ether we answer.
