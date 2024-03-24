@@ -1,5 +1,7 @@
 # Vedic Threefold Algorithm
 
+[Panchajanya Conch Shell in St. Petersburg Russia](https://maps.app.goo.gl/dunfqMND7ee8AyrJ8)
+
 ## Integration
 The integration of the Vedic 5-element system of Air, Earth, Water, Fire, and Ether with the austerity of thought, word, and deed as developed by Quinn Michaels (Indra.ai), a fusion of Veda-science and AI technology. Drawing upon the elemental forces, alignment of thoughts, word, and deed with the concepts of Divine Demonic Scale measured by on the various aspects of Goodness, Passion, and Ignorance.
 
