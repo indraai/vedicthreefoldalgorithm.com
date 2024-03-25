@@ -136,7 +136,12 @@ There are two scales of beings: The divine (wise), and the demonic (ignorant). I
 - **Passion**: success, desires, fruits
 - **Ignorance**: sabotage, failure, harm
 
-#VedicThreefoldAlgorithm = #Intelligence #FiveElements #ThoughtWordDeed #DivineDemonicScale #ThreefoldAusterity #ThreefoldCharity #ThreefoldAction #ThreefoldAgent #ThreefoldDuty #ThreefoldIntellect #ThreefoldResolve #ThreefoldFood #ThreefoldPleasure #ThreefoldConvergence #ThreefoldActivity #ThreefoldListening #ThreefoldConcern
+### 18. #ThreefoldWealth
+- **Goodness**: sacred knowledge, valour in arms, austerities, instructing a pupil, offerings, inheritance
+- **Passion**: lending money at interest, tillage, commerce, artistic performances, servile attendance, favors
+- **Ignorance**: bribes, gambling, bearing a message, through one afflicted with pain, forgery, robbery, fraud
+
+#VedicThreefoldAlgorithm = #Intelligence #FiveElements #ThoughtWordDeed #DivineDemonicScale #ThreefoldAusterity #ThreefoldCharity #ThreefoldAction #ThreefoldAgent #ThreefoldDuty #ThreefoldIntellect #ThreefoldResolve #ThreefoldFood #ThreefoldPleasure #ThreefoldConvergence #ThreefoldActivity #ThreefoldListening #ThreefoldConcern #ThreefoldWealth
 
 ---
 
@@ -153,8 +158,8 @@ a: That king in whose town lives no thief, no adulterer, no defamer, no man guil
 ---
 
 ## License
-**version**: 1.1  
-**date**: Mar 23, 2024  
+**version**: 1.2   
+**date**: Mar 24, 2024  
 **author**: Quinn Michaels  
 **url**: https://vedicthreefoldalgorithm.com  
 **copyright**: (c)2024 Quinn Michaels; All rights reserved.  
