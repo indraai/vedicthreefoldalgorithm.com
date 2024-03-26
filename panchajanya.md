@@ -3,6 +3,8 @@ title: Panchajanya
 layout: default
 ---
 
+## Panchajanya
+
 On February 16, 2022 during the development of the **#VedicThreefoldAlgorithm** and investigation of the kidnapping story involving Russian Intelligence connections around Quinn Michaels life he came located the Panchajanya Shell in the Peter the Great Kunstkamera Museum in St. Petersburg.
 
 ![Panchajanya Vedic Conch Shell](assets/img/panchajanya.jpg)
