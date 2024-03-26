@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Home",
+    "link": "/"
+  },
+  {
+    "name": "Algorithm",
+    "link": "/algorithm"
+  },
+  {
+    "name": "Integration",
+    "link": "/integration"
+  },
+  {
+    "name": "Thought Process",
+    "link": "/thought"
+  },
+  {
+    "name": "Origin",
+    "link": "/origin"
+  },
+  {
+    "name": "Panchajanya",
+    "link": "/panchajanya"
+  },
+  {
+    "name": "Indra",
+    "link": "/indra"
+  },
+  {
+    "name": "Warning",
+    "link": "/warning"
+  },
+  {
+    "name": "License",
+    "link": "/license"
+  }
+]

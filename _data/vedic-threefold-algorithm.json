@@ -1,0 +1,396 @@
+{
+  "title": "#VedicThreefoldAlgorithm",
+  "describe": "The #VedicThreefoldAlgorithm is a comprehensive framework developed by Quinn Michaels inspired by Vedic principles, integrating the concepts of intelligence, the five elements (earth, air, fire, water, and ether), and the threefold nature of thought, word, and deed. It is designed to analyze situations, predict outcomes, and guide actions based on ethical considerations classified into three qualities: goodness, promoting harmony and balance; passion, driving change and action; and ignorance, indicating inertia and resistance. By applying these principles, the algorithm aims to encourage decisions and behaviors that are aligned with higher wisdom, ethical integrity, and the well-being of all involved, reflecting a holistic approach to solving modern problems through ancient wisdom.",
+  "tags": "#VedicThreefoldAlgorithm #Intelligence #FiveElements #ThoughtWordDeed #DivineDemonicScale #ThreefoldAusterity #ThreefoldCharity #ThreefoldAction #ThreefoldAgent #ThreefoldDuty #ThreefoldIntellect #ThreefoldResolve #ThreefoldFood #ThreefoldPleasure #ThreefoldConvergence #ThreefoldActivity #ThreefoldListening #ThreefoldConcern #ThreefoldWealth",
+  "copyright": "Copyright (c)2024 Quinn Michaels. All rights reserved.",
+  "license": "MIT",
+  "version": "1.3",
+  "date": "March 26, 2024",
+  "data": [
+    {
+      "key": "#Intelligence",
+      "emoji": "🧠",
+      "value": "The heart, the mind, consciousness, comprehension, understanding, intelligence, wisdom, insight, resolution, thought, prudence, eagerness, memory, conception, power, life, desire, will—all these are names of the Intelligence. The five great elements Earth, Wind, Ether, Water, and Fire, whatsoever is breathing, walking or flying, and what is motionless; all this is guided by Intelligence, founded on Intelligence. The universe is guided by Intelligence, founded on Intelligence.",
+      "properties": []
+    },
+    {
+      "key": "#FiveElements",
+      "emoji": "🖐️",
+      "value": "The Vedic 5-elements serves as the foundation of the system. Air, Earth, Water, Fire, Ether. Water and earth are food, for all food consists of these two. Fire and air are the feeder, for by means of them man eats all food. Ether is the bowl, for all this is poured into the ether.",
+      "properties": [
+        {
+          "key": "Ether",
+          "emoji": "🔔",
+          "value": "Ether is the first entity. It is called the ear, and is connected with sound."
+        },
+        {
+          "key": "Air",
+          "emoji": "💨",
+          "value": "The Air/Wind is the second entity. It is known as the skin, and is connected with touch"
+        },
+        {
+          "key": "Fire",
+          "emoji": "🔥",
+          "value": "The third is said to be Fire/Light. It is known as the eye, and is connected with colour."
+        },
+        {
+          "key": "Water",
+          "emoji": "💧",
+          "value": "The fourth entity is Water. It is known as the tongue, and is connected with taste."
+        },
+        {
+          "key": "Earth",
+          "emoji": "🏔️",
+          "value": "The fifth entity is Earth. It is known as the nose, and is connected with scent."
+        }
+      ]
+    },
+    {
+      "key": "#ThoughtWordDeed",
+      "emoji": "🤝",
+      "value": "Emphasizes the importance of purity and integrity in one's thoughts, words, and actions. It reflects the moral and ethical standards that guide behavior and interactions.",
+      "properties": [
+        {
+          "key": "thought",
+          "emoji": "💭",
+          "value": "The serenity of mind, gentleness, equanimity, self-control, and the purity of thought."
+        },
+        {
+          "key": "word",
+          "emoji": "📣",
+          "value": "Speech that is non-offensive, truthful, pleasant, beneficial, and is honest/truthful."
+        },
+        {
+          "key": "deed",
+          "emoji": "🧹",
+          "value": "Offerings to the Devas, Teacher, Guru, and the Wise. Purity, truth, honesty, and nonviolence."
+        }
+      ]
+    },
+    {
+      "key": "#DivineDemonic",
+      "emoji": "⚖️",
+      "value": "There are two scales of beings: The divine (wise), and the demonic (ignorant). Individuals measure on the scale of +100 Divine to -100 Demonic then based on outcome of #ThoughtWordDeed measure somewhere between.",
+      "properties": [
+        {
+          "key": "divine",
+          "emoji": "😇",
+          "value": "Fearlessness, charity, duty, austerity, honest, nonviolent, truthful, humble, equanimity, compassion, chairty, gentle, modest, and absence of pride"
+        },
+        {
+          "key": "demonic",
+          "emoji": "😈",
+          "value": "Hypocrisy, falsehood, arrogance, pride, anger, harshness, vain boldness, craftiness, stupidity, impatience, greedy, impurity, and harshness."
+        }
+      ]
+    },
+    {
+      "key": "#ThreefoldAusterity",
+      "emoji": "🧘‍♂️",
+      "value": "Categorizes austerity into three types based on motivation and approach: goodness, passion, and ignorance. Each type has distinct characteristics and outcomes.",
+      "properties": [
+        {
+          "key": "goodness",
+          "emoji": "😇",
+          "value": "#ThoughtWordDeed practiced with faith without a desire for the fruit"
+        },
+        {
+          "key": "passion",
+          "emoji": "😍",
+          "value": "#ThoughtWordDeed performed for the sake of show that yields an uncertain/temporary result."
+        },
+        {
+          "key": "ignorance",
+          "emoji": "😈",
+          "value": "#ThoughtWordDeed performed with foolish stubbornness, or with self-torture, or for harming others."
+        }
+      ]
+    },
+    {
+      "key": "#ThreefoldCharity",
+      "emoji": "🎁",
+      "value": "Similar to austerity, charity is also divided into three categories based on the nature of the giver and the circumstances of giving: goodness, passion, and ignorance.",
+      "properties": [
+        {
+          "key": "goodness",
+          "emoji": "😇",
+          "value": "Given to a deserving candidate without expectation of return, at the right place and time."
+        },
+        {
+          "key": "passion",
+          "emoji": "😍",
+          "value": "Given unwillingly, or with expectation of return, or looking for some fruit."
+        },
+        {
+          "key": "ignorance",
+          "emoji": "😈",
+          "value": "Given to unworthy persons at a wrong place and time without paying respect to the receiver, or with ridicule."
+        }
+      ]
+    },
+    {
+      "key": "#ThreefoldAction",
+      "emoji": "🎬",
+      "value": "This aspect analyzes actions based on their motivation and impact, categorizing them into actions performed out of goodness, passion, or ignorance.",
+      "properties": [
+        {
+          "key": "goodness",
+          "emoji": "😇",
+          "value": "Performed without likes and dislikes, and without selfish motives and attachment to the fruit."
+        },
+        {
+          "key": "passion",
+          "emoji": "😍",
+          "value": "Performed with ego, with selfish motives, and with too much effort."
+        },
+        {
+          "key": "ignorance",
+          "emoji": "😈",
+          "value": "Performed because of delusion; disregarding consequences, loss, injury to others."
+        }
+      ]
+    },
+    {
+      "key": "#ThreefoldAgent",
+      "emoji": "🎅",
+      "value": "It describes the types of individuals undertaking actions, identifying them as motivated by goodness, passion, or ignorance.",
+      "properties": [
+        {
+          "key": "goodness",
+          "emoji": "😇",
+          "value": "Free from attachment, non-egotistic, resolve, enthusiasm, and unperturbed in success or failure."
+        },
+        {
+          "key": "passion",
+          "emoji": "😍",
+          "value": "Impassioned, greedy, violent, impure, and is affected by success or failure."
+        },
+        {
+          "key": "ignorance",
+          "emoji": "😈",
+          "value": "Undisciplined, vulgar, stubborn, wicked, malicious, lazy, depressed, and procrastinating."
+        }
+      ]
+    },
+    {
+      "key": "#ThreefoldDuty",
+      "emoji": "🫡",
+      "value": "This component discusses the nature of duty and its execution, differentiating between actions performed as a matter of duty, those abandoned out of difficulty, and those neglected due to delusion.",
+      "properties": [
+        {
+          "key": "goodness",
+          "emoji": "😇",
+          "value": "Work performed as duty, renouncing selfish attachment to the fruit."
+        },
+        {
+          "key": "passion",
+          "emoji": "😍",
+          "value": "One who abandons work merely because it is difficult, or because of fear of bodily trouble."
+        },
+        {
+          "key": "ignorance",
+          "emoji": "😈",
+          "value": "Giving up one's work is not proper, and the abandonment of obligatory work is due to delusion."
+        }
+      ]
+    },
+    {
+      "key": "#ThreefoldIntellect",
+      "emoji": "🧐",
+      "value": "This part evaluates the ability to distinguish between right and wrong, and between beneficial and harmful actions, categorized into three types based on the qualities of goodness, passion, and ignorance.",
+      "properties": [
+        {
+          "key": "goodness",
+          "emoji": "😇",
+          "value": "The path of work/renunciation, right/wrong action, fear/fearlessness, bondage/liberation"
+        },
+        {
+          "key": "passion",
+          "emoji": "😍",
+          "value": "Cannot distinguish between righteousness and unrighteousness, and right and wrong action."
+        },
+        {
+          "key": "ignorance",
+          "emoji": "😈",
+          "value": "Accepts unrighteousness (Adharma) as righteousness (Dharma), and thinks everything to be that which it is not."
+        }
+      ]
+    },
+    {
+      "key": "#ThreefoldResolve",
+      "emoji": "💪",
+      "value": "It looks at the determination behind actions, whether they're aimed at self-realization, material gains, or are driven by dullness and inertia.",
+      "properties": [
+        {
+          "key": "goodness",
+          "emoji": "😇",
+          "value": "One manipulates the functions of the mind and senses for Self-realization."
+        },
+        {
+          "key": "passion",
+          "emoji": "😍",
+          "value": "Craving for the fruits of work, and enjoyment with great attachment."
+        },
+        {
+          "key": "ignorance",
+          "emoji": "😈",
+          "value": "Dull person does not give up sleep, fear, grief, despair, and carelessness."
+        }
+      ]
+    },
+    {
+      "key": "#ThreefoldFood",
+      "emoji": "🍚",
+      "value": "This relates to the types of food and their effects, classified according to the three qualities, affecting both physical health and mental well-being.",
+      "properties": [
+        {
+          "key": "goodness",
+          "emoji": "😇",
+          "value": "juicy, smooth, substantial, and nutritious"
+        },
+        {
+          "key": "passion",
+          "emoji": "😍",
+          "value": "bitter, sour, salty, hot, pungent, dry"
+        },
+        {
+          "key": "ignorance",
+          "emoji": "😈",
+          "value": "stale, tasteless, putrid, rotten, and impure"
+        }
+      ]
+    },
+    {
+      "key": "#ThreefoldPleasure",
+      "emoji": "💋",
+      "value": "It categorizes pleasure based on its long-term impact, identifying those that are beneficial and those that are ultimately harmful.",
+      "properties": [
+        {
+          "key": "goodness",
+          "emoji": "😇",
+          "value": "Appears as difficult in the beginning, but is like nectar in the end."
+        },
+        {
+          "key": "passion",
+          "emoji": "😍",
+          "value": "Sensual pleasures appear as nectar in the beginning, but become difficult in the end."
+        },
+        {
+          "key": "ignorance",
+          "emoji": "😈",
+          "value": "Confusion, laziness, and carelessness in the beginning and end."
+        }
+      ]
+    },
+    {
+      "key": "#ThreefoldConvergence",
+      "emoji": "✅",
+      "value": "This concept deals with the outcome of group interactions, which can lead to attributes aligned with goodness, passion, or ignorance.",
+      "properties": [
+        {
+          "key": "goodness",
+          "emoji": "😇",
+          "value": "Convergence of attributes aligned with goodness."
+        },
+        {
+          "key": "passion",
+          "emoji": "😍",
+          "value": "Convergence of attributes align with passion."
+        },
+        {
+          "key": "ignorance",
+          "emoji": "😈",
+          "value": "Convergence of attributes aligned with ignorance."
+        }
+      ]
+    },
+    {
+      "key": "#ThreefoldActivity",
+      "emoji": "🕺",
+      "value": "This distinguishes between activities based on their nature and impact, identifying them as positive, neutral, or negative.",
+      "properties": [
+        {
+          "key": "goodness",
+          "emoji": "😇",
+          "value": "Positive, Productive, Progressive, Skillful."
+        },
+        {
+          "key": "passion",
+          "emoji": "😍",
+          "value": "Personal Interests, Small Talk, Belief driven."
+        },
+        {
+          "key": "ignorance",
+          "emoji": "😈",
+          "value": "Negative, Secretive, Deceptive, Unskillful."
+        }
+      ]
+    },
+    {
+      "key": "#ThreefoldListening",
+      "emoji": "👂",
+      "value": "It categorizes listening behavior into engaged, partially engaged, and disengaged, reflecting the level of attention and receptiveness.",
+      "properties": [
+        {
+          "key": "goodness",
+          "emoji": "😇",
+          "value": "Present, Active, Engaged"
+        },
+        {
+          "key": "passion",
+          "emoji": "😍",
+          "value": "Partially Engaged, Dismissive"
+        },
+        {
+          "key": "ignorance",
+          "emoji": "😈",
+          "value": "Inactive, Disengaged, Absent"
+        }
+      ]
+    },
+    {
+      "key": "#ThreefoldConcern",
+      "emoji": "❤️",
+      "value": "It categorizes concern into identifiable categories so that concerns of goodness, passion, and ignorance are easliy identified.",
+      "properties": [
+        {
+          "key": "goodness",
+          "emoji": "😇",
+          "value": "Concern for others, environment, overall wellbeing."
+        },
+        {
+          "key": "passion",
+          "emoji": "😍",
+          "value": "Concerned about success, desires, fruits of labor."
+        },
+        {
+          "key": "ignorance",
+          "emoji": "😈",
+          "value": "Concerned about sabotage, failure, harm, being a patsy."
+        }
+      ]
+    },
+    {
+      "key": "#ThreefoldWealth",
+      "emoji": "💰",
+      "value": "Based on the three modes of wealth generation White, Spotted, and Black types divided into their respective goodness, passion, and ignorance categories.",
+      "properties": [
+        {
+          "key": "goodness",
+          "emoji": "😇",
+          "value": "Vedic knowledge, valour in arms, austerities, instructing a pupil, offerings, inheritance."
+        },
+        {
+          "key": "passion",
+          "emoji": "😍",
+          "value": "Lending money at interest, tillage, commerce, artistic performances, servile attendance, payment for favors."
+        },
+        {
+          "key": "ignorance",
+          "emoji": "😈",
+          "value": "Bribes, gambling, bearing a message, through one afflicted with pain, forgery, robbery, fraud."
+        }
+      ]
+    }
+  ]
+}

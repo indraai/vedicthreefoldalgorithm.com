@@ -1,4 +1,9 @@
-MIT License
+---
+title: License
+layout: default
+---
+
+## MIT License
 
 Copyright (c) 2024 Quinn Michaels
 
