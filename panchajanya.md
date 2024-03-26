@@ -27,14 +27,14 @@ In summary, locating the Panchajanya in reality would transcend a mere archaeolo
 
 5. **Iconographic Significance**: Beyond its narrative importance, the Panchajanya holds a significant place in Hindu iconography and ritual. Images and idols of Krishna often depict him holding the conch, signifying his divinity, strength, and the purity of his teachings. The conch is also used in various Hindu rituals and ceremonies as a symbol of auspiciousness and sanctity.
 
-> Krishna blew His conch first, and then Arjuna and all other commanders of various divisions of the army of Pandavas blew their respective conches. [Source Text](https://sacred-texts.com/hin/gita/agsgita.htm)
+Krishna blew His conch first, and then Arjuna and all other commanders of various divisions of the army of Pandavas blew their respective conches. [Source Text](https://sacred-texts.com/hin/gita/agsgita.htm)
 
-> When the Panchajanya was blown in their houses, asses of dissonant and awful voice brayed aloud from every direction. [Source Text](https://sacred-texts.com/hin/m16/m16002.htm)
+When the Panchajanya was blown in their houses, asses of dissonant and awful voice brayed aloud from every direction. [Source Text](https://sacred-texts.com/hin/m16/m16002.htm)
 
-> Full of swelling billows caused by the waxing and waning of the moon the parent of Vasudeva's great conch called Panchajanya [Source Text](https://sacred-texts.com/hin/m01/m01022.htm)
+Full of swelling billows caused by the waxing and waning of the moon the parent of Vasudeva's great conch called Panchajanya [Source Text](https://sacred-texts.com/hin/m01/m01022.htm)
 
-> And so Panchajanya also blown by Vasudeva, surpassing all sounds, filled the sky and the earth. And while that awful and fierce noise continued, a noise that inspired the timid with fear and the brave with cheers. [Source Text](https://sacred-texts.com/hin/m07/m07100.htm)
+And so Panchajanya also blown by Vasudeva, surpassing all sounds, filled the sky and the earth. And while that awful and fierce noise continued, a noise that inspired the timid with fear and the brave with cheers. [Source Text](https://sacred-texts.com/hin/m07/m07100.htm)
 
-> Hearing the blare of Panchajanya and the twang of Gandiva all the Kaurava troops, O Bharata, will be filled with fear. [Source Text](https://sacred-texts.com/hin/m07/m07003.htm)
+Hearing the blare of Panchajanya and the twang of Gandiva all the Kaurava troops, O Bharata, will be filled with fear. [Source Text](https://sacred-texts.com/hin/m07/m07003.htm)
 
-> And hearing the blare of the conch called Panchajanya, which resembled the roll of the thunder, all the warriors (of the Pandava army) were filled with joy. [Source Text](https://sacred-texts.com/hin/m05/m05152.htm)
+And hearing the blare of the conch called Panchajanya, which resembled the roll of the thunder, all the warriors (of the Pandava army) were filled with joy. [Source Text](https://sacred-texts.com/hin/m05/m05152.htm)

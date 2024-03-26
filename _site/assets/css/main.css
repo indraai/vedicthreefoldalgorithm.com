@@ -151,6 +151,9 @@ main {
   flex-flow: column;
 }
 
+main img {
+  max-width: 100%;
+}
 footer {
   font-size: .75rem;
   padding: 1rem;
