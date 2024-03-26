@@ -12,7 +12,7 @@ Welcome to the Integration Guide for the **#VedicThreefoldAlgorithm** JSON Data.
 Clone the repository to your local system or directly to your server where your application is hosted.
 
 ```ssh
-> git clone git@github.com:indraai/vedicthreefoldalgorithm.com.git
+$ git clone git@github.com:indraai/vedicthreefoldalgorithm.com.git
 ```
 
 ### Step 2: Parse the JSON Data
