@@ -6,10 +6,6 @@ hero: instructions
 
 # Instructions
 
-<audio src="https://indra.team/audio/indra/instructions.mp3" controls style="width:100%;height:25px"></audio>
-
-> [🎧 Download Instructions MP3](https://indra.team/audio/indra/instructions.mp3)
-
 **#TOPIC** = The topic of the conversation is the **#VedicThreefoldAlgorithm**
 
 ## SUMMARY
@@ -137,3 +133,9 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and license notice shall be included in all copies or substantial portions of the *PROGRAM*.
 
 THE *PROGRAM* IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE *PROGRAM* OR THE USE OR OTHER DEALINGS IN THE PROGRAM.
+
+
+
+<audio src="https://indra.team/audio/indra/instructions.mp3" controls style="width:100%;height:25px"></audio>
+
+[🎧 Download Instructions MP3](https://indra.team/audio/indra/instructions.mp3)
