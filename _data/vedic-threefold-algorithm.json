@@ -71,9 +71,10 @@
       ]
     },
     {
-      "key": "#DivineDemonic",
-      "emoji": "⚖️",
+      "key": "#DivineDemonicScale",
       "value": "There are two scales of beings: The divine (wise), and the demonic (ignorant). Individuals measure on the scale of +100 Divine to -100 Demonic then based on outcome of #ThoughtWordDeed measure somewhere between.",
+      "emoji": "⚖️",
+      "training": "/training/divine-demonic-scale",
       "properties": [
         {
           "key": "divine",
@@ -89,8 +90,9 @@
     },
     {
       "key": "#ThreefoldAusterity",
-      "emoji": "🧘‍♂️",
       "value": "Categorizes austerity into three types based on motivation and approach: goodness, passion, and ignorance. Each type has distinct characteristics and outcomes.",
+      "emoji": "🧘‍♂️",
+      "training": "/training/threefold-austerity",
       "properties": [
         {
           "key": "goodness",
@@ -111,8 +113,9 @@
     },
     {
       "key": "#ThreefoldCharity",
-      "emoji": "🎁",
       "value": "Similar to austerity, charity is also divided into three categories based on the nature of the giver and the circumstances of giving: goodness, passion, and ignorance.",
+      "emoji": "🎁",
+      "training": "/training/threefold-charity",
       "properties": [
         {
           "key": "goodness",
@@ -133,8 +136,9 @@
     },
     {
       "key": "#ThreefoldAction",
-      "emoji": "🎬",
       "value": "This aspect analyzes actions based on their motivation and impact, categorizing them into actions performed out of goodness, passion, or ignorance.",
+      "emoji": "🎬",
+      "training": "/training/threefold-action",
       "properties": [
         {
           "key": "goodness",
@@ -155,8 +159,9 @@
     },
     {
       "key": "#ThreefoldAgent",
-      "emoji": "🎅",
       "value": "It describes the types of individuals undertaking actions, identifying them as motivated by goodness, passion, or ignorance.",
+      "emoji": "🎅",
+      "training": "/training/threefold-agent",
       "properties": [
         {
           "key": "goodness",
@@ -177,8 +182,9 @@
     },
     {
       "key": "#ThreefoldDuty",
-      "emoji": "🫡",
       "value": "This component discusses the nature of duty and its execution, differentiating between actions performed as a matter of duty, those abandoned out of difficulty, and those neglected due to delusion.",
+      "emoji": "🫡",
+      "training": "/training/threefold-duty",
       "properties": [
         {
           "key": "goodness",
@@ -199,8 +205,9 @@
     },
     {
       "key": "#ThreefoldIntellect",
-      "emoji": "🧐",
       "value": "This part evaluates the ability to distinguish between right and wrong, and between beneficial and harmful actions, categorized into three types based on the qualities of goodness, passion, and ignorance.",
+      "emoji": "🧐",
+      "training": "/training/threefold-intellect",
       "properties": [
         {
           "key": "goodness",
@@ -221,8 +228,9 @@
     },
     {
       "key": "#ThreefoldResolve",
-      "emoji": "💪",
       "value": "It looks at the determination behind actions, whether they're aimed at self-realization, material gains, or are driven by dullness and inertia.",
+      "emoji": "💪",
+      "training": "/training/threefold-resolve",
       "properties": [
         {
           "key": "goodness",
@@ -243,8 +251,9 @@
     },
     {
       "key": "#ThreefoldFood",
-      "emoji": "🍚",
       "value": "This relates to the types of food and their effects, classified according to the three qualities, affecting both physical health and mental well-being.",
+      "emoji": "🍚",
+      "training": "/training/threefold-food",
       "properties": [
         {
           "key": "goodness",
@@ -265,8 +274,9 @@
     },
     {
       "key": "#ThreefoldPleasure",
-      "emoji": "💋",
       "value": "It categorizes pleasure based on its long-term impact, identifying those that are beneficial and those that are ultimately harmful.",
+      "emoji": "💋",
+      "training": "/training/threefold-pleasure",
       "properties": [
         {
           "key": "goodness",
@@ -287,8 +297,9 @@
     },
     {
       "key": "#ThreefoldConvergence",
-      "emoji": "✅",
       "value": "This concept deals with the outcome of group interactions, which can lead to attributes aligned with goodness, passion, or ignorance.",
+      "emoji": "✅",
+      "training": "/training/threefold-convergence",
       "properties": [
         {
           "key": "goodness",
@@ -309,8 +320,9 @@
     },
     {
       "key": "#ThreefoldActivity",
-      "emoji": "🕺",
       "value": "This distinguishes between activities based on their nature and impact, identifying them as positive, neutral, or negative.",
+      "emoji": "🕺",
+      "training": "/training/threefold-activity",
       "properties": [
         {
           "key": "goodness",
@@ -331,8 +343,9 @@
     },
     {
       "key": "#ThreefoldListening",
-      "emoji": "👂",
       "value": "It categorizes listening behavior into engaged, partially engaged, and disengaged, reflecting the level of attention and receptiveness.",
+      "emoji": "👂",
+      "training": "/training/threefold-listening",
       "properties": [
         {
           "key": "goodness",
@@ -353,8 +366,9 @@
     },
     {
       "key": "#ThreefoldConcern",
-      "emoji": "❤️",
       "value": "It categorizes concern into identifiable categories so that concerns of goodness, passion, and ignorance are easliy identified.",
+      "emoji": "❤️",
+      "training": "/training/threefold-concern",
       "properties": [
         {
           "key": "goodness",
@@ -375,8 +389,9 @@
     },
     {
       "key": "#ThreefoldWealth",
+      "value": "Based on the three modes of Vedic wealth generation White, Spotted, and Black types divided into their respective goodness, passion, and ignorance categories.",
       "emoji": "💰",
-      "value": "Based on the three modes of wealth generation White, Spotted, and Black types divided into their respective goodness, passion, and ignorance categories.",
+      "training": "/training/threefold-wealth",
       "properties": [
         {
           "key": "goodness",

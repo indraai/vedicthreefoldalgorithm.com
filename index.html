@@ -19,9 +19,12 @@ copyright: (c)2024 Quinn Michaels. All rights reserved.
     <meta name="copyright" content="{{ page.copyright }}">
 
 
-    <meta name="twitter:card" content="summary">
+    <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@indradotai">
     <meta name="twitter:creator" content="@quinnmichaels">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.describe }}">
+    <meta name="twitter:image" content="{{ page.image }}">
 
     <meta property="og:site_name" content="{{ page.name }}">
     <meta property="og:title" content="{{ page.title }}">
@@ -48,6 +51,8 @@ copyright: (c)2024 Quinn Michaels. All rights reserved.
     {% include nav.html %}
 
     <main>
+
+<a href="https://twitter.com/intent/tweet?button_hashtag=VedicThreefoldAlgorithm&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-url="https://vedicthreefoldalgorithm.com" data-related="quinnmichaels,indradotai" data-show-count="false">Tweet #quinnmichaels</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
       <p>{{ site.data.vedic-threefold-algorithm.describe}}</p>
 
