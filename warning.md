@@ -1,6 +1,7 @@
 ---
 title: Warning
 layout: default
+hero: header
 ---
 
 ## Warning

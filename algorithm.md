@@ -1,6 +1,7 @@
 ---
 title: Algorithm
 layout: default
+hero: header
 ---
 
 ## Algorithm

@@ -100,8 +100,7 @@ header {
   justify-content: center;
 }
 
-header .hero-header {
-  background-image: url(/assets/img/hero-unit.png);
+header .hero-unit {
   background-position: center center;
   background-size: cover;
   background-repeat: no-repeat;
@@ -109,26 +108,86 @@ header .hero-header {
   flex: 1;
   padding: 3rem;
 }
-header .hero-header h1,
-header .hero-header p {
+header .hero-unit h1,
+header .hero-unit p {
   color: #ffffff;
   text-shadow: 0 3px 9px rgba(0,0,.5);
 }
 
-header .hero-header h1 {
+header .hero-unit h1 {
   line-height: .8;
   padding: 0;
   margin: 0;
   font-size: 4rem;
   font-weight: 500;
 }
-header .hero-header p {
+header .hero-unit p {
   font-size: .9rem;
   line-height: 1;
   padding: 1rem;
   margin: 0;
 }
 
+header .hero-header {
+  background-image: url(/assets/img/hero-unit.png);
+}
+header .hero-instructions {
+  background-image: url(/assets/img/ins-indu-indra.png);
+}
+header .hero-intelligence {
+  background-image: url(/assets/img/ins-intelligence.png);
+}
+header .hero-five-elements {
+  background-image: url(/assets/img/ins-five-elements.png);
+}
+header .hero-thought-word-deed {
+  background-image: url(/assets/img/ins-thought-word-deed.png);
+}
+header .hero-divine-demonic-scale {
+  background-image: url(/assets/img/ins-divine-demonic-scale.png);
+}
+header .hero-threefold-austerity {
+  background-image: url(/assets/img/ins-threefold-austerity.png);
+}
+header .hero-threefold-charity {
+  background-image: url(/assets/img/ins-threefold-charity.png);
+}
+header .hero-threefold-action {
+  background-image: url(/assets/img/ins-threefold-action.png);
+}
+header .hero-threefold-agent {
+  background-image: url(/assets/img/ins-threefold-agent.png);
+}
+header .hero-threefold-duty {
+  background-image: url(/assets/img/ins-threefold-duty.png);
+}
+header .hero-threefold-intellect {
+  background-image: url(/assets/img/ins-threefold-intellect.png);
+}
+header .hero-threefold-resolve {
+  background-image: url(/assets/img/ins-threefold-resolve.png);
+}
+header .hero-threefold-food {
+  background-image: url(/assets/img/ins-threefold-food.png);
+}
+header .hero-threefold-pleasure {
+  background-image: url(/assets/img/ins-threefold-pleasure.png);
+}
+header .hero-threefold-convergence {
+  background-image: url(/assets/img/ins-threefold-convergence.png);
+}
+header .hero-threefold-activity {
+  background-image: url(/assets/img/ins-threefold-activity.png);
+}
+header .hero-threefold-listening {
+  background-image: url(/assets/img/ins-threefold-listening.png);
+}
+header .hero-threefold-concern {
+  background-image: url(/assets/img/ins-threefold-concern.png);
+}
+header .hero-threefold-wealth {
+  background-image: url(/assets/img/ins-threefold-wealth.png);
+}
 menu {
   display: flex;
   padding: 1rem;

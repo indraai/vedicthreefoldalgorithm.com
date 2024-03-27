@@ -1,6 +1,7 @@
 ---
 title: Integration
 layout: default
+hero: header
 ---
 
 ## Integration

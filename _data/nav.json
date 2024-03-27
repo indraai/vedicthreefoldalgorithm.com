@@ -12,20 +12,16 @@
     "link": "/integration"
   },
   {
-    "name": "Thought Process",
-    "link": "/thought"
+    "name": "Instructions",
+    "link": "/instructions"
+  },
+  {
+    "name": "Training",
+    "link": "/training"
   },
   {
     "name": "Origin",
     "link": "/origin"
-  },
-  {
-    "name": "Panchajanya",
-    "link": "/panchajanya"
-  },
-  {
-    "name": "Indra",
-    "link": "/indra"
   },
   {
     "name": "Warning",

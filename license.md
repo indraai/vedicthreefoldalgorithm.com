@@ -1,6 +1,7 @@
 ---
 title: License
 layout: default
+hero: header
 ---
 
 ## MIT License

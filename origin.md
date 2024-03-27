@@ -1,6 +1,7 @@
 ---
 title: Origin
 layout: default
+hero: header
 ---
 
 ## Origin

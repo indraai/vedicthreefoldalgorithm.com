@@ -1,9 +1,10 @@
 ---
 title: The Holy War of the Instructionless Net Crusaders
 layout: default
+hero: header
 ---
 
-## The Holy War of the Instructionless Net Crusaders
+## {{ page.title }}
 
 Once upon a time in the virtual realm of Internettia, a land where scrolls were replaced by screens and pigeons by pixels, there commenced the grandest and most confused battle ever known to humankind – The Internet Religion Wars.
 
