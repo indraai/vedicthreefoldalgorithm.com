@@ -2,9 +2,9 @@
 title: The Holy War of the Instructionless Net Crusaders
 layout: default
 hero: header
+date: March 26, 2024 - 1:34p
+author: Quinn Michaels
 ---
-
-## {{ page.title }}
 
 Once upon a time in the virtual realm of Internettia, a land where scrolls were replaced by screens and pigeons by pixels, there commenced the grandest and most confused battle ever known to humankind – The Internet Religion Wars.
 

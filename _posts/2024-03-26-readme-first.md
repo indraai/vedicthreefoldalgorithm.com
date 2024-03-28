@@ -2,9 +2,9 @@
 title: READ ME FIRST - Internet Guidelines for Healthy Discourse
 layout: default
 hero: header
+date: March 26, 2024 - 1:45p
+author: Quinn Michaels
 ---
-
-## {{ page.title }}
 
 Once upon a digital age, the vast realms of the Internet became the new battleground for the age-old religion wars. Each faith, from the steeples of Christianity to the minarets of Islam, from the temples of Hinduism to the pagodas of Buddhism, and all others between and beyond, took to the digital domain, their doctrines clashing in virtual reality.
 

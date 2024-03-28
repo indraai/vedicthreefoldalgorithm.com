@@ -1,0 +1,14 @@
+{% for post in site.posts %}
+  <section class="post">
+    <h3><a href="{{ post.url }}">{{post.title}}</a></h3>
+    <dl>
+      <dt>author</dt>
+      <dd>{{post.author}}</dd>
+      <dt>date</dt>
+      <dd>{{post.date | date: "%B %d, %Y - %r"}}</dd>
+    </dl>
+    <article class="excerpt">
+      {{post.excerpt}}
+    </article>
+  </section>
+{% endfor %}

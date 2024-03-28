@@ -1,0 +1,26 @@
+{
+  "name": "vedicthreefoldalgorithm.com",
+  "version": "1.0.0",
+  "description": "The package for the Vedic Threefold Algorithm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/indraai/vedicthreefoldalgorithm.com.git"
+  },
+  "keywords": [
+    "Indra",
+    "Vedic",
+    "Threefold",
+    "Algorithm",
+    "VedicThreefoldAlgorithm"
+  ],
+  "author": "Quinn Michaels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/indraai/vedicthreefoldalgorithm.com/issues"
+  },
+  "homepage": "https://github.com/indraai/vedicthreefoldalgorithm.com#readme"
+}
