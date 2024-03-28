@@ -20,15 +20,17 @@ class VedicThreefoldAlgorithm {
 
     console.log('DATA IMAGE', _data.image);
     $('.widget .content').attr('style', `--widget-content-bg: url('${_data.image}')`);
-    $('.widget .content h1').html(`${_data.emoji} ${_data.key}`);
+    $('.widget .content h1 span').html(`${_data.emoji} ${_data.key}`);
     $('.widget .content p').html(_data.value);
 
     if (_data.properties) {
       for (const x of _data.properties) {
         const item = [
+          `<article class="${x.key}">`,
           `<h2>${x.emoji} ${x.key}</h2>`,
           `<p>${x.value}</p>`,
-        ].join('\n');
+          `</article>`,
+        ].join('');
         items.push(item);
       }
       $('.widget .content .properties').html(items);

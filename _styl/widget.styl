@@ -6,41 +6,80 @@
   border-radius: .5rem
   height: 30rem
   .panel
-    flex: 0 30%
     overflow: auto
-    max-width: 30%
+    width: 200px
+    min-width: 200px
+    max-width: 200px
     ul
       list-style: none
       margin: 0
-      padding: 0 .5rem 0 0
-
+      padding: 0
+      display: flex
+      flex-flow: column nowrap
+      height: 100%
       li
+        flex: 1 auto
         display: flex
         button
-          font-size: .8rem
+          font-size: .75rem
           display: block
           flex: 1
           text-align: left
           font-weight: 100
+          border-radius: 0
+          margin: 0
+          padding: .4rem
 
   .content
-    flex: 0 70%
-    padding: 0 1rem
+    padding: 0
     overflow: auto
     h1
       text-align: center
       font-size: 2.25rem
       margin: 0
-      padding: 6rem 0
+      padding: 5rem 0
       background-image: var(--widget-content-bg)
+      color: $colors.white
+      text-shadow: 0 2px 5px rgba($colors.black, .5)
       background-position: center center
       background-size: cover
+
+      span
+        display: inline-block
+        background-color: rgba($colors.black, .75)
+        padding: 1rem 1.5rem
+        border-radius: 3rem
     p
-      margin: 0 0 1.5rem 0
-      font-size: 1.1rem
+      margin: 1rem
+      font-size: 1rem
 
     .properties
-      h2
-        font-size: 1.25rem
-        font-weight: bold
-        text-transform: capitalize
+      display: flex
+      flex-flow: row wrap
+      gap: .5rem
+      justify-content: center
+
+      article
+        border-radius: .5rem
+        max-width: 12rem
+        min-width: 10rem
+        padding: .5rem
+
+        &.goodness
+          background-color: rgba($colors.blue, .25)
+        &.passion
+          background-color: rgba($colors.yellow, .25)
+        &.ignorance
+          background-color: rgba($colors.red, .25)
+
+        h2
+          font-size: 1.25rem
+          margin: 0
+          font-weight: bold
+          text-transform: capitalize
+          text-align: center
+
+        p
+          font-size: .9rem
+          margin: 0
+          padding: 0
