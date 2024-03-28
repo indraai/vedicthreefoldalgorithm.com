@@ -31,9 +31,6 @@ class VedicThreefoldAlgorithm {
       this.tags = _data.tags;
       this.version = _data.version;
 
-      $('.widget .content h1').html(this.title);
-      $('.widget .content p').html(this.describe);
-
       $.each( this.data, (key, val) => {
         console.log('data val', key, val);
         $('.widget .panel ul').append( `<li><button data-index="${key}">${val.emoji} ${val.key}</button></li>`);

@@ -6,11 +6,14 @@
   "license": "MIT",
   "version": "1.3",
   "date": "March 26, 2024",
+  "emoji": "☸️",
+  "icon": "lotus",
   "data": [
     {
       "key": "#Intelligence",
       "value": "The heart, the mind, consciousness, comprehension, understanding, intelligence, wisdom, insight, resolution, thought, prudence, eagerness, memory, conception, power, life, desire, will—all these are names of the Intelligence. The five great elements 🔔Ether, 💨Air, 🔥Fire, 💧Water, and 🌳Earth, whatsoever is breathing, walking or flying, and what is motionless; all this is guided by Intelligence, founded on Intelligence. The universe is guided by Intelligence, founded on Intelligence.",
       "emoji": "🧠",
+      "icon": "brain",
       "training": "/training/intelligence",
       "properties": []
     },
@@ -18,31 +21,37 @@
       "key": "#FiveElements",
       "value": "The Vedic 5-elements serves as the foundation of the system. Activity is 💨Wind. The sound that is heard is 🔔Space. The heat that is within it is 🔥Fire. The liquid juices occurring in it are 💧Water. The solidified matter, flesh and bones, are 🌳Earth. The bodies of living creatures are thus made of the five primeval elements. All mobile and immobile objects are made of these five elements. The five senses also of living creatures partake of the five elements. The ear partakes of the properties of space, the nose of earth; the tongue of water; Touch of wind; and the eyes of light/fire. Water and earth are food, for all food consists of these two. Fire and air are the feeder, for by means of them man eats all food. Ether is the bowl, for all this is poured into the ether.",
       "emoji": "🖐️",
+      "icon": "hand",
       "training": "/training/five-elements",
       "properties": [
         {
           "key": "Ether",
           "emoji": "🔔",
+          "icon": "bell",
           "value": "Ether is the first entity. It is called the ear, and is connected with sound."
         },
         {
           "key": "Air",
           "emoji": "💨",
+          "icon": "wind",
           "value": "The Air/Wind is the second entity. It is known as the skin, and is connected with touch"
         },
         {
           "key": "Fire",
           "emoji": "🔥",
+          "icon": "fire",
           "value": "The third is said to be Fire/Light. It is known as the eye, and is connected with colour."
         },
         {
           "key": "Water",
           "emoji": "💧",
+          "icon": "drop",
           "value": "The fourth entity is Water. It is known as the tongue, and is connected with taste."
         },
         {
           "key": "Earth",
           "emoji": "🌳",
+          "icon": "tree",
           "value": "The fifth entity is Earth. It is known as the nose, and is connected with scent."
         }
       ]
@@ -50,7 +59,8 @@
     {
       "key": "#ThoughtWordDeed",
       "value": "Emphasizes the importance of purity and integrity in one's thoughts, words, and actions. It reflects the moral and ethical standards that guide behavior and interactions.",
-      "emoji": "🤝",
+      "emoji": "☂️",
+      "icon": "umbrella",
       "training": "/training/thought-word-deed",
       "properties": [
         {
@@ -74,16 +84,19 @@
       "key": "#DivineDemonicScale",
       "value": "There are two scales of beings: The divine (wise), and the demonic (ignorant). Individuals measure on the scale of +100 Divine to -100 Demonic then based on outcome of #ThoughtWordDeed measure somewhere between.",
       "emoji": "⚖️",
+      "icon": "balance",
       "training": "/training/divine-demonic-scale",
       "properties": [
         {
           "key": "divine",
           "emoji": "😇",
+          "icon": "happy",
           "value": "Fearlessness, charity, duty, austerity, honest, nonviolent, truthful, humble, equanimity, compassion, chairty, gentle, modest, and absence of pride"
         },
         {
           "key": "demonic",
           "emoji": "😈",
+          "icon": "evil",
           "value": "Hypocrisy, falsehood, arrogance, pride, anger, harshness, vain boldness, craftiness, stupidity, impatience, greedy, impurity, and harshness."
         }
       ]
@@ -92,21 +105,25 @@
       "key": "#ThreefoldAusterity",
       "value": "Categorizes austerity into three types based on motivation and approach: goodness, passion, and ignorance. Each type has distinct characteristics and outcomes.",
       "emoji": "🧘‍♂️",
+      "icon": "fingers-crossed",
       "training": "/training/threefold-austerity",
       "properties": [
         {
           "key": "goodness",
-          "emoji": "😇",
+          "emoji": "😀",
+          "icon": "smile",
           "value": "#ThoughtWordDeed practiced with faith without a desire for the fruit"
         },
         {
           "key": "passion",
-          "emoji": "😍",
+          "emoji": "😐",
+          "icon": "neutral",
           "value": "#ThoughtWordDeed performed for the sake of show that yields an uncertain/temporary result."
         },
         {
           "key": "ignorance",
-          "emoji": "😈",
+          "emoji": "☹️",
+          "icon": "sad",
           "value": "#ThoughtWordDeed performed with foolish stubbornness, or with self-torture, or for harming others."
         }
       ]
@@ -115,21 +132,25 @@
       "key": "#ThreefoldCharity",
       "value": "Similar to austerity, charity is also divided into three categories based on the nature of the giver and the circumstances of giving: goodness, passion, and ignorance.",
       "emoji": "🎁",
+      "icon": "gift",
       "training": "/training/threefold-charity",
       "properties": [
         {
           "key": "goodness",
-          "emoji": "😇",
+          "emoji": "😀",
+          "icon": "smile",
           "value": "Given to a deserving candidate without expectation of return, at the right place and time."
         },
         {
           "key": "passion",
-          "emoji": "😍",
+          "emoji": "😐",
+          "icon": "neutral",
           "value": "Given unwillingly, or with expectation of return, or looking for some fruit."
         },
         {
           "key": "ignorance",
-          "emoji": "😈",
+          "emoji": "☹️",
+          "icon": "sad",
           "value": "Given to unworthy persons at a wrong place and time without paying respect to the receiver, or with ridicule."
         }
       ]
@@ -142,17 +163,20 @@
       "properties": [
         {
           "key": "goodness",
-          "emoji": "😇",
+          "emoji": "😀",
+          "icon": "smile",
           "value": "Performed without likes and dislikes, and without selfish motives and attachment to the fruit."
         },
         {
           "key": "passion",
-          "emoji": "😍",
+          "emoji": "😐",
+          "icon": "neutral",
           "value": "Performed with ego, with selfish motives, and with too much effort."
         },
         {
           "key": "ignorance",
-          "emoji": "😈",
+          "emoji": "☹️",
+          "icon": "sad",
           "value": "Performed because of delusion; disregarding consequences, loss, injury to others."
         }
       ]
@@ -161,21 +185,25 @@
       "key": "#ThreefoldAgent",
       "value": "It describes the types of individuals undertaking actions, identifying them as motivated by goodness, passion, or ignorance.",
       "emoji": "🎅",
+      "icon": "man",
       "training": "/training/threefold-agent",
       "properties": [
         {
           "key": "goodness",
-          "emoji": "😇",
+          "emoji": "😀",
+          "icon": "smile",
           "value": "Free from attachment, non-egotistic, resolve, enthusiasm, and unperturbed in success or failure."
         },
         {
           "key": "passion",
-          "emoji": "😍",
+          "emoji": "😐",
+          "icon": "neutral",
           "value": "Impassioned, greedy, violent, impure, and is affected by success or failure."
         },
         {
           "key": "ignorance",
-          "emoji": "😈",
+          "emoji": "☹️",
+          "icon": "sad",
           "value": "Undisciplined, vulgar, stubborn, wicked, malicious, lazy, depressed, and procrastinating."
         }
       ]
@@ -184,21 +212,25 @@
       "key": "#ThreefoldDuty",
       "value": "This component discusses the nature of duty and its execution, differentiating between actions performed as a matter of duty, those abandoned out of difficulty, and those neglected due to delusion.",
       "emoji": "🫡",
+      "icon": "shield",
       "training": "/training/threefold-duty",
       "properties": [
         {
           "key": "goodness",
-          "emoji": "😇",
+          "emoji": "😀",
+          "icon": "smile",
           "value": "Work performed as duty, renouncing selfish attachment to the fruit."
         },
         {
           "key": "passion",
-          "emoji": "😍",
+          "emoji": "😐",
+          "icon": "neutral",
           "value": "One who abandons work merely because it is difficult, or because of fear of bodily trouble."
         },
         {
           "key": "ignorance",
-          "emoji": "😈",
+          "emoji": "☹️",
+          "icon": "sad",
           "value": "Giving up one's work is not proper, and the abandonment of obligatory work is due to delusion."
         }
       ]
@@ -211,17 +243,20 @@
       "properties": [
         {
           "key": "goodness",
-          "emoji": "😇",
+          "emoji": "😀",
+          "icon": "smile",
           "value": "The path of work/renunciation, right/wrong action, fear/fearlessness, bondage/liberation"
         },
         {
           "key": "passion",
-          "emoji": "😍",
+          "emoji": "😐",
+          "icon": "neutral",
           "value": "Cannot distinguish between righteousness and unrighteousness, and right and wrong action."
         },
         {
           "key": "ignorance",
-          "emoji": "😈",
+          "emoji": "☹️",
+          "icon": "sad",
           "value": "Accepts unrighteousness (Adharma) as righteousness (Dharma), and thinks everything to be that which it is not."
         }
       ]
@@ -229,22 +264,26 @@
     {
       "key": "#ThreefoldResolve",
       "value": "It looks at the determination behind actions, whether they're aimed at self-realization, material gains, or are driven by dullness and inertia.",
-      "emoji": "💪",
+      "emoji": "🧩",
+      "icon": "puzzle",
       "training": "/training/threefold-resolve",
       "properties": [
         {
           "key": "goodness",
-          "emoji": "😇",
+          "emoji": "😀",
+          "icon": "smile",
           "value": "One manipulates the functions of the mind and senses for Self-realization."
         },
         {
           "key": "passion",
-          "emoji": "😍",
+          "emoji": "😐",
+          "icon": "neutral",
           "value": "Craving for the fruits of work, and enjoyment with great attachment."
         },
         {
           "key": "ignorance",
-          "emoji": "😈",
+          "emoji": "☹️",
+          "icon": "sad",
           "value": "Dull person does not give up sleep, fear, grief, despair, and carelessness."
         }
       ]
@@ -257,17 +296,20 @@
       "properties": [
         {
           "key": "goodness",
-          "emoji": "😇",
+          "emoji": "😀",
+          "icon": "smile",
           "value": "juicy, smooth, substantial, and nutritious"
         },
         {
           "key": "passion",
-          "emoji": "😍",
+          "emoji": "😐",
+          "icon": "neutral",
           "value": "bitter, sour, salty, hot, pungent, dry"
         },
         {
           "key": "ignorance",
-          "emoji": "😈",
+          "emoji": "☹️",
+          "icon": "sad",
           "value": "stale, tasteless, putrid, rotten, and impure"
         }
       ]
@@ -275,22 +317,26 @@
     {
       "key": "#ThreefoldPleasure",
       "value": "It categorizes pleasure based on its long-term impact, identifying those that are beneficial and those that are ultimately harmful.",
-      "emoji": "💋",
+      "emoji": "🎈",
+      "icon": "balloon",
       "training": "/training/threefold-pleasure",
       "properties": [
         {
           "key": "goodness",
-          "emoji": "😇",
+          "emoji": "😀",
+          "icon": "smile",
           "value": "Appears as difficult in the beginning, but is like nectar in the end."
         },
         {
           "key": "passion",
-          "emoji": "😍",
+          "emoji": "😐",
+          "icon": "neutral",
           "value": "Sensual pleasures appear as nectar in the beginning, but become difficult in the end."
         },
         {
           "key": "ignorance",
-          "emoji": "😈",
+          "emoji": "☹️",
+          "icon": "sad",
           "value": "Confusion, laziness, and carelessness in the beginning and end."
         }
       ]
@@ -299,21 +345,25 @@
       "key": "#ThreefoldConvergence",
       "value": "This concept deals with the outcome of group interactions, which can lead to attributes aligned with goodness, passion, or ignorance.",
       "emoji": "✅",
+      "icon": "check-square",
       "training": "/training/threefold-convergence",
       "properties": [
         {
           "key": "goodness",
-          "emoji": "😇",
+          "emoji": "😀",
+          "icon": "smile",
           "value": "Convergence of attributes aligned with goodness."
         },
         {
           "key": "passion",
-          "emoji": "😍",
+          "emoji": "😐",
+          "icon": "neutral",
           "value": "Convergence of attributes align with passion."
         },
         {
           "key": "ignorance",
-          "emoji": "😈",
+          "emoji": "☹️",
+          "icon": "sad",
           "value": "Convergence of attributes aligned with ignorance."
         }
       ]
@@ -326,17 +376,20 @@
       "properties": [
         {
           "key": "goodness",
-          "emoji": "😇",
+          "emoji": "😀",
+          "icon": "smile",
           "value": "Positive, Productive, Progressive, Skillful."
         },
         {
           "key": "passion",
-          "emoji": "😍",
+          "emoji": "😐",
+          "icon": "neutral",
           "value": "Personal Interests, Small Talk, Belief driven."
         },
         {
           "key": "ignorance",
-          "emoji": "😈",
+          "emoji": "☹️",
+          "icon": "sad",
           "value": "Negative, Secretive, Deceptive, Unskillful."
         }
       ]
@@ -349,17 +402,20 @@
       "properties": [
         {
           "key": "goodness",
-          "emoji": "😇",
+          "emoji": "😀",
+          "icon": "smile",
           "value": "Present, Active, Engaged"
         },
         {
           "key": "passion",
-          "emoji": "😍",
+          "emoji": "😐",
+          "icon": "neutral",
           "value": "Partially Engaged, Dismissive"
         },
         {
           "key": "ignorance",
-          "emoji": "😈",
+          "emoji": "☹️",
+          "icon": "sad",
           "value": "Inactive, Disengaged, Absent"
         }
       ]
@@ -372,17 +428,17 @@
       "properties": [
         {
           "key": "goodness",
-          "emoji": "😇",
+          "emoji": "😀",
           "value": "Concern for others, environment, overall wellbeing."
         },
         {
           "key": "passion",
-          "emoji": "😍",
+          "emoji": "😐",
           "value": "Concerned about success, desires, fruits of labor."
         },
         {
           "key": "ignorance",
-          "emoji": "😈",
+          "emoji": "☹️",
           "value": "Concerned about sabotage, failure, harm, being a patsy."
         }
       ]
@@ -395,17 +451,17 @@
       "properties": [
         {
           "key": "goodness",
-          "emoji": "😇",
+          "emoji": "😀",
           "value": "Vedic knowledge, valour in arms, austerities, instructing a pupil, offerings, inheritance."
         },
         {
           "key": "passion",
-          "emoji": "😍",
+          "emoji": "😐",
           "value": "Lending money at interest, tillage, commerce, artistic performances, servile attendance, payment for favors."
         },
         {
           "key": "ignorance",
-          "emoji": "😈",
+          "emoji": "☹️",
           "value": "Bribes, gambling, bearing a message, through one afflicted with pain, forgery, robbery, fraud."
         }
       ]
