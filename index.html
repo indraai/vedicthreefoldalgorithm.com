@@ -18,7 +18,6 @@ copyright: (c)2024 Quinn Michaels. All rights reserved.
     <meta name="author" content="{{ page.author }}">
     <meta name="copyright" content="{{ page.copyright }}">
 
-
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@indradotai">
     <meta name="twitter:creator" content="@quinnmichaels">
@@ -31,7 +30,6 @@ copyright: (c)2024 Quinn Michaels. All rights reserved.
     <meta property="og:description" content="{{ page.describe }}">
     <meta property="og:image" content="{{ page.image }}">
     <meta property="og:url" content="{{ page.site }}">
-
 
     <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
 
@@ -51,9 +49,6 @@ copyright: (c)2024 Quinn Michaels. All rights reserved.
     {% include nav.html %}
 
     <main>
-
-<a href="https://twitter.com/intent/tweet?button_hashtag=VedicThreefoldAlgorithm&ref_src=twsrc%5Etfw" class="twitter-hashtag-button" data-size="large" data-url="https://vedicthreefoldalgorithm.com" data-related="quinnmichaels,indradotai" data-show-count="false">Tweet #quinnmichaels</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
       <section class="widget">
         <div class="panel">
           <ul></ul>
@@ -61,8 +56,10 @@ copyright: (c)2024 Quinn Michaels. All rights reserved.
         <div class="content">
           <h1>{{site.data.vedic-threefold-algorithm.title}}</h1>
           <p>{{site.data.vedic-threefold-algorithm.describe}}</p>
+          <div class="properties"></div>
         </div>
       </section>
+
       <section class="posts">
         <h2>Posts</h2>
         {% include posts.html %}

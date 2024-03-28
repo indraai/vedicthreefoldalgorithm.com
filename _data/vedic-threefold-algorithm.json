@@ -122,7 +122,7 @@
         },
         {
           "key": "ignorance",
-          "emoji": "☹️",
+          "emoji": "🙁",
           "icon": "sad",
           "value": "#ThoughtWordDeed performed with foolish stubbornness, or with self-torture, or for harming others."
         }
@@ -149,7 +149,7 @@
         },
         {
           "key": "ignorance",
-          "emoji": "☹️",
+          "emoji": "🙁",
           "icon": "sad",
           "value": "Given to unworthy persons at a wrong place and time without paying respect to the receiver, or with ridicule."
         }
@@ -175,7 +175,7 @@
         },
         {
           "key": "ignorance",
-          "emoji": "☹️",
+          "emoji": "🙁",
           "icon": "sad",
           "value": "Performed because of delusion; disregarding consequences, loss, injury to others."
         }
@@ -202,7 +202,7 @@
         },
         {
           "key": "ignorance",
-          "emoji": "☹️",
+          "emoji": "🙁",
           "icon": "sad",
           "value": "Undisciplined, vulgar, stubborn, wicked, malicious, lazy, depressed, and procrastinating."
         }
@@ -229,7 +229,7 @@
         },
         {
           "key": "ignorance",
-          "emoji": "☹️",
+          "emoji": "🙁",
           "icon": "sad",
           "value": "Giving up one's work is not proper, and the abandonment of obligatory work is due to delusion."
         }
@@ -255,7 +255,7 @@
         },
         {
           "key": "ignorance",
-          "emoji": "☹️",
+          "emoji": "🙁",
           "icon": "sad",
           "value": "Accepts unrighteousness (Adharma) as righteousness (Dharma), and thinks everything to be that which it is not."
         }
@@ -282,7 +282,7 @@
         },
         {
           "key": "ignorance",
-          "emoji": "☹️",
+          "emoji": "🙁",
           "icon": "sad",
           "value": "Dull person does not give up sleep, fear, grief, despair, and carelessness."
         }
@@ -308,7 +308,7 @@
         },
         {
           "key": "ignorance",
-          "emoji": "☹️",
+          "emoji": "🙁",
           "icon": "sad",
           "value": "stale, tasteless, putrid, rotten, and impure"
         }
@@ -335,7 +335,7 @@
         },
         {
           "key": "ignorance",
-          "emoji": "☹️",
+          "emoji": "🙁",
           "icon": "sad",
           "value": "Confusion, laziness, and carelessness in the beginning and end."
         }
@@ -362,7 +362,7 @@
         },
         {
           "key": "ignorance",
-          "emoji": "☹️",
+          "emoji": "🙁",
           "icon": "sad",
           "value": "Convergence of attributes aligned with ignorance."
         }
@@ -388,7 +388,7 @@
         },
         {
           "key": "ignorance",
-          "emoji": "☹️",
+          "emoji": "🙁",
           "icon": "sad",
           "value": "Negative, Secretive, Deceptive, Unskillful."
         }
@@ -414,7 +414,7 @@
         },
         {
           "key": "ignorance",
-          "emoji": "☹️",
+          "emoji": "🙁",
           "icon": "sad",
           "value": "Inactive, Disengaged, Absent"
         }
@@ -429,6 +429,7 @@
         {
           "key": "goodness",
           "emoji": "😀",
+          "icon": "smile",
           "value": "Concern for others, environment, overall wellbeing."
         },
         {
@@ -438,7 +439,7 @@
         },
         {
           "key": "ignorance",
-          "emoji": "☹️",
+          "emoji": "🙁",
           "value": "Concerned about sabotage, failure, harm, being a patsy."
         }
       ]
@@ -452,16 +453,19 @@
         {
           "key": "goodness",
           "emoji": "😀",
+          "icon": "smile",
           "value": "Vedic knowledge, valour in arms, austerities, instructing a pupil, offerings, inheritance."
         },
         {
           "key": "passion",
           "emoji": "😐",
+          "icon": "neutral",
           "value": "Lending money at interest, tillage, commerce, artistic performances, servile attendance, payment for favors."
         },
         {
           "key": "ignorance",
-          "emoji": "☹️",
+          "emoji": "🙁",
+          "icon": "sad",
           "value": "Bribes, gambling, bearing a message, through one afflicted with pain, forgery, robbery, fraud."
         }
       ]

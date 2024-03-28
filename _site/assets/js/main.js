@@ -15,9 +15,22 @@ class VedicThreefoldAlgorithm {
   }
 
   content(idx) {
-    console.log('EVENT CLICK', this.data[idx]);
-    $('.widget .content h1').html(`${this.data[idx].emoji} ${this.data[idx].key}`);
-    $('.widget .content p').html(this.data[idx].value);
+    const _data = this.data[idx];
+    const items = [];
+
+    $('.widget .content h1').html(`${_data.emoji} ${_data.key}`);
+    $('.widget .content p').html(_data.value);
+    if (_data.properties) {
+      for (const x of _data.properties) {
+        console.log('PROP', x);
+        const item = [
+          `<h2>${x.emoji} ${x.key}</h2>`,
+          `<p>${x.value}</p>`,
+        ].join('\n');
+        items.push(item);
+      }
+      $('.widget .content .properties').html(items.join('\n'));
+    }
   }
 
   init() {
