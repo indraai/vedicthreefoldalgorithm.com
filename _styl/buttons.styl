@@ -1,0 +1,26 @@
+button
+  transition: var(--transition-default)
+  background-color: darken($colors.dark-grey, 20%)
+  color: $colors.light-grey
+  font-weight: normal
+  font-size: 1rem
+  border: none
+  outline: 0
+  padding: .5rem
+  border-radius: 1.5rem
+  line-height: 1
+  margin: 2px
+
+  &:hover
+    cursor: pointer
+    color: rgba($colors.white, .75)
+    background-color: rgba($colors.baby-blue, .5)
+
+  &:active
+    cursor: pointer
+    box-shadow: inset 0 0 5px rgba($colors.white, .25)
+    color: rgba($colors.white, .75)
+    background-color: rgba($colors.green, .5)
+
+  &[title="No"]
+    background-color: rgba($colors.red, .5)

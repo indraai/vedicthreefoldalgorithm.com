@@ -57,7 +57,13 @@ copyright: (c)2024 Quinn Michaels. All rights reserved.
       <p>{{ site.data.vedic-threefold-algorithm.describe}}</p>
 
       <section class="widget">
-        
+        <div class="panel">
+          <ul></ul>
+        </div>
+        <div class="content">
+          <h1>#VedicThreefoldAlgorithm</h1>
+          <p>Please choose an option from the menu for more information.</p>
+        </div>
       </section>
       <section class="posts">
         <h2>Posts</h2>
@@ -68,5 +74,10 @@ copyright: (c)2024 Quinn Michaels. All rights reserved.
       <div>&copy;2024 Quinn Michaels. All rights reserved.</div>
     </footer>
     <script src="assets/js/jquery.min.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script type="text/javascript">
+      const vta = new VedicThreefoldAlgorithm();
+      vta.init(); // init the site
+    </script>
   </body>
 </html>
