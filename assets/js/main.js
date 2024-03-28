@@ -18,18 +18,20 @@ class VedicThreefoldAlgorithm {
     const _data = this.data[idx];
     const items = [];
 
+    console.log('DATA IMAGE', _data.image);
+    $('.widget .content').attr('style', `--widget-content-bg: url('${_data.image}')`);
     $('.widget .content h1').html(`${_data.emoji} ${_data.key}`);
     $('.widget .content p').html(_data.value);
+
     if (_data.properties) {
       for (const x of _data.properties) {
-        console.log('PROP', x);
         const item = [
           `<h2>${x.emoji} ${x.key}</h2>`,
           `<p>${x.value}</p>`,
         ].join('\n');
         items.push(item);
       }
-      $('.widget .content .properties').html(items.join('\n'));
+      $('.widget .content .properties').html(items);
     }
   }
 
@@ -45,7 +47,6 @@ class VedicThreefoldAlgorithm {
       this.version = _data.version;
 
       $.each( this.data, (key, val) => {
-        console.log('data val', key, val);
         $('.widget .panel ul').append( `<li><button data-index="${key}">${val.emoji} ${val.key}</button></li>`);
       });
       $('.widget .panel ul li').on('click', 'button', evt => {
