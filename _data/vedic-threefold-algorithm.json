@@ -32,31 +32,31 @@
           "key": "Ether",
           "emoji": "🔔",
           "icon": "bell",
-          "value": "Ether is the ear, and connected with sound."
+          "value": "The ear is Ether, and connected to sound."
         },
         {
           "key": "Air",
           "emoji": "💨",
           "icon": "wind",
-          "value": "The skin is Air, and connected with touch"
+          "value": "The skin is Air, and connected to touch"
         },
         {
           "key": "Fire",
           "emoji": "🔥",
           "icon": "fire",
-          "value": "The eye is Fire, and connected with color."
+          "value": "The eye is Fire, and connected to color."
         },
         {
           "key": "Water",
           "emoji": "💧",
           "icon": "drop",
-          "value": "The tongue is Water, and connected with taste."
+          "value": "The tongue is Water, and connected to taste."
         },
         {
           "key": "Earth",
           "emoji": "🌳",
           "icon": "tree",
-          "value": "The nose is Earth, and connected with scent."
+          "value": "The nose is Earth, and connected to scent."
         }
       ]
     },
