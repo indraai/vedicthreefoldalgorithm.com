@@ -52,6 +52,8 @@ class VedicThreefoldAlgorithm {
         $('.widget .panel ul').append( `<li><button data-index="${key}">${val.emoji} ${val.key}</button></li>`);
       });
       $('.widget .panel ul li').on('click', 'button', evt => {
+        $('.widget .panel ul li button').removeClass('active');
+        $(evt.target).addClass('active');
         this.content(evt.target.dataset.index);
       })
       //

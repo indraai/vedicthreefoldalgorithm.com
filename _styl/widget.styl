@@ -5,11 +5,13 @@
   border: 2px dotted
   border-radius: .5rem
   height: 30rem
+
   .panel
     overflow: auto
     width: 200px
     min-width: 200px
     max-width: 200px
+
     ul
       list-style: none
       margin: 0
@@ -17,9 +19,11 @@
       display: flex
       flex-flow: column nowrap
       height: 100%
+
       li
         flex: 1 auto
         display: flex
+
         button
           font-size: .75rem
           display: block
@@ -30,9 +34,14 @@
           margin: 0
           padding: .4rem
 
+          &.active
+            background-color: rgba($colors.baby-blue, .25)
+            padding-left: .75rem
+
   .content
     padding: 0
     overflow: auto
+
     h1
       text-align: center
       font-size: 2.25rem
@@ -49,6 +58,7 @@
         background-color: rgba($colors.black, .75)
         padding: 1rem 1.5rem
         border-radius: 3rem
+
     p
       margin: 1rem
       font-size: 1rem
@@ -66,7 +76,7 @@
         padding: .5rem
 
         &.goodness
-          background-color: rgba($colors.blue, .25)
+          background-color: rgba($colors.baby-blue, .25)
         &.passion
           background-color: rgba($colors.yellow, .25)
         &.ignorance

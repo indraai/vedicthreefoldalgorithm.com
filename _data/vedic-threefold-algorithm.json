@@ -16,6 +16,7 @@
       "icon": "brain",
       "training": "/training/intelligence",
       "image": "/assets/img/ins-intelligence.png",
+      "video": false,
       "properties": []
     },
     {
@@ -25,6 +26,7 @@
       "icon": "hand",
       "training": "/training/five-elements",
       "image": "/assets/img/ins-five-elements.png",
+      "video": "wq6WVKkQcZA",
       "properties": [
         {
           "key": "Ether",
@@ -65,6 +67,7 @@
       "icon": "umbrella",
       "training": "/training/thought-word-deed",
       "image": "/assets/img/ins-thought-word-deed.png",
+      "video": "84vhgTJrmKk",
       "properties": [
         {
           "key": "thought",
@@ -90,6 +93,7 @@
       "icon": "balance",
       "training": "/training/divine-demonic-scale",
       "image": "/assets/img/ins-divine-demonic-scale.png",
+      "video": "RHfgODRn6Mc",
       "properties": [
         {
           "key": "divine",
@@ -112,6 +116,7 @@
       "icon": "fingers-crossed",
       "training": "/training/threefold-austerity",
       "image": "/assets/img/ins-threefold-austerity.png",
+      "video": "auXshIRv9bk",
       "properties": [
         {
           "key": "goodness",
@@ -140,6 +145,7 @@
       "icon": "gift",
       "training": "/training/threefold-charity",
       "image": "/assets/img/ins-threefold-charity.png",
+      "video": "5c8Ab_xXH84",
       "properties": [
         {
           "key": "goodness",
@@ -167,6 +173,7 @@
       "emoji": "🎬",
       "training": "/training/threefold-action",
       "image": "/assets/img/ins-threefold-action.png",
+      "video": "L5FOY1JJ9as",
       "properties": [
         {
           "key": "goodness",
@@ -195,6 +202,7 @@
       "icon": "man",
       "training": "/training/threefold-agent",
       "image": "/assets/img/ins-threefold-agent.png",
+      "video": "7BkJhxIrB4w",
       "properties": [
         {
           "key": "goodness",
@@ -223,6 +231,7 @@
       "icon": "shield",
       "training": "/training/threefold-duty",
       "image": "/assets/img/ins-threefold-duty.png",
+      "video": "Gq3FXX-oeE0",
       "properties": [
         {
           "key": "goodness",
@@ -250,6 +259,7 @@
       "emoji": "🧐",
       "training": "/training/threefold-intellect",
       "image": "/assets/img/ins-threefold-intellect.png",
+      "video": "ODZFgVGpz8E",
       "properties": [
         {
           "key": "goodness",
@@ -278,6 +288,7 @@
       "icon": "puzzle",
       "training": "/training/threefold-resolve",
       "image": "/assets/img/ins-threefold-resolve.png",
+      "video": "Taxd2rk6mMQ",
       "properties": [
         {
           "key": "goodness",
@@ -305,6 +316,7 @@
       "emoji": "🍚",
       "training": "/training/threefold-food",
       "image": "/assets/img/ins-threefold-food.png",
+      "video": "m0QRHWy7U9o",
       "properties": [
         {
           "key": "goodness",
@@ -333,6 +345,7 @@
       "icon": "balloon",
       "training": "/training/threefold-pleasure",
       "image": "/assets/img/ins-threefold-pleasure.png",
+      "video": "RD43XGHfpQI",
       "properties": [
         {
           "key": "goodness",
@@ -361,6 +374,7 @@
       "icon": "check-square",
       "training": "/training/threefold-convergence",
       "image": "/assets/img/ins-threefold-convergence.png",
+      "video": "yXVIfyDBEbM",
       "properties": [
         {
           "key": "goodness",
@@ -388,6 +402,7 @@
       "emoji": "🕺",
       "training": "/training/threefold-activity",
       "image": "/assets/img/ins-threefold-activity.png",
+      "video": "RiPizf5A7Bg",
       "properties": [
         {
           "key": "goodness",
@@ -415,6 +430,7 @@
       "emoji": "👂",
       "training": "/training/threefold-listening",
       "image": "/assets/img/ins-threefold-listening.png",
+      "video": "fIuplLSPRQI",
       "properties": [
         {
           "key": "goodness",
@@ -442,6 +458,7 @@
       "emoji": "❤️",
       "training": "/training/threefold-concern",
       "image": "/assets/img/ins-threefold-concern.png",
+      "video": false,
       "properties": [
         {
           "key": "goodness",
@@ -467,6 +484,7 @@
       "emoji": "💰",
       "training": "/training/threefold-wealth",
       "image": "/assets/img/ins-threefold-wealth.png",
+      "video": false,
       "properties": [
         {
           "key": "goodness",
