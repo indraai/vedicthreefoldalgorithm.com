@@ -55,6 +55,7 @@
       background-position: center center
       background-size: cover
       flex: 0
+      background-color: $colors.grey
 
       span
         display: inline-block
@@ -62,27 +63,31 @@
         padding: 1rem 1.5rem
         border-radius: 3rem
 
-    p
+    > p
       flex: 0
-      margin: 1rem
-      font-size: 1rem
+      margin: 0;
+      padding: 1rem
+      font-size: 1.2rem
 
     .properties
       flex: 1
       display: flex
       flex-flow: row wrap
       justify-content: center
+      gap: .5rem
+      padding: .5rem
 
       article
         padding: .5rem
         flex: 1
+        border-top: 2px solid
 
         &.goodness
-          background-color: rgba($colors.baby-blue, .25)
+          color: $colors.baby-blue
         &.passion
-          background-color: rgba($colors.yellow, .25)
+          color: $colors.yellow
         &.ignorance
-          background-color: rgba($colors.red, .25)
+          color: $colors.red
 
         h2
           font-size: 1.25rem
@@ -92,6 +97,6 @@
           text-align: center
 
         p
-          font-size: .9rem
+          font-size: 1rem
           margin: 0
           padding: 0

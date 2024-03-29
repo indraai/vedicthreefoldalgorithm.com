@@ -243,13 +243,13 @@
           "key": "passion",
           "emoji": "😐",
           "icon": "neutral",
-          "value": "One who abandons work merely because it is difficult, or because of fear of bodily trouble."
+          "value": "Abandoning work merely because it is difficult, or fear of bodily trouble."
         },
         {
           "key": "ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "Giving up one's work is not proper, and the abandonment of obligatory work is due to delusion."
+          "value": "Giving up or abandoning obligatory work due to personal desire or delusion."
         }
       ]
     },
