@@ -35,12 +35,14 @@
           padding: .4rem
 
           &.active
-            background-color: rgba($colors.baby-blue, .25)
+            background-color: rgba($colors.green, .25)
             padding-left: .75rem
 
   .content
     padding: 0
     overflow: auto
+    display: flex
+    flex-flow: column nowrap
 
     h1
       text-align: center
@@ -52,6 +54,7 @@
       text-shadow: 0 2px 5px rgba($colors.black, .5)
       background-position: center center
       background-size: cover
+      flex: 0
 
       span
         display: inline-block
@@ -60,20 +63,19 @@
         border-radius: 3rem
 
     p
+      flex: 0
       margin: 1rem
       font-size: 1rem
 
     .properties
+      flex: 1
       display: flex
       flex-flow: row wrap
-      gap: .5rem
       justify-content: center
 
       article
-        border-radius: .5rem
-        max-width: 12rem
-        min-width: 10rem
         padding: .5rem
+        flex: 1
 
         &.goodness
           background-color: rgba($colors.baby-blue, .25)
