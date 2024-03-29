@@ -32,31 +32,31 @@
           "key": "Ether",
           "emoji": "🔔",
           "icon": "bell",
-          "value": "Ether is the first entity. It is called the ear, and is connected with sound."
+          "value": "Ether/Space is called the ear, and is connected with sound."
         },
         {
           "key": "Air",
           "emoji": "💨",
           "icon": "wind",
-          "value": "The Air/Wind is the second entity. It is known as the skin, and is connected with touch"
+          "value": "Air/Wind is known as the skin, and is connected with touch"
         },
         {
           "key": "Fire",
           "emoji": "🔥",
           "icon": "fire",
-          "value": "The third is said to be Fire/Light. It is known as the eye, and is connected with colour."
+          "value": "Fire/Light is known as the eye, and is connected with colour."
         },
         {
           "key": "Water",
           "emoji": "💧",
           "icon": "drop",
-          "value": "The fourth entity is Water. It is known as the tongue, and is connected with taste."
+          "value": "Water is known as the tongue, and is connected with taste."
         },
         {
           "key": "Earth",
           "emoji": "🌳",
           "icon": "tree",
-          "value": "The fifth entity is Earth. It is known as the nose, and is connected with scent."
+          "value": "Earth is known as the nose, and is connected with scent."
         }
       ]
     },
