@@ -32,31 +32,31 @@
           "key": "Ether",
           "emoji": "🔔",
           "icon": "bell",
-          "value": "Ether/Space is called the ear, and is connected with sound."
+          "value": "Ether/Space is the ear, and connected with sound."
         },
         {
           "key": "Air",
           "emoji": "💨",
           "icon": "wind",
-          "value": "Air/Wind is known as the skin, and is connected with touch"
+          "value": "Air/Wind is the skin, and connected with touch"
         },
         {
           "key": "Fire",
           "emoji": "🔥",
           "icon": "fire",
-          "value": "Fire/Light is known as the eye, and is connected with colour."
+          "value": "Fire/Light is the eye, and connected with color."
         },
         {
           "key": "Water",
           "emoji": "💧",
           "icon": "drop",
-          "value": "Water is known as the tongue, and is connected with taste."
+          "value": "Water is the tongue, and connected with taste."
         },
         {
           "key": "Earth",
           "emoji": "🌳",
           "icon": "tree",
-          "value": "Earth is known as the nose, and is connected with scent."
+          "value": "Earth is the nose, and connected with scent."
         }
       ]
     },
