@@ -4,8 +4,6 @@ layout: default
 hero: instructions
 ---
 
-# Instructions
-
 **#TOPIC** = The topic of the conversation is the **#VedicThreefoldAlgorithm**
 
 ## SUMMARY

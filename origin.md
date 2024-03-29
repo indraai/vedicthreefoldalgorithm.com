@@ -4,8 +4,6 @@ layout: default
 hero: header
 ---
 
-## Origin
-
 ![Quinn Michaels](/assets/img/origin-quinn.png)
 
 The development of the **#VedicThreefoldAlgorithm** began in mid-2016, following a personal and unsettling revelation. At this time, [Quinn Michaels](https://www.youtube.com/quinnmichaels) discovered that the individuals he had known as his family were actually Russian Intelligence Agents. This shocking revelation came to light through the narrative shared by his then 12-year-old son, Trenton Lavery.

@@ -4,8 +4,6 @@ layout: default
 hero: header
 ---
 
-## Integration
-
 Welcome to the Integration Guide for the **#VedicThreefoldAlgorithm** JSON Data. This guide is designed to assist developers and system architects in seamlessly integrating the Vedic Threefold Algorithm into their existing systems, leveraging the ethical and philosophical principles outlined in the JSON format.
 
 ### Step 1: Clone the repo

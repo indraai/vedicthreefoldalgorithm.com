@@ -1,9 +1,12 @@
 ---
 title: The Holy War of the Instructionless Net Crusaders
-layout: default
+layout: post
 hero: header
-date: March 26, 2024 - 1:34p
+date: March 26, 2024
 author: Quinn Michaels
+image: https://vedicthreefoldalgorithm.com/assets/img/hero-unit.png
+site: https://vedicthreefoldalgorithm.com
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
 Once upon a time in the virtual realm of Internettia, a land where scrolls were replaced by screens and pigeons by pixels, there commenced the grandest and most confused battle ever known to humankind – The Internet Religion Wars.
