@@ -4,8 +4,6 @@ layout: default
 hero: threefold-austerity
 ---
 
-## 🧘‍♂️ #ThreefoldAusterity
-
 ![Threefold Austerity](/assets/img/ins-threefold-austerity.png)
 
 In this segment of our instructional video, we delve into the concept of **#ThreefoldAusterity**, an integral part of the **#VedicThreefoldAlgorithm**. Austerity, or Tapas in Sanskrit, involves self-discipline and self-control and is considered a vital practice for personal growth and spiritual development. Let’s understand how this concept manifests in three different modes: goodness, passion, and ignorance.

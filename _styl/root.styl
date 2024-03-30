@@ -1,8 +1,8 @@
-// Copyright (c)2022 Quinn Michaels. All rights reserved.
+// Copyright (c)2024 Quinn Michaels. All rights reserved.
 
 $colors = {
-  white: #ffffff,
-  black: #000000,
+  white: #ffffff
+  black: #000000
   grey: #5b5b5b
   light-grey: #9c9c9c
   dark-grey: #333333
@@ -29,7 +29,11 @@ $colors = {
   note: #e8e3ac
 }
 
+$page = {
+  width: 960px
+}
+
 :root
-  --transition-default: all .25s linear
+  --transition-default: all .5s linear
   for color in $colors
     --color-{color}: $colors[color]

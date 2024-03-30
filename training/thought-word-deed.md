@@ -4,8 +4,6 @@ layout: default
 hero: thought-word-deed
 ---
 
-# 🤝 #ThoughtWordDeed
-
 ![Thought Word Deed](/assets/img/ins-thought-word-deed.png)
 
 Continuing our journey through the **#VedicThreefoldAlgorithm**, let's delve into a crucial aspect of this system: the alignment of 🧠thought, 🗣️word, and 🤝deed. This alignment is essential for living a harmonious and balanced life. Let's break down each component to understand how they interconnect.

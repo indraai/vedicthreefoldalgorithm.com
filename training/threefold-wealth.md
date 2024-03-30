@@ -4,8 +4,6 @@ layout: default
 hero: threefold-wealth
 ---
 
-## 💰 #ThreefoldWealth
-
 ![Threefold Wealth](/assets/img/ins-threefold-wealth.png)
 
 Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. Today, we'll delve into an enlightening component known as **#ThreefoldWealth**. This segment helps us navigate the complex landscape of wealth generation and management through the lens of Vedic wisdom.

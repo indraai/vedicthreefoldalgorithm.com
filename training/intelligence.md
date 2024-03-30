@@ -3,7 +3,6 @@ title: Intelligence
 layout: default
 hero: intelligence
 ---
-# 🧠 #Intelligence
 
 ![Threefold Intelligence](/assets/img/ins-intelligence.png)
 
@@ -37,4 +36,4 @@ In summary, the **#Intelligence** aspect of the **#VedicThreefoldAlgorithm** rep
 
 [🎧 Download Threefold Intelligence MP3](https://indra.team/audio/indra/threefold-intelligence.mp3)
 
-[→ Next: 🖐️ Five Elements](five-elements)
+[→ Next: Five Elements](five-elements)

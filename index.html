@@ -1,35 +1,27 @@
 ---
-name: Vedic Theefold Algorithm
-title: Vedic Threefold Algorithm - Harnessing Vedic Wisdom for Ethical AI Innovation
-describe: The Vedic Threefold Algorithm is a comprehensive framework developed by Quinn Michaels inspired by Vedic principles. Integrating the concepts of intelligence, the five elements, thought, word, deed, goodness, passion, and ignorance.
-author: Quinn Michaels
-image: https://vedicthreefoldalgorithm.com/assets/img/hero-unit.png
-site: https://vedicthreefoldalgorithm.com
-copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>{{ page.title }}</title>
+    <title>{{site.title}}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="{{ page.describe }}">
-    <meta name="author" content="{{ page.author }}">
-    <meta name="copyright" content="{{ page.copyright }}">
+    <meta name="description" content="{{site.describe}}">
+    <meta name="author" content="{{site.author}}">
+    <meta name="copyright" content="{{site.copyright}}">
 
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@indradotai">
     <meta name="twitter:creator" content="@quinnmichaels">
-    <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:description" content="{{ page.describe }}">
-    <meta name="twitter:image" content="{{ page.image }}">
+    <meta name="twitter:title" content="{{site.title}}">
+    <meta name="twitter:description" content="{{site.describe}}">
+    <meta name="twitter:image" content="{{site.image}}">
 
-    <meta property="og:site_name" content="{{ page.name }}">
-    <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:description" content="{{ page.describe }}">
-    <meta property="og:image" content="{{ page.image }}">
-    <meta property="og:url" content="{{ page.site }}">
+    <meta property="og:site_name" content="{{site.name}}">
+    <meta property="og:title" content="{{site.title}}">
+    <meta property="og:description" content="{{site.describe}}">
+    <meta property="og:image" content="{{site.image}}">
+    <meta property="og:url" content="{{site.url}}">
 
     <link rel="icon" type="image/png" href="/assets/img/favicon.png" />
 
@@ -41,8 +33,8 @@ copyright: (c)2024 Quinn Michaels. All rights reserved.
   <body>
     <header>
       <div class="hero-unit hero-header">
-        <h1>{{ site.data.content.title }}</h1>
-        <p>{{ site.data.content.subtitle }}</p>
+        <h1>{{site.data.content.title}}</h1>
+        <p>{{site.data.content.subtitle}}</p>
       </div>
     </header>
 
@@ -54,16 +46,27 @@ copyright: (c)2024 Quinn Michaels. All rights reserved.
           <ul></ul>
         </div>
         <div class="content">
-          <h1><span>{{site.data.vedic-threefold-algorithm.title}}<span></h1>
+          <h1><span>{{site.data.vedic-threefold-algorithm.title}}</span></h1>
           <p>{{site.data.vedic-threefold-algorithm.describe}}</p>
           <div class="properties"></div>
         </div>
       </section>
-
-      <section class="posts">
-        <h2>Posts</h2>
-        {% include posts.html %}
-      </section>
+      <div class="row">
+        <section class="other">
+          <div class="menu">
+            <ul>
+              <li><a href="/karma-yoga">Karma Yoga</a>: Learn about the ancient Vedic practice of Karma Yoga.</li>
+              <li><a href="/algorithm">Algorithm</a>: Learn more about the details behind the <strong>#VedicThreefoldAlgorithm</strong>.</li>
+              <li><a href="/instructions">Instructions</a>: Read the <strong>#VedicThreefoldAlgorithm</strong> instruction to learn proper use.</li>
+              <li><a href="/training">Training</a>: Take the training program to better learn how to use the <strong>#VedicThreefoldAlgorithm</strong>.</li>
+            </ul>
+          </div>
+        </section>
+        <section class="posts">
+          <h2>Posts</h2>
+          {% include posts.html %}
+        </section>
+      </div>
     </main>
     <footer>
       <div>&copy;2024 Quinn Michaels. All rights reserved.</div>

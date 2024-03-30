@@ -4,8 +4,6 @@ layout: default
 hero: threefold-duty
 ---
 
-## 🫡 #ThreefoldDuty
-
 ![Threefold Duty](/assets/img/ins-threefold-duty.png)
 
 Welcome back to our instructional video series on the **#VedicThreefoldAlgorithm**. Today, we will be discussing an integral concept within this system: the **#ThreefoldDuty**. Understanding our duties and how we approach them can significantly impact our personal development and our contribution to society.

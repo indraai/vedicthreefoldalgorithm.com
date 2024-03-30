@@ -4,8 +4,6 @@ layout: default
 hero: threefold-resolve
 ---
 
-## 💪 #ThreefoldResolve
-
 ![Threefold Resolve](../img/ins-threefold-resolve.png)
 
 Welcome to the next segment of our instructional series on the **#VedicThreefoldAlgorithm**. In this video, we will discuss the concept of **#ThreefoldResolve**. This component of the Vedic wisdom helps us understand the different types of determination or resolve that individuals might exhibit based on the qualities of goodness, passion, and ignorance.

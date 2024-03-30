@@ -4,8 +4,6 @@ layout: default
 hero: header
 ---
 
-## Algorithm
-
 <p>{{site.data.vedic-threefold-algorithm.describe}}</p>
 
 <p><strong>{{site.data.vedic-threefold-algorithm.tags}}</strong></p>

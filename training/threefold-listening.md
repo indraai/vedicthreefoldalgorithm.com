@@ -4,8 +4,6 @@ layout: default
 hero: threefold-listening
 ---
 
-## 👂 #ThreefoldListening
-
 ![Threefold Listening](/assets/img/ins-threefold-listening.png)
 
 Welcome to our instructional series on the **#VedicThreefoldAlgorithm**. Today, we are exploring the concept of **#ThreefoldListening**. Understanding this component is vital for effective communication, personal growth, and building healthy relationships. Let's dive into how listening can be influenced by the three modes of nature: goodness, passion, and ignorance.

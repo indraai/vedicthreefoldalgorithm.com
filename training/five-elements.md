@@ -4,8 +4,6 @@ layout: default
 hero: five-elements
 ---
 
-## 🖐️ #FiveElements
-
 ![Five Element System](/assets/img/ins-five-elements.png)
 
 Welcome to our training on the **#VedicThreefoldAlgorithm**. In this segment, we're going to introduce you to the foundational concept that underpins this system: the Vedic 5-element system. This ancient wisdom, integral to Vedic philosophy, provides the framework for understanding the universe and our place within it. Let's dive in.

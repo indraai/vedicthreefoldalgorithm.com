@@ -4,8 +4,6 @@ layout: default
 hero: threefold-agent
 ---
 
-## 🎅 #ThreefoldAgent
-
 ![Threefold Agent](/assets/img/ins-threefold-agent.png)
 
 Welcome to the next segment of our instructional series on the **#VedicThreefoldAlgorithm**. Today, we will explore the concept of the **#ThreefoldAgent**. This aspect helps us understand the nature and quality of the 'doer' or the individual performing actions. By analyzing our own tendencies and motivations, we can shift towards more harmonious and effective ways of being and acting in the world.

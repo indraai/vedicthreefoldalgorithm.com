@@ -4,8 +4,6 @@ layout: default
 hero: threefold-activity
 ---
 
-## 🕺  #ThreefoldActivity
-
 ![Threefold Activity](/assets/img/ins-threefold-activity.png)
 
 Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. In this segment, we delve into the concept of **#ThreefoldActivity**. Understanding this principle can significantly impact how we choose to engage in our daily tasks and interact with the world around us. Let's explore how activities influenced by goodness, passion, and ignorance can shape our experiences and growth.

@@ -4,8 +4,6 @@ layout: default
 hero: threefold-intellect
 ---
 
-## 🧐 #ThreefoldIntellect
-
 ![Threefold Intellect](/assets/img/ins-threefold-intellect.png)
 
 Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. In this segment, we delve into the concept of the **#ThreefoldIntellect**. This aspect helps us understand how our cognitive processes, influenced by different modes, affect our perception of duty, ethics, and the world around us. Understanding this concept can enhance our decision-making and lead us towards more fulfilling actions.

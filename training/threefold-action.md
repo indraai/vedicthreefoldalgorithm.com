@@ -4,8 +4,6 @@ layout: default
 hero: threefold-action
 ---
 
-## 🎬 #ThreefoldAction
-
 ![Threefold Action](/assets/img/ins-threefold-action.png)
 
 Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. In this segment, we delve into the concept of **#ThreefoldAction**, an essential component that guides us on how to perform actions in alignment with the Vedic principles. Understanding and applying these concepts can significantly influence our personal growth and societal harmony.

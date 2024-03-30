@@ -4,8 +4,6 @@ layout: default
 hero: threefold-food
 ---
 
-## 🍚 #ThreefoldFood
-
 ![Threefold Food](/assets/img/ins-threefold-food.png)
 
 Welcome back to our instructional video series on the **#VedicThreefoldAlgorithm**. Today, we're exploring an essential aspect of our daily lives influenced by Vedic principles: the **#ThreefoldFood**. Understanding the nature of the food we consume according to the modes of goodness, passion, and ignorance can profoundly impact our health, well-being, and even our mental and emotional states.
