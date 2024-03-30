@@ -22,25 +22,25 @@
           "key": "Kshatriya",
           "emoji": "👑",
           "icon": "crown",
-          "value": "Those having the qualities of heroism, vigor, firmness, dexterity, not fleeing from battle, charity, and administrative skills are called leaders or protectors."
+          "value": "Heroism, vigor, firmness, dexterity, courage, charity, leaders, protectors"
         },
         {
           "key": "Brahman",
           "emoji": "🛕",
           "icon": "temple",
-          "value": "Those who have serenity, self control, austerity, purity, patience, honesty, transcendental knowledge, transcendental experience, and intellectuals."
+          "value": "Serenity, self control, austerity, purity, patience, honesty, intellectuals"
         },
         {
           "key": "Vaisya",
           "emoji": "👔",
           "icon": "suit",
-          "value": "Those who are good in cultivation, cattle rearing, business, trade, finance, and industry are known as business men."
+          "value": "Cultivation, cattle rearing, business, trade, finance, and industry"
         },
         {
           "key": "Sudra",
           "emoji": "🧹",
           "icon": "broom",
-          "value": "Those who are very good in service and labor type work only are classed as workers"
+          "value": "Workers good in service, labor, construction, gardening, maintenance"
         }
       ]
     },
