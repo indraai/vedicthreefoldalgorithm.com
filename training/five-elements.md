@@ -32,4 +32,4 @@ Stay with us as we continue to unfold the layers of the **#VedicThreefoldAlgorit
 
 [🍿 Watch Five Element System Youtube Video](https://youtu.be/wq6WVKkQcZA)
 
-[→ Next: Thought Word Deed](thought-word-deed)
+[→ Next: Caste](caste)

@@ -8,6 +8,7 @@
   "date": "March 26, 2024",
   "emoji": "☸️",
   "icon": "lotus",
+  "image": "/assets/img/ins-threefold-algorithm.png",
   "data": [
     {
       "key": "#Intelligence",
@@ -62,7 +63,7 @@
     },
     {
       "key": "#Caste",
-      "value": "The division of labor is also based on the qualities inherent in peoples’ nature or their make up.",
+      "value": "The concept of caste as a framework for the division of labor based on innate qualities and dispositions of individuals.",
       "emoji": "🥼",
       "icon": "graduation-hat",
       "training": "/training/caste",
@@ -73,31 +74,36 @@
           "key": "Kshatriya",
           "emoji": "👑",
           "icon": "crown",
-          "value": "Heroism, vigor, firmness, dexterity, courage, charity, leaders, protectors"
+          "value": "Heroism, vigor, firmness, dexterity, courage, charity, leaders, protectors",
+          "describe": "Kshatriyas are envisioned as leaders and protectors within the system. They take charge of decision-making processes, protection of system integrity, and lead by example, demonstrating courage and generosity."
         },
         {
           "key": "Brahman",
           "emoji": "🛕",
           "icon": "temple",
-          "value": "Serenity, self control, austerity, purity, patience, honesty, intellectuals"
+          "value": "Serenity, self control, austerity, purity, patience, honesty, intellectuals",
+          "describe": "Brahmans serve as the intellectuals and guides. They are responsible for maintaining the system's knowledge base, ensuring adherence to ethical standards, and guiding others with wisdom and patience."
         },
         {
           "key": "Srotriya",
           "emoji": "🧧",
           "icon": "gift",
-          "value": "The upholder of the sacred law. Offerings must be given to a Srotriya alone."
+          "value": "The upholder of the sacred law. Offerings must be given to a Srotriya alone.",
+          "describe": "Srotriyas have the exclusive authority to teach the Vedas and accept offerings. They ensure that operations adhere to the system's core laws, principles, and ethics."
         },
         {
           "key": "Vaisya",
           "emoji": "👔",
           "icon": "suit",
-          "value": "Cultivation, cattle rearing, business, trade, finance, and industry"
+          "value": "Cultivation, cattle rearing, business, trade, finance, and industry",
+          "describe": "Vaisyas drive the economic and resource management aspects of the system. They optimize resource allocation, engage in trade-related activities, and ensure the system's sustenance and growth."
         },
         {
           "key": "Sudra",
           "emoji": "🧹",
           "icon": "broom",
-          "value": "Workers good in service, labor, construction, gardening, maintenance"
+          "value": "Workers good in service, labor, construction, gardening, maintenance",
+          "describe": "Sudras are the doers, executing tasks with dedication and precision. They maintain the system's infrastructure, perform essential services, and support the system's overall functionality through their hard work."
         }
       ]
     },
