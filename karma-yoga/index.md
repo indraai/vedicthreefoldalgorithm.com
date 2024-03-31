@@ -1,7 +1,12 @@
 ---
-title: Karma Yoga
 layout: default
-hero: header
+title: Karma Yoga
+tagline: The algorithm is a framework developed by Quinn Michaels inspired by Vedic principles.
+image: /assets/img/page-karma-yoga.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
 Karma Yoga is a mental discipline which allows one to carry out one's duties as a service to the entire world, as a path to enlightenment. By working in the real world, but giving up attachment to work, we can obtain spiritual liberation.
@@ -19,9 +24,9 @@ All knowledge that the world has ever received comes from the mind; the infinite
 The result is what we are; all these actions taken together are called Karma,—work, action. Every mental and physical action we take, and by which its own power and knowledge are discovered, is Karma, this word being used in its widest sense. Thus we are all doing Karma all the time.
 
 - I am talking to you: that is Karma.
-- You are listening: that is Karma.
+- You are listening to me: that is Karma.
 - We breathe: that is Karma.
-- We walk: Karma.
+- We walk: that is Karma.
 
 Everything we do, physical or mental, is Karma, and it leaves its marks on us.
 

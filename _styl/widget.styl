@@ -17,19 +17,17 @@
 
 
   .panel
-    @media screen and (min-width: 960px)
-      overflow: auto
-      min-width: 200px
-      flex: 0 200px
+    overflow: auto
+    min-width: 200px
+    flex: 0 200px
 
     ul
       list-style: none
       margin: 0
       padding: 0
       display: flex
-      flex-flow: row wrap
-      @media screen and (min-width: 960px)
-        flex-flow: column nowrap
+      flex-flow: column nowrap
+      height: 100%
 
       li
         flex: 1 auto
@@ -75,7 +73,7 @@
         border-radius: 3rem
 
     > p
-      flex: 0
+      flex: 1
       margin: 0;
       padding: 1rem
       font-size: 1.2rem
@@ -92,12 +90,31 @@
         padding: .5rem
         flex: 1
         border-top: 2px solid
+        text-shadow: 0 2px 3px rgba($colors.black, .25)
 
+        &.thought
+          color: $colors.purple
+        &.deed
+        &.Brahman
+          color: $colors.orange
+
+        &.divine
+        &.Earth
+        &.Vaisya
+          color: $colors.green
         &.goodness
+        &.Water
           color: $colors.baby-blue
+
         &.passion
+        &.word
+        &.Ether
+        &.Kshatriya
           color: $colors.yellow
         &.ignorance
+        &.demonic
+        &.Fire
+        &.Sudra
           color: $colors.red
 
         h2
