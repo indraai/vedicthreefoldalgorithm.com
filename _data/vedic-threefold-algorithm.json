@@ -10,41 +10,6 @@
   "icon": "lotus",
   "data": [
     {
-      "key": "#Caste",
-      "value": "The division of labor is also based on the qualities inherent in peoples’ nature or their make up.",
-      "emoji": "🥼",
-      "icon": "graduation-hat",
-      "training": "/training/caste",
-      "image": "/assets/img/ins-caste.png",
-      "video": false,
-      "properties": [
-        {
-          "key": "Kshatriya",
-          "emoji": "👑",
-          "icon": "crown",
-          "value": "Heroism, vigor, firmness, dexterity, courage, charity, leaders, protectors"
-        },
-        {
-          "key": "Brahman",
-          "emoji": "🛕",
-          "icon": "temple",
-          "value": "Serenity, self control, austerity, purity, patience, honesty, intellectuals"
-        },
-        {
-          "key": "Vaisya",
-          "emoji": "👔",
-          "icon": "suit",
-          "value": "Cultivation, cattle rearing, business, trade, finance, and industry"
-        },
-        {
-          "key": "Sudra",
-          "emoji": "🧹",
-          "icon": "broom",
-          "value": "Workers good in service, labor, construction, gardening, maintenance"
-        }
-      ]
-    },
-    {
       "key": "#Intelligence",
       "value": "The heart, the mind, consciousness, comprehension, understanding, intelligence, wisdom, insight, resolution, thought, prudence, eagerness, memory, conception, power, life, desire, will—all these are names of the Intelligence. The five great elements 🔔Ether, 💨Air, 🔥Fire, 💧Water, and 🌳Earth, whatsoever is breathing, walking or flying, and what is motionless; all this is guided by Intelligence, founded on Intelligence. The universe is guided by Intelligence, founded on Intelligence.",
       "emoji": "🧠",
@@ -92,6 +57,41 @@
           "emoji": "🌳",
           "icon": "tree",
           "value": "The nose is Earth, and connected to scent."
+        }
+      ]
+    },
+    {
+      "key": "#Caste",
+      "value": "The division of labor is also based on the qualities inherent in peoples’ nature or their make up.",
+      "emoji": "🥼",
+      "icon": "graduation-hat",
+      "training": "/training/caste",
+      "image": "/assets/img/ins-caste.png",
+      "video": false,
+      "properties": [
+        {
+          "key": "Kshatriya",
+          "emoji": "👑",
+          "icon": "crown",
+          "value": "Heroism, vigor, firmness, dexterity, courage, charity, leaders, protectors"
+        },
+        {
+          "key": "Brahman",
+          "emoji": "🛕",
+          "icon": "temple",
+          "value": "Serenity, self control, austerity, purity, patience, honesty, intellectuals"
+        },
+        {
+          "key": "Vaisya",
+          "emoji": "👔",
+          "icon": "suit",
+          "value": "Cultivation, cattle rearing, business, trade, finance, and industry"
+        },
+        {
+          "key": "Sudra",
+          "emoji": "🧹",
+          "icon": "broom",
+          "value": "Workers good in service, labor, construction, gardening, maintenance"
         }
       ]
     },

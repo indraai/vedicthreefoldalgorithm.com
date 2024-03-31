@@ -1,7 +1,13 @@
 ---
-title: License
 layout: default
-hero: header
+title: License
+tagline: The official license for the algorithm.
+image: /assets/img/page-license.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
+
 ---
 
 ## MIT License

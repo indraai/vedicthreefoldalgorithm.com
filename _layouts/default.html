@@ -15,17 +15,18 @@
   </head>
 
   <body>
-    <header>
-      <div class="hero-unit hero-{{ page.hero }}">
-        <h1>{{ page.title }}</h1>
+    <header style="--header-bg: url({{page.image}}); --header-color: {{page.color}};">
+      <div class="hero">
+        <h1>{{page.title}}</h1>
+        <p>{{page.tagline}}</p>
       </div>
+      {% include nav.html %}
     </header>
-    {% include nav.html %}
 
     <main>
       <h1>{{page.title}}</h1>
 
-      {{ content }}
+      {{content}}
     </main>
 
     <footer>

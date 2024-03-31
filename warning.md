@@ -1,7 +1,12 @@
 ---
-title: Warning
 layout: default
-hero: header
+title: Warning
+tagline: The necessary warnings for proper usage.
+image: /assets/img/page-warning.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
 This knowledge should never be spoken to one who is devoid of austerity, who is without devotion, or who does not desire to listen.

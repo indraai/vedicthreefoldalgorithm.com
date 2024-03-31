@@ -3,7 +3,7 @@ html, body
   padding: 0
 
 body
-  background-color: $colors.darkest-grey
+  background-color: $colors.darker-grey
   color: lighten($colors.darkest-grey, 60%)
   background-repeat: no-repeat
   background-position: top center
@@ -78,6 +78,8 @@ dl
 
 .row
   display: flex
-  flex-flow: row nowrap
-  max-width: $page.width
   margin: auto
+  flex-flow: row nowrap
+
+  @media screen and (min-width: 900px)
+    max-width: $page.width

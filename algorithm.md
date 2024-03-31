@@ -1,7 +1,12 @@
 ---
-title: Algorithm
 layout: default
-hero: header
+title: Algorithm
+tagline: The algorithm is a framework developed by Quinn Michaels inspired by Vedic principles.
+image: /assets/img/page-algorithm.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
 <p>{{site.data.vedic-threefold-algorithm.describe}}</p>

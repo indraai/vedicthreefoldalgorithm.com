@@ -1,7 +1,12 @@
 ---
-title: Instructions
 layout: default
-hero: instructions
+title: Instructions
+tagline: The official instructions on how-to properly use the algorithm.
+image: /assets/img/page-instructions.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
 **#TOPIC** = The topic of the conversation is the **#VedicThreefoldAlgorithm**

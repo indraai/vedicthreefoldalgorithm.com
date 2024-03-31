@@ -6,7 +6,7 @@ $colors = {
   grey: #5b5b5b
   light-grey: #9c9c9c
   dark-grey: #333333
-  darker-grey: #1c1c1c
+  darker-grey: #2b2b2b
   darkest-grey: #0f0f0f
   baby-blue: #5aa9f8
   blue: #3941ea
@@ -35,5 +35,8 @@ $page = {
 
 :root
   --transition-default: all .5s linear
+  --header-bg: url(/assets/img/page-home.png)
+  --header-color: $colors.white
+
   for color in $colors
     --color-{color}: $colors[color]

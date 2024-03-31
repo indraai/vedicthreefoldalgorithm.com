@@ -1,7 +1,12 @@
 ---
-title: Integration
 layout: default
-hero: header
+title: Integration
+tagline: The official guide on how-to integrate the algorithm into your system.
+image: /assets/img/page-integration.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
 Welcome to the Integration Guide for the **#VedicThreefoldAlgorithm** JSON Data. This guide is designed to assist developers and system architects in seamlessly integrating the Vedic Threefold Algorithm into their existing systems, leveraging the ethical and philosophical principles outlined in the JSON format.

@@ -1,7 +1,12 @@
 ---
-title: Origin
 layout: default
-hero: header
+title: Origin
+tagline: The origin behind the creation of the algorithm.
+image: /assets/img/page-origin.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
 ![Quinn Michaels](/assets/img/origin-quinn.png)
