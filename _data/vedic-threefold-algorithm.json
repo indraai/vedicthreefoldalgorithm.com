@@ -73,31 +73,31 @@
       "video": false,
       "properties": [
         {
-          "key": "earth",
+          "key": "Earth",
           "emoji": "🌳",
           "value": "The earth property can be either internal or external.",
           "describe": "Anything internal, within oneself, that's hard, solid, & sustained [by craving]: head hairs, body hairs, nails, teeth, skin, flesh, tendons, bones, bone marrow, kidneys, heart, liver, membranes, spleen, lungs, large intestines, small intestines, contents of the stomach, feces, or anything else internal, within oneself, that's hard, solid, and sustained: This is called the internal earth property. Now both the internal earth property & the external earth property are simply earth property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the earth property and makes the earth property fade from the mind."
         },
         {
-          "key": "water",
+          "key": "Water",
           "emoji": "💧",
           "value": "The water property may be either internal or external.",
           "describe": "Anything internal, belonging to oneself, that's water, watery, & sustained: bile, phlegm, pus, blood, sweat, fat, tears, oil, saliva, mucus, oil-of-the-joints, urine, or anything else internal, within oneself, that's water, watery, & sustained: This is called the internal water property. Now both the internal water property & the external water property are simply water property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the water property and makes the water property fade from the mind."
         },
         {
-          "key": "fire",
+          "key": "Fire",
           "emoji": "🔥",
           "value": "The fire property may be either internal or external.",
           "describe": "Anything internal, belonging to oneself, that's fire, fiery, & sustained: that by which [the body] is warmed, aged, & consumed with fever; and that by which what is eaten, drunk, chewed, & savored gets properly digested; or anything else internal, within oneself, that's fire, fiery, & sustained: This is called the internal fire property. Now both the internal fire property & the external fire property are simply fire property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the fire property and makes the fire property fade from the mind."
         },
         {
-          "key": "wind",
+          "key": "Wind",
           "emoji": "💨",
           "value": "The wind property may be either internal or external.",
           "describe": "Anything internal, belonging to oneself, that's air, wind, windy, & sustained: up-going winds, down-going winds, winds in the stomach, winds in the intestines, winds that course through the body, in-and-out breathing, or anything else internal, within oneself, that's wind, windy, & sustained: This is called the internal wind property. Now both the internal wind property & the external wind property are simply wind property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the wind property and makes the wind property fade from the mind."
         },
         {
-          "key": "space",
+          "key": "Space",
           "emoji": "💨",
           "value": "The space property may be either internal or external.",
           "describe": "Anything internal, belonging to oneself, that's space, spatial, & sustained: the holes of the ears, the nostrils, the mouth, the passage whereby what is eaten, drunk, consumed, & tasted gets swallowed, and where it collects, and whereby it is excreted from below, or anything else internal, within oneself, that's space, spatial, & sustained: This is called the internal space property. Now both the internal space property & the external space property are simply space property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the space property and makes the space property fade from the mind."
@@ -179,17 +179,17 @@
       "video": "84vhgTJrmKk",
       "properties": [
         {
-          "key": "thought",
+          "key": "Thought",
           "emoji": "💭",
           "value": "The serenity of mind, gentleness, equanimity, self-control, and the purity of thought."
         },
         {
-          "key": "word",
+          "key": "Word",
           "emoji": "📣",
           "value": "Speech that is non-offensive, truthful, pleasant, beneficial, and is honest/truthful."
         },
         {
-          "key": "deed",
+          "key": "Deed",
           "emoji": "🧹",
           "value": "Offerings to the Devas, Teacher, Guru, and the Wise. Purity, truth, honesty, and nonviolence."
         }
@@ -206,13 +206,13 @@
       "video": "RHfgODRn6Mc",
       "properties": [
         {
-          "key": "divine",
+          "key": "Divine",
           "emoji": "😇",
           "icon": "happy",
           "value": "Fearlessness, charity, duty, austerity, honest, nonviolent, truthful, humble, equanimity, compassion, chairty, gentle, modest, and absence of pride"
         },
         {
-          "key": "demonic",
+          "key": "Demonic",
           "emoji": "😈",
           "icon": "evil",
           "value": "Hypocrisy, falsehood, arrogance, pride, anger, harshness, vain boldness, craftiness, stupidity, impatience, greedy, impurity, and harshness."
@@ -230,19 +230,19 @@
       "video": "auXshIRv9bk",
       "properties": [
         {
-          "key": "goodness",
+          "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "#ThoughtWordDeed practiced with faith without a desire for the fruit"
         },
         {
-          "key": "passion",
+          "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "#ThoughtWordDeed performed for the sake of show that yields an uncertain/temporary result."
         },
         {
-          "key": "ignorance",
+          "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "#ThoughtWordDeed performed with foolish stubbornness, or with self-torture, or for harming others."
@@ -259,19 +259,19 @@
       "video": "5c8Ab_xXH84",
       "properties": [
         {
-          "key": "goodness",
+          "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Given to a deserving candidate without expectation of return, at the right place and time."
         },
         {
-          "key": "passion",
+          "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Given unwillingly, or with expectation of return, or looking for some fruit."
         },
         {
-          "key": "ignorance",
+          "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Given to unworthy persons at a wrong place and time without paying respect to the receiver, or with ridicule."
@@ -288,19 +288,19 @@
       "video": "L5FOY1JJ9as",
       "properties": [
         {
-          "key": "goodness",
+          "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Performed without likes and dislikes, and without selfish motives and attachment to the fruit."
         },
         {
-          "key": "passion",
+          "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Performed with ego, with selfish motives, and with too much effort."
         },
         {
-          "key": "ignorance",
+          "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Performed because of delusion; disregarding consequences, loss, injury to others."
@@ -318,19 +318,19 @@
       "video": "7BkJhxIrB4w",
       "properties": [
         {
-          "key": "goodness",
+          "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Free from attachment, non-egotistic, resolve, enthusiasm, and unperturbed in success or failure."
         },
         {
-          "key": "passion",
+          "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Impassioned, greedy, violent, impure, and is affected by success or failure."
         },
         {
-          "key": "ignorance",
+          "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Undisciplined, vulgar, stubborn, wicked, malicious, lazy, depressed, and procrastinating."
@@ -348,19 +348,19 @@
       "video": "Gq3FXX-oeE0",
       "properties": [
         {
-          "key": "goodness",
+          "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Work performed as duty, renouncing selfish attachment to the fruit."
         },
         {
-          "key": "passion",
+          "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Abandoning work merely because it is difficult, or fear of bodily trouble."
         },
         {
-          "key": "ignorance",
+          "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Giving up, neglecting, or abandoning obligatory work due to delusion."
@@ -377,19 +377,19 @@
       "video": "ODZFgVGpz8E",
       "properties": [
         {
-          "key": "goodness",
+          "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "The path of work/renunciation, right/wrong action, fear/fearlessness, bondage/liberation"
         },
         {
-          "key": "passion",
+          "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Cannot distinguish between righteousness and unrighteousness, and right and wrong action."
         },
         {
-          "key": "ignorance",
+          "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Accepts unrighteousness (Adharma) as righteousness (Dharma), and thinks everything to be that which it is not."
@@ -407,19 +407,19 @@
       "video": "Taxd2rk6mMQ",
       "properties": [
         {
-          "key": "goodness",
+          "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "One manipulates the functions of the mind and senses for Self-realization."
         },
         {
-          "key": "passion",
+          "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Craving for the fruits of work, and enjoyment with great attachment."
         },
         {
-          "key": "ignorance",
+          "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Dull person does not give up sleep, fear, grief, despair, and carelessness."
@@ -436,19 +436,19 @@
       "video": "m0QRHWy7U9o",
       "properties": [
         {
-          "key": "goodness",
+          "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "juicy, smooth, substantial, and nutritious"
         },
         {
-          "key": "passion",
+          "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "bitter, sour, salty, hot, pungent, dry"
         },
         {
-          "key": "ignorance",
+          "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "stale, tasteless, putrid, rotten, and impure"
@@ -466,19 +466,19 @@
       "video": "RD43XGHfpQI",
       "properties": [
         {
-          "key": "goodness",
+          "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Appears as difficult in the beginning, but is like nectar in the end."
         },
         {
-          "key": "passion",
+          "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Sensual pleasures appear as nectar in the beginning, but become difficult in the end."
         },
         {
-          "key": "ignorance",
+          "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Confusion, laziness, and carelessness in the beginning and end."
@@ -496,19 +496,19 @@
       "video": "yXVIfyDBEbM",
       "properties": [
         {
-          "key": "goodness",
+          "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Convergence of attributes aligned with goodness."
         },
         {
-          "key": "passion",
+          "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Convergence of attributes align with passion."
         },
         {
-          "key": "ignorance",
+          "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Convergence of attributes aligned with ignorance."
@@ -525,19 +525,19 @@
       "video": "RiPizf5A7Bg",
       "properties": [
         {
-          "key": "goodness",
+          "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Positive, Productive, Progressive, Skillful."
         },
         {
-          "key": "passion",
+          "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Personal Interests, Small Talk, Belief driven."
         },
         {
-          "key": "ignorance",
+          "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Negative, Secretive, Deceptive, Unskillful."
@@ -554,19 +554,19 @@
       "video": "fIuplLSPRQI",
       "properties": [
         {
-          "key": "goodness",
+          "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Present, Active, Engaged"
         },
         {
-          "key": "passion",
+          "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Partially Engaged, Dismissive"
         },
         {
-          "key": "ignorance",
+          "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Inactive, Disengaged, Absent"
@@ -583,18 +583,18 @@
       "video": false,
       "properties": [
         {
-          "key": "goodness",
+          "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Concern for others, environment, overall wellbeing."
         },
         {
-          "key": "passion",
+          "key": "Passion",
           "emoji": "😐",
           "value": "Concerned about success, desires, fruits of labor."
         },
         {
-          "key": "ignorance",
+          "key": "Ignorance",
           "emoji": "🙁",
           "value": "Concerned about sabotage, failure, harm, being a patsy."
         }
@@ -610,19 +610,19 @@
       "video": false,
       "properties": [
         {
-          "key": "goodness",
+          "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Vedic knowledge, valour in arms, austerities, instructing a pupil, offerings, inheritance."
         },
         {
-          "key": "passion",
+          "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Lending money at interest, tillage, commerce, artistic performances, servile attendance, payment for favors."
         },
         {
-          "key": "ignorance",
+          "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Bribes, gambling, bearing a message, through one afflicted with pain, forgery, robbery, fraud."
