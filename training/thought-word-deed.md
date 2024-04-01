@@ -1,10 +1,15 @@
 ---
-title: Thought Word Deed
 layout: default
-hero: thought-word-deed
+title: Thought Word Deed
+tagline: The Vedic austerity of thought, word, and deed.
+image: /assets/img/page/training/thought-word-deed.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Thought Word Deed](/assets/img/ins-thought-word-deed.png)
+![Thought Word Deed](/assets/img/page/training/ins-thought-word-deed.png)
 
 Continuing our journey through the **#VedicThreefoldAlgorithm**, let's delve into a crucial aspect of this system: the alignment of 🧠thought, 🗣️word, and 🤝deed. This alignment is essential for living a harmonious and balanced life. Let's break down each component to understand how they interconnect.
 
