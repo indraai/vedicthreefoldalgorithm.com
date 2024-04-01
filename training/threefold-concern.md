@@ -1,12 +1,18 @@
 ---
-title: Threefold Concern
 layout: default
-hero: threefold-concern
+title: Threefold Concern
+tagline: Concern on the scale of goodness, passion, and ignorance.
+image: /assets/img/page/training/threefold-concern.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
+
 ---
 
-![Threefold Concern](/assets/img/ins-threefold-concern.png)
+In this installment, we focus on the critical concept known as **#ThreefoldConcern**. Understanding this aspect empowers us to evaluate and refine our priorities, ensuring they align with ethical and sustainable practices.
 
-Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. In this installment, we focus on the critical concept known as **#ThreefoldConcern**. Understanding this aspect empowers us to evaluate and refine our priorities, ensuring they align with ethical and sustainable practices.
+![Threefold Concern](/assets/img/page/training/ins-threefold-concern.png)
 
 ### Explained
 
@@ -18,7 +24,7 @@ Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. In
 
 - 😈 **Ignorance**: Concerns rooted in ignorance are marked by a lack of awareness, indifference, or a focus on harmful or trivial matters. These concerns often lead to actions that are detrimental to oneself and the wider community, fostering misunderstanding, negligence, and harm. Addressing and transforming these concerns are crucial for personal growth and societal improvement.
 
-### Applying in Daily Life
+## Application
 
 To cultivate a lifestyle and mindset that promotes beneficial concerns, consider the following approaches:
 

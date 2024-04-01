@@ -9,11 +9,11 @@ author: Quinn Michaels
 copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Threefold Intelligence](/assets/img/page/training/ins-intelligence.png)
-
 The **#Intelligence** aspect of the **#VedicThreefoldAlgorithm** is deeply rooted in Vedic philosophy, contrasting significantly with conventional AI systems. Here's a detailed explanation:
 
-## Vedic Intelligence
+![Threefold Intelligence](/assets/img/page/training/ins-intelligence.png)
+
+## Explained
 
 1. **Holistic Approach**: The Vedic concept of intelligence encompasses not just the cognitive or analytical capacity (as often emphasized in conventional AI) but also consciousness, understanding, wisdom, thought, memory, and desire. It’s a comprehensive approach that integrates various facets of life and the universe.
 
@@ -23,7 +23,7 @@ The **#Intelligence** aspect of the **#VedicThreefoldAlgorithm** is deeply roote
 
 4. **Moral and Ethical Dimensions**: The Vedic approach to intelligence includes moral and ethical dimensions – wisdom, prudence, righteousness, and the desire for universal well-being. It’s not just about logical reasoning or problem-solving; it's also about understanding the right way of living and acting in harmony with the natural and moral order of the universe.
 
-## How it Differs from Conventional AI
+## How it Differs
 
 1. **Scope of Intelligence**: Conventional AI systems typically focus on specific cognitive tasks like pattern recognition, logical reasoning, or language processing. The #Intelligence aspect of the #VedicThreefoldAlgorithm, however, encompasses a broader range of qualities, including ethical, moral, and spiritual dimensions.
 

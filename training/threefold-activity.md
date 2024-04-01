@@ -1,14 +1,19 @@
 ---
-title: Threefold Activity
 layout: default
-hero: threefold-activity
+title: Threefold Activity
+tagline: Activity on the scale of goodness, passion, and ignorance.
+image: /assets/img/page/training/threefold-activity.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Threefold Activity](/assets/img/ins-threefold-activity.png)
+In this segment, we delve into the concept of **#ThreefoldActivity**. Understanding this principle can significantly impact how we choose to engage in our daily tasks and interact with the world around us. Let's explore how activities influenced by goodness, passion, and ignorance can shape our experiences and growth.
 
-Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. In this segment, we delve into the concept of **#ThreefoldActivity**. Understanding this principle can significantly impact how we choose to engage in our daily tasks and interact with the world around us. Let's explore how activities influenced by goodness, passion, and ignorance can shape our experiences and growth.
+![Threefold Activity](/assets/img/page/training/ins-threefold-activity.png)
 
-## #ThreefoldActivity Explained
+## Explained
 
 Activities, according to the Vedic tradition, can also be categorized based on the three modes of nature: goodness, passion, and ignorance. Each mode influences our actions and their outcomes differently.
 
@@ -18,7 +23,7 @@ Activities, according to the Vedic tradition, can also be categorized based on t
 
 - 😈 **Ignorance**: Activities in the mode of ignorance are marked by negativity, secrecy, deception, and a lack of skill or effort. These actions are often harmful, unproductive, and lead to confusion, waste, or destruction. Engaging in such activities can result from laziness, carelessness, or harmful intentions, resulting in adverse outcomes for oneself and others. Examples include spreading misinformation, indulging in harmful habits, and avoiding responsibilities.
 
-## Applying #ThreefoldActivity in Daily Life
+## Application
 
 To cultivate activities in the mode of goodness and reduce those influenced by passion and ignorance, consider the following:
 

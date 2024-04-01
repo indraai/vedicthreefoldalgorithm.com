@@ -1,14 +1,18 @@
 ---
-title: Conclusion
 layout: default
-hero: instructions
+title: Conclusion
+tagline: Training recap and conclusion
+image: /assets/img/page/training/conclusion.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
+
 ---
 
-## Recap and Conclusion
-
-![Indu Indra](/assets/img/ins-indu-indra.png)
-
 Thank you for joining us on this comprehensive journey through the **#VedicThreefoldAlgorithm**. We have traversed the vast landscape of Vedic wisdom, exploring its multifaceted principles and their practical applications in our daily lives.
+
+![Indu Indra](/assets/img/page/training/ins-conclusion.png)
 
 Let's take a moment to recap and integrate the insights we've gained, ensuring that the profound teachings of the **#VedicThreefoldAlgorithm** can be effectively implemented to enhance our personal development and contribute positively to our communities.
 
@@ -81,4 +85,4 @@ Thank you for joining us in this exploration of the **#VedicThreefoldAlgorithm**
 
 [🎧 Download Recap Conclusion MP3](https://indra.team/audio/indra/threefold-recap-conclusion.mp3)
 
-[👟 Back to Training](training)
+[👟 Back to Training](/training)

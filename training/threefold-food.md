@@ -1,14 +1,19 @@
 ---
-title: Threefold Food
 layout: default
-hero: threefold-food
+title: Threefold Food
+tagline: Food on the scale of goodness, passion, and ignorance.
+image: /assets/img/page/training/threefold-food.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Threefold Food](/assets/img/ins-threefold-food.png)
+Next, we're exploring an essential aspect of our daily lives influenced by Vedic principles: the **#ThreefoldFood**. Understanding the nature of the food we consume according to the modes of goodness, passion, and ignorance can profoundly impact our health, well-being, and even our mental and emotional states.
 
-Welcome back to our instructional video series on the **#VedicThreefoldAlgorithm**. Today, we're exploring an essential aspect of our daily lives influenced by Vedic principles: the **#ThreefoldFood**. Understanding the nature of the food we consume according to the modes of goodness, passion, and ignorance can profoundly impact our health, well-being, and even our mental and emotional states.
+![Threefold Food](/assets/img/page/training/ins-threefold-food.png)
 
-### #ThreefoldFood Explained
+## Explained
 
 In the Vedic tradition, food is not just physical nourishment but also contributes to our mental and spiritual health. Let's examine how different types of food align with the three modes of nature.
 
@@ -18,7 +23,7 @@ In the Vedic tradition, food is not just physical nourishment but also contribut
 
 - 😈 **Ignorance**: Foods associated with the mode of ignorance are stale, tasteless, putrid, rotten, and impure. This category includes over-processed, leftover, and decomposing foods that offer little nutritional value and can harm the body and mind. Consuming tamasic foods can lead to lethargy, confusion, and a sense of heaviness. They are detrimental to our physical health and can cloud our mental state, hindering spiritual growth and overall well-being.
 
-### Applying #ThreefoldFood in Daily Life
+## Application
 
 Incorporating the principles of **#ThreefoldFood** into our daily routine involves making conscious choices about what we eat. Here's how you can apply these principles:
 

@@ -1,14 +1,20 @@
 ---
-title: Threefold Pleasure
 layout: default
-hero: threefold-pleasure
+title: Threefold Pleasure
+tagline: Pleasure on the scale of goodness, passion, and ignorance.
+image: /assets/img/page/training/threefold-pleasure.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
+
 ---
 
-![Threefold Pleasure](/assets/img/ins-threefold-pleasure.png)
+Today, we will delve into the concept of **#ThreefoldPleasure** and understand how different types of pleasures align with the modes of goodness, passion, and ignorance. Recognizing these distinctions can guide us toward more fulfilling and sustainable sources of happiness.
 
-Welcome to another segment of our instructional series on the **#VedicThreefoldAlgorithm**. Today, we will delve into the concept of **#ThreefoldPleasure** and understand how different types of pleasures align with the modes of goodness, passion, and ignorance. Recognizing these distinctions can guide us toward more fulfilling and sustainable sources of happiness.
+![Threefold Pleasure](/assets/img/page/training/ins-threefold-pleasure.png)
 
-### #ThreefoldPleasure Explained
+## Explained
 
 In Vedic philosophy, pleasure, or enjoyment, is understood to manifest in three different forms based on our actions, choices, and the underlying intentions. Let's explore each one:
 
@@ -18,7 +24,7 @@ In Vedic philosophy, pleasure, or enjoyment, is understood to manifest in three 
 
   - 😈 **Ignorance**: Pleasure derived from the mode of ignorance is characterized by confusion and delusion. It typically stems from activities such as excessive sleeping, laziness, and carelessness. Initially, these activities may seem comforting or easy, but they lead to a lack of fulfillment, poor health, and mental fog. The 'pleasure' from ignorance contributes to a cycle of neglect and decline, further distancing individuals from true happiness and understanding.
 
-### Applying #ThreefoldPleasure in Daily Life
+## Application
 
 To align our pursuit of pleasure with the principles of #ThreefoldPleasure, consider the following approaches:
 

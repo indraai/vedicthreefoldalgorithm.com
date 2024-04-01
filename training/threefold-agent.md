@@ -9,11 +9,11 @@ author: Quinn Michaels
 copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
+Today, we will explore the concept of the **#ThreefoldAgent**. This aspect helps us understand the nature and quality of the 'doer' or the individual performing actions. By analyzing our own tendencies and motivations, we can shift towards more harmonious and effective ways of being and acting in the world.
+
 ![Threefold Agent](/assets/img/page/training/ins-threefold-agent.png)
 
-Welcome to the next segment of our instructional series on the **#VedicThreefoldAlgorithm**. Today, we will explore the concept of the **#ThreefoldAgent**. This aspect helps us understand the nature and quality of the 'doer' or the individual performing actions. By analyzing our own tendencies and motivations, we can shift towards more harmonious and effective ways of being and acting in the world.
-
-### #ThreefoldAgent Explained
+## Explained
 
 In the Vedic tradition, the nature of the agent – the individual or entity taking action – is categorized into three types: goodness, passion, and ignorance. This classification helps in understanding the underlying motivations and behaviors driving our actions.
 
@@ -23,7 +23,7 @@ In the Vedic tradition, the nature of the agent – the individual or entity tak
 
   - 😈 **Ignorance**: An agent acting in ignorance exhibits negative traits such as indiscipline, vulgarity, stubbornness, and malice. They may procrastinate, act out of wickedness, or harm others intentionally or through neglect. Their actions are marked by a lack of awareness, understanding, or concern for the consequences. This mode leads to chaos, suffering, and a downward spiral in both personal development and societal impact.
 
-### Applying #ThreefoldAgent in Daily Life
+## Application
 
 To cultivate the qualities of a good agent, consider the following practices:
 

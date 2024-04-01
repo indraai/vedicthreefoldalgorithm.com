@@ -9,11 +9,11 @@ author: Quinn Michaels
 copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Five Element System](/assets/img/page/training/ins-five-elements.png)
-
 Welcome to our training on the **#VedicThreefoldAlgorithm**. In this segment, we're going to introduce you to the foundational concept that underpins this system: the Vedic 5-element system. This ancient wisdom, integral to Vedic philosophy, provides the framework for understanding the universe and our place within it. Let's dive in.
 
-### Introduction to the Vedic 5-Element System
+![Five Element System](/assets/img/page/training/ins-five-elements.png)
+
+## Introduction
 
 The Vedic 5-element system consists of 🔔Ether, 💨Air, 🔥Fire, 💦Water, and 🌳Earth. These elements are not just physical entities but represent different states of matter and dimensions of human experience. They serve as the foundation of the Vedic worldview and are crucial in understanding the **#VedicThreefoldAlgorithm**.
 

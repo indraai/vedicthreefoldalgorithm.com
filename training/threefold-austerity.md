@@ -9,9 +9,13 @@ author: Quinn Michaels
 copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
+In this segment we delve into the concept of **#ThreefoldAusterity**, an integral part of the **#VedicThreefoldAlgorithm**. Austerity, or Tapas in Sanskrit, involves self-discipline and self-control and is considered a vital practice for personal growth and spiritual development.
+
 ![Threefold Austerity](/assets/img/page/training/ins-threefold-austerity.png)
 
-In this segment of our instructional video, we delve into the concept of **#ThreefoldAusterity**, an integral part of the **#VedicThreefoldAlgorithm**. Austerity, or Tapas in Sanskrit, involves self-discipline and self-control and is considered a vital practice for personal growth and spiritual development. Let’s understand how this concept manifests in three different modes: goodness, passion, and ignorance.
+## Explained
+
+Let’s understand how this concept manifests in three different modes: goodness, passion, and ignorance.
 
   - 😇 **Goodness**: Austerity practiced with goodness is done with purity, sincerity, and faith, without any desire for personal gain or recognition. This form of austerity is aligned with the qualities of thought, word, and deed we previously discussed. When you practice austerity in the mode of goodness, you focus on self-improvement and spiritual growth, contributing positively to those around you. Your actions are not aimed at personal accolades or material rewards but are performed as a duty and a service to others and the higher self.
 
@@ -19,7 +23,7 @@ In this segment of our instructional video, we delve into the concept of **#Thre
 
   - 😈 **Ignorance**: Austerity practiced in the mode of ignorance is characterized by stubbornness, self-torture, or harming others. It lacks a clear purpose or positive intention and is often misguided or harmful. Actions performed under this mode can stem from delusion, misunderstanding, or the desire to inflict pain, either on oneself or others. This could involve extreme fasting to the point of self-harm, performing acts of penance based on incorrect beliefs, or imposing harsh disciplines on others without their consent. Austerity in ignorance leads to negative outcomes, causing suffering and further entangling individuals in their own misconceptions and misdeeds.
 
-### Applying Threefold Austerity
+## Application
 
 Understanding and applying the concept of **#ThreefoldAusterity** in our lives encourages us to examine our intentions and practices closely. It asks us to consider why we are undertaking certain disciplines or practices and what we hope to achieve through them. By aligning our austerities with the mode of goodness, we focus on genuine growth and contribution, fostering a sense of peace, contentment, and spiritual fulfillment.
 

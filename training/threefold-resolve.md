@@ -9,11 +9,11 @@ author: Quinn Michaels
 copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
+Here, we will discuss the concept of **#ThreefoldResolve**. This component of the Vedic wisdom helps us understand the different types of determination or resolve that individuals might exhibit based on the qualities of goodness, passion, and ignorance.
+
 ![Threefold Resolve](/assets/img/page/training/ins-threefold-resolve.png)
 
-Welcome to the next segment of our instructional series on the **#VedicThreefoldAlgorithm**. In this video, we will discuss the concept of **#ThreefoldResolve**. This component of the Vedic wisdom helps us understand the different types of determination or resolve that individuals might exhibit based on the qualities of goodness, passion, and ignorance.
-
-## #ThreefoldResolve Explained
+## Explained
 
 The resolve or determination of an individual can significantly influence their path in life, their actions, and ultimately their personal and spiritual development. Let's break down the three types of resolve:
 
@@ -23,7 +23,7 @@ The resolve or determination of an individual can significantly influence their 
 
 - 😈 **Ignorance**: In the mode of ignorance, resolve is weak or misdirected. It is characterized by inertia, avoidance of responsibility, and a lack of ambition or clarity. A person with this type of resolve may succumb to laziness, excessive sleep, fear, grief, or despair. They might shun personal growth and shy away from challenges. This leads to stagnation, unfulfilled potential, and a life marked by unconstructive habits and attitudes.
 
-## Applying #ThreefoldResolve in Daily Life
+## Application
 
 To cultivate and strengthen resolve in the mode of goodness, consider implementing the following practices:
 

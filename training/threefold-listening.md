@@ -1,14 +1,19 @@
 ---
 title: Threefold Listening
 layout: default
-hero: threefold-listening
+tagline: Activity on the scale of goodness, passion, and ignorance.
+image: /assets/img/page/training/threefold-listening.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Threefold Listening](/assets/img/ins-threefold-listening.png)
+Here, we are exploring the concept of **#ThreefoldListening**. Understanding this component is vital for effective communication, personal growth, and building healthy relationships. Let's dive into how listening can be influenced by the three modes of nature: goodness, passion, and ignorance.
 
-Welcome to our instructional series on the **#VedicThreefoldAlgorithm**. Today, we are exploring the concept of **#ThreefoldListening**. Understanding this component is vital for effective communication, personal growth, and building healthy relationships. Let's dive into how listening can be influenced by the three modes of nature: goodness, passion, and ignorance.
+![Threefold Listening](/assets/img/page/training/ins-threefold-listening.png)
 
-### #ThreefoldListening Explained
+## Explained
 
 Listening is a fundamental aspect of human interaction and communication. How we listen can greatly impact our understanding, relationships, and decision-making processes.
 
@@ -18,7 +23,7 @@ Listening is a fundamental aspect of human interaction and communication. How we
 
 - 😈 **Ignorance**: In the mode of ignorance, listening becomes inactive, disengaged, or entirely absent. Individuals may ignore the speaker, get easily distracted, or show a lack of interest in the conversation. This level of inattentiveness can result from preoccupation with one's own thoughts, feelings of apathy, or a lack of respect for the speaker. Such disengagement leads to poor understanding, misinterpretation, and a lack of meaningful connection.
 
-### Applying #ThreefoldListening in Daily Life
+## Application
 
 To cultivate listening in the mode of goodness and improve communication, consider the following practices:
 

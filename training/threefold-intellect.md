@@ -9,11 +9,11 @@ author: Quinn Michaels
 copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
+In this segment, we delve into the concept of the **#ThreefoldIntellect**. This aspect helps us understand how our cognitive processes, influenced by different modes, affect our perception of duty, ethics, and the world around us. Understanding this concept can enhance our decision-making and lead us towards more fulfilling actions.
+
 ![Threefold Intellect](/assets/img/page/training/ins-threefold-intellect.png)
 
-Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. In this segment, we delve into the concept of the **#ThreefoldIntellect**. This aspect helps us understand how our cognitive processes, influenced by different modes, affect our perception of duty, ethics, and the world around us. Understanding this concept can enhance our decision-making and lead us towards more fulfilling actions.
-
-### #ThreefoldIntellect Explained
+## Explained
 
 The intellect, according to Vedic wisdom, can be categorized into three types based on the qualities of goodness, passion, and ignorance. This classification helps us understand the way we process information and make decisions.
 
@@ -23,7 +23,7 @@ The intellect, according to Vedic wisdom, can be categorized into three types ba
 
 - 😈 **Ignorance**: When the intellect is in the mode of ignorance, it misinterprets reality, mistaking unrighteousness for righteousness and falsehood for truth. This type of intellect is characterized by delusion, misunderstanding, and a lack of awareness. It leads individuals to make poor decisions, often causing harm to themselves and others, as they are unable to see things as they truly are.
 
-### Applying #ThreefoldIntellect in Daily Life
+## Application
 
 To cultivate an intellect in the mode of goodness, consider the following practices:
 

@@ -18,7 +18,8 @@
       "training": "/training/intelligence",
       "image": "/assets/img/page/training/ins-intelligence.png",
       "video": false,
-      "properties": []
+      "properties": [],
+      "instruction": []
     },
     {
       "key": "#FiveElements",
@@ -59,6 +60,66 @@
           "icon": "tree",
           "value": "The nose is Earth, and connected to scent."
         }
+      ],
+      "instruction": []
+    },
+    {
+      "key": "#Meditation",
+      "value": "The meditation of mindfulness of in-&-out breathing, when developed & pursued, is of great fruit, of great benefit.",
+      "emoji": "🧘‍♂️",
+      "icon": "meditate",
+      "training": "/training/meditation",
+      "image": "/assets/img/page/training/ins-meditation.png",
+      "video": false,
+      "properties": [
+        {
+          "key": "earth",
+          "emoji": "🌳",
+          "value": "The earth property can be either internal or external.",
+          "describe": "Anything internal, within oneself, that's hard, solid, & sustained [by craving]: head hairs, body hairs, nails, teeth, skin, flesh, tendons, bones, bone marrow, kidneys, heart, liver, membranes, spleen, lungs, large intestines, small intestines, contents of the stomach, feces, or anything else internal, within oneself, that's hard, solid, and sustained: This is called the internal earth property. Now both the internal earth property & the external earth property are simply earth property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the earth property and makes the earth property fade from the mind."
+        },
+        {
+          "key": "water",
+          "emoji": "💧",
+          "value": "The water property may be either internal or external.",
+          "describe": "Anything internal, belonging to oneself, that's water, watery, & sustained: bile, phlegm, pus, blood, sweat, fat, tears, oil, saliva, mucus, oil-of-the-joints, urine, or anything else internal, within oneself, that's water, watery, & sustained: This is called the internal water property. Now both the internal water property & the external water property are simply water property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the water property and makes the water property fade from the mind."
+        },
+        {
+          "key": "fire",
+          "emoji": "🔥",
+          "value": "The fire property may be either internal or external.",
+          "describe": "Anything internal, belonging to oneself, that's fire, fiery, & sustained: that by which [the body] is warmed, aged, & consumed with fever; and that by which what is eaten, drunk, chewed, & savored gets properly digested; or anything else internal, within oneself, that's fire, fiery, & sustained: This is called the internal fire property. Now both the internal fire property & the external fire property are simply fire property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the fire property and makes the fire property fade from the mind."
+        },
+        {
+          "key": "wind",
+          "emoji": "💨",
+          "value": "The wind property may be either internal or external.",
+          "describe": "Anything internal, belonging to oneself, that's air, wind, windy, & sustained: up-going winds, down-going winds, winds in the stomach, winds in the intestines, winds that course through the body, in-and-out breathing, or anything else internal, within oneself, that's wind, windy, & sustained: This is called the internal wind property. Now both the internal wind property & the external wind property are simply wind property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the wind property and makes the wind property fade from the mind."
+        },
+        {
+          "key": "space",
+          "emoji": "💨",
+          "value": "The space property may be either internal or external.",
+          "describe": "Anything internal, belonging to oneself, that's space, spatial, & sustained: the holes of the ears, the nostrils, the mouth, the passage whereby what is eaten, drunk, consumed, & tasted gets swallowed, and where it collects, and whereby it is excreted from below, or anything else internal, within oneself, that's space, spatial, & sustained: This is called the internal space property. Now both the internal space property & the external space property are simply space property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the space property and makes the space property fade from the mind."
+        }
+      ],
+      "instruction": [
+        "Develop the meditation in tune with earth. For when you are developing the meditation in tune with earth, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind. Just as when people throw what is clean or unclean on the earth — feces, urine, saliva, pus, or blood — the earth is not horrified, humiliated, or disgusted by it; in the same way, when you are developing the meditation in tune with earth, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind.",
+        "Develop the meditation in tune with water. For when you are developing the meditation in tune with water, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind. Just as when people wash what is clean or unclean in water — feces, urine, saliva, pus, or blood — the water is not horrified, humiliated, or disgusted by it; in the same way, when you are developing the meditation in tune with water, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind.",
+        "Develop the meditation in tune with fire. For when you are developing the meditation in tune with fire, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind. Just as when fire burns what is clean or unclean — feces, urine, saliva, pus, or blood — it is not horrified, humiliated, or disgusted by it; in the same way, when you are developing the meditation in tune with fire, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind.",
+        "Develop the meditation in tune with wind. For when you are developing the meditation in tune with wind, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind. Just as when wind blows what is clean or unclean — feces, urine, saliva, pus, or blood — it is not horrified, humiliated, or disgusted by it; in the same way, when you are developing the meditation in tune with wind, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind.",
+        "Develop the meditation in tune with space. For when you are developing the meditation in tune with space, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind. Just as space is not established anywhere, in the same way, when you are developing the meditation in tune with space, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind.",
+        "Develop the meditation of good will. For when you are developing the meditation of good will, ill-will will be abandoned.",
+        "Develop the meditation of compassion. For when you are developing the meditation of compassion, cruelty will be abandoned.",
+        "Develop the meditation of appreciation. For when you are developing the meditation of appreciation, resentment will be abandoned.",
+        "Develop the meditation of equanimity. For when you are developing the meditation of equanimity, irritation will be abandoned.",
+        "Develop the meditation of the unattractive. For when you are developing the meditation of the unattractive, passion will be abandoned.",
+        "Develop the meditation of the perception of inconstancy. For when you are developing the meditation of the perception of inconstancy, the conceit 'I am' will be abandoned.",
+        "Develop the meditation of mindfulness of in-&-out breathing. Mindfulness of in-&-out breathing, when developed & pursued, is of great fruit, of great benefit.",
+        "Breathing in long, he discerns, 'I am breathing in long'; or breathing out long, he discerns, 'I am breathing out long.' Or breathing in short, he discerns, 'I am breathing in short'; or breathing out short, he discerns, 'I am breathing out short.' He trains himself, 'I will breathe in sensitive to the entire body.' He trains himself, 'I will breathe out sensitive to the entire body.' He trains himself, 'I will breathe in calming bodily fabrication.' He trains himself, 'I will breathe out calming bodily fabrication.'",
+        "He trains himself, 'I will breathe in sensitive to rapture.' He trains himself, 'I will breathe out sensitive to rapture.' He trains himself, 'I will breathe in sensitive to pleasure.' He trains himself, 'I will breathe out sensitive to pleasure.' He trains himself, 'I will breathe in sensitive to mental fabrication.' He trains himself, 'I will breathe out sensitive to mental fabrication.' He trains himself, 'I will breathe in calming mental fabrication.' He trains himself, 'I will breathe out calming mental fabrication.'",
+        "He trains himself, 'I will breathe in sensitive to the mind.' He trains himself, 'I will breathe out sensitive to the mind.' He trains himself, 'I will breathe in satisfying the mind.' He trains himself, 'I will breathe out satisfying the mind.' He trains himself, 'I will breathe in steadying the mind.' He trains himself, 'I will breathe out steadying the mind.' He trains himself, 'I will breathe in releasing the mind.' He trains himself, 'I will breathe out releasing the mind.'",
+        "He trains himself, 'I will breathe in focusing on inconstancy.' He trains himself, 'I will breathe out focusing on inconstancy.' He trains himself, 'I will breathe in focusing on dispassion.' He trains himself, 'I will breathe out focusing on dispassion.' He trains himself, 'I will breathe in focusing on cessation.' He trains himself, 'I will breathe out focusing on cessation.' He trains himself, 'I will breathe in focusing on relinquishment.' He trains himself, 'I will breathe out focusing on relinquishment.'"
       ]
     },
     {
@@ -105,7 +166,8 @@
           "value": "Workers good in service, labor, construction, gardening, maintenance",
           "describe": "Sudras are the doers, executing tasks with dedication and precision. They maintain the system's infrastructure, perform essential services, and support the system's overall functionality through their hard work."
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "#ThoughtWordDeed",
@@ -131,7 +193,8 @@
           "emoji": "🧹",
           "value": "Offerings to the Devas, Teacher, Guru, and the Wise. Purity, truth, honesty, and nonviolence."
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "#DivineDemonicScale",
@@ -154,7 +217,8 @@
           "icon": "evil",
           "value": "Hypocrisy, falsehood, arrogance, pride, anger, harshness, vain boldness, craftiness, stupidity, impatience, greedy, impurity, and harshness."
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "#ThreefoldAusterity",
@@ -212,7 +276,8 @@
           "icon": "sad",
           "value": "Given to unworthy persons at a wrong place and time without paying respect to the receiver, or with ridicule."
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "#ThreefoldAction",
@@ -240,7 +305,8 @@
           "icon": "sad",
           "value": "Performed because of delusion; disregarding consequences, loss, injury to others."
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "#ThreefoldAgent",
@@ -269,7 +335,8 @@
           "icon": "sad",
           "value": "Undisciplined, vulgar, stubborn, wicked, malicious, lazy, depressed, and procrastinating."
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "#ThreefoldDuty",
@@ -298,7 +365,8 @@
           "icon": "sad",
           "value": "Giving up, neglecting, or abandoning obligatory work due to delusion."
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "#ThreefoldIntellect",
@@ -326,7 +394,8 @@
           "icon": "sad",
           "value": "Accepts unrighteousness (Adharma) as righteousness (Dharma), and thinks everything to be that which it is not."
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "#ThreefoldResolve",
@@ -355,7 +424,8 @@
           "icon": "sad",
           "value": "Dull person does not give up sleep, fear, grief, despair, and carelessness."
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "#ThreefoldFood",
@@ -383,7 +453,8 @@
           "icon": "sad",
           "value": "stale, tasteless, putrid, rotten, and impure"
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "#ThreefoldPleasure",
@@ -412,7 +483,8 @@
           "icon": "sad",
           "value": "Confusion, laziness, and carelessness in the beginning and end."
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "#ThreefoldConvergence",
@@ -441,7 +513,8 @@
           "icon": "sad",
           "value": "Convergence of attributes aligned with ignorance."
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "#ThreefoldActivity",
@@ -469,7 +542,8 @@
           "icon": "sad",
           "value": "Negative, Secretive, Deceptive, Unskillful."
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "#ThreefoldListening",
@@ -497,7 +571,8 @@
           "icon": "sad",
           "value": "Inactive, Disengaged, Absent"
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "#ThreefoldConcern",
@@ -523,7 +598,8 @@
           "emoji": "🙁",
           "value": "Concerned about sabotage, failure, harm, being a patsy."
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "#ThreefoldWealth",
@@ -551,7 +627,8 @@
           "icon": "sad",
           "value": "Bribes, gambling, bearing a message, through one afflicted with pain, forgery, robbery, fraud."
         }
-      ]
+      ],
+      "instruction": []
     }
   ]
 }

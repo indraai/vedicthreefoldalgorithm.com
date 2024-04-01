@@ -9,9 +9,9 @@ author: Quinn Michaels
 copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Thought Word Deed](/assets/img/page/training/ins-thought-word-deed.png)
-
 Continuing our journey through the **#VedicThreefoldAlgorithm**, let's delve into a crucial aspect of this system: the alignment of 🧠thought, 🗣️word, and 🤝deed. This alignment is essential for living a harmonious and balanced life. Let's break down each component to understand how they interconnect.
+
+![Thought Word Deed](/assets/img/page/training/ins-thought-word-deed.png)
 
 ## Thought
 
@@ -25,7 +25,7 @@ The second component is '🗣️Word.' In the Vedic tradition, how we speak refl
 
 The third component is '🤝Deed.' This encompasses our actions in the world, including how we express our respect and reverence through offerings to the celestial controllers (Devas), the priest, the guru, and the wise. Our deeds should embody purity, truth, honesty, and nonviolence. By ensuring that our actions reflect these values, we contribute positively to our environment and society. Our deeds become a reflection of our inner state, creating a consistent and harmonious expression of our deepest values.
 
-## Alignment of Thought, Word, and Deed
+## Alignment
 
 The alignment of 🧠thought, 🗣️word, and 🤝deed is at the heart of the **#VedicThreefoldAlgorithm**. This alignment ensures that our inner beliefs and values are consistently expressed in our speech and actions. When our thoughts, words, and deeds are in harmony, we live authentically and with integrity. This congruence reduces internal conflict, promotes inner peace, and enhances our impact on the world.
 

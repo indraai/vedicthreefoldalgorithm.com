@@ -1,12 +1,18 @@
 ---
 title: Threefold Wealth
 layout: default
-hero: threefold-wealth
+tagline: Wealth on the scale of goodness, passion, and ignorance.
+image: /assets/img/page/training/threefold-wealth.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
+
 ---
 
-![Threefold Wealth](/assets/img/ins-threefold-wealth.png)
+In this segment we'll delve into an enlightening component known as **#ThreefoldWealth**. This segment helps us navigate the complex landscape of wealth generation and management through the lens of Vedic wisdom.
 
-Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. Today, we'll delve into an enlightening component known as **#ThreefoldWealth**. This segment helps us navigate the complex landscape of wealth generation and management through the lens of Vedic wisdom.
+![Threefold Wealth](/assets/img/page/training/ins-threefold-wealth.png)
 
 ### Explained
 

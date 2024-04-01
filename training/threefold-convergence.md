@@ -1,12 +1,18 @@
 ---
-title: Threefold Convergence
 layout: default
-hero: threefold-convergence
+title: Threefold Convergence
+tagline: Convergence on the scale of goodness, passion, and ignorance.
+image: /assets/img/page/training/threefold-convergence.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Threefold Convergence](/assets/img/ins-threefold-convergence.png)
-
 Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. In this segment, we focus on an intriguing aspect known as the **#ThreefoldConvergence**. This principle helps us understand the collective dynamics and the impact of group actions based on the qualities of goodness, passion, and ignorance.
+
+![Threefold Convergence](/assets/img/page/training/ins-threefold-convergence.png)
+
 
 ### Explained
 

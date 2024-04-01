@@ -9,11 +9,11 @@ author: Quinn Michaels
 copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
+Here, we will be discussing an integral concept within this system: the **#ThreefoldDuty**. Understanding our duties and how we approach them can significantly impact our personal development and our contribution to society.
+
 ![Threefold Duty](/assets/img/page/training/ins-threefold-duty.png)
 
-Welcome back to our instructional video series on the **#VedicThreefoldAlgorithm**. Today, we will be discussing an integral concept within this system: the **#ThreefoldDuty**. Understanding our duties and how we approach them can significantly impact our personal development and our contribution to society.
-
-### #ThreefoldDuty Explained
+## Explained
 
 In the context of the Vedic Threefold Algorithm, our duties or responsibilities can be approached through three distinct lenses: goodness, passion, and ignorance. Each of these influences our attitude and execution of our obligations in different ways.
 
@@ -23,7 +23,7 @@ In the context of the Vedic Threefold Algorithm, our duties or responsibilities 
 
   - 😈 **Ignorance (Tamas)**: In the mode of ignorance, individuals might neglect or abandon their duties due to laziness, confusion, or delusion. They may rationalize their lack of action with excuses, avoiding responsibility due to fear, misunderstanding, or a lack of interest. This neglect can lead to chaos, harm, or the deterioration of one's personal and professional life, as well as negative consequences for others who depend on their actions.
 
-### Applying #ThreefoldDuty in Daily Life
+## Application
 
 To incorporate the principles of **#ThreefoldDuty** into our lives, we can take the following steps:
 
