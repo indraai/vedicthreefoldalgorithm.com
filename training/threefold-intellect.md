@@ -1,10 +1,15 @@
 ---
-title: Threefold Intellect
 layout: default
-hero: threefold-intellect
+title: Threefold Intellect
+tagline: Intellect on the scale of goodness, passion, and ignorance.
+image: /assets/img/page/training/threefold-intellect.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Threefold Intellect](/assets/img/ins-threefold-intellect.png)
+![Threefold Intellect](/assets/img/page/training/ins-threefold-intellect.png)
 
 Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. In this segment, we delve into the concept of the **#ThreefoldIntellect**. This aspect helps us understand how our cognitive processes, influenced by different modes, affect our perception of duty, ethics, and the world around us. Understanding this concept can enhance our decision-making and lead us towards more fulfilling actions.
 

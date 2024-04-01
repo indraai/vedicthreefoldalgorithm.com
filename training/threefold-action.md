@@ -1,10 +1,15 @@
 ---
-title: Threefold Action
 layout: default
-hero: threefold-action
+title: Threefold Action
+tagline: Action on the scale of goodness, passion, and ignorance.
+image: /assets/img/page/training/threefold-action.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Threefold Action](/assets/img/ins-threefold-action.png)
+![Threefold Action](/assets/img/page/training/ins-threefold-action.png)
 
 Welcome back to our instructional series on the **#VedicThreefoldAlgorithm**. In this segment, we delve into the concept of **#ThreefoldAction**, an essential component that guides us on how to perform actions in alignment with the Vedic principles. Understanding and applying these concepts can significantly influence our personal growth and societal harmony.
 

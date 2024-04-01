@@ -1,10 +1,15 @@
 ---
-title: Threefold Duty
 layout: default
-hero: threefold-duty
+title: Threefold Duty
+tagline: Duty on the scale of goodness, passion, and ignorance.
+image: /assets/img/page/training/threefold-duty.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Threefold Duty](/assets/img/ins-threefold-duty.png)
+![Threefold Duty](/assets/img/page/training/ins-threefold-duty.png)
 
 Welcome back to our instructional video series on the **#VedicThreefoldAlgorithm**. Today, we will be discussing an integral concept within this system: the **#ThreefoldDuty**. Understanding our duties and how we approach them can significantly impact our personal development and our contribution to society.
 

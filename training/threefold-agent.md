@@ -1,10 +1,15 @@
 ---
-title: Threefold Agent
 layout: default
-hero: threefold-agent
+title: Threefold Agent
+tagline: Agent on the scale of goodness, passion, and ignorance.
+image: /assets/img/page/training/threefold-agent.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Threefold Agent](/assets/img/ins-threefold-agent.png)
+![Threefold Agent](/assets/img/page/training/ins-threefold-agent.png)
 
 Welcome to the next segment of our instructional series on the **#VedicThreefoldAlgorithm**. Today, we will explore the concept of the **#ThreefoldAgent**. This aspect helps us understand the nature and quality of the 'doer' or the individual performing actions. By analyzing our own tendencies and motivations, we can shift towards more harmonious and effective ways of being and acting in the world.
 

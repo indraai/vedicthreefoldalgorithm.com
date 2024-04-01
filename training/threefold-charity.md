@@ -1,10 +1,15 @@
 ---
-title: Threefold Charity
 layout: default
-hero: threefold-charity
+title: Threefold Charity
+tagline: Charity on the scale of goodness, passion, and ignorance.
+image: /assets/img/page/training/threefold-charity.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Threefold Charity](/assets/img/ins-threefold-charity.png)
+![Threefold Charity](/assets/img/page/training/ins-threefold-charity.png)
 
 Welcome back to our instructional video on the **#VedicThreefoldAlgorithm**. In this segment, we'll explore the concept of **#ThreefoldCharity** and how it is interpreted and applied within the framework of the Vedic wisdom. Understanding this concept will help us enhance our approach to giving and support the cultivation of a more harmonious and balanced life.
 

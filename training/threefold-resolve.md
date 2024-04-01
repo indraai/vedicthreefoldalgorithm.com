@@ -1,10 +1,15 @@
 ---
-title: Threefold Resolve
 layout: default
-hero: threefold-resolve
+title: Threefold Resolve
+tagline: Resolve on the scale of goodness, passion, and ignorance.
+image: /assets/img/page/training/threefold-resolve.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Threefold Resolve](../img/ins-threefold-resolve.png)
+![Threefold Resolve](/assets/img/page/training/ins-threefold-resolve.png)
 
 Welcome to the next segment of our instructional series on the **#VedicThreefoldAlgorithm**. In this video, we will discuss the concept of **#ThreefoldResolve**. This component of the Vedic wisdom helps us understand the different types of determination or resolve that individuals might exhibit based on the qualities of goodness, passion, and ignorance.
 

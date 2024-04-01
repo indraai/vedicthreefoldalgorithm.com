@@ -1,10 +1,15 @@
 ---
 title: Threefold Austerity
 layout: default
-hero: threefold-austerity
+tagline: Austerity on the scale of goodness, passion, and ignorance.
+image: /assets/img/page/training/threefold-austerity.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Threefold Austerity](/assets/img/ins-threefold-austerity.png)
+![Threefold Austerity](/assets/img/page/training/ins-threefold-austerity.png)
 
 In this segment of our instructional video, we delve into the concept of **#ThreefoldAusterity**, an integral part of the **#VedicThreefoldAlgorithm**. Austerity, or Tapas in Sanskrit, involves self-discipline and self-control and is considered a vital practice for personal growth and spiritual development. Let’s understand how this concept manifests in three different modes: goodness, passion, and ignorance.
 

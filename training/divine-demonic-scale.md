@@ -1,10 +1,15 @@
 ---
-title: Divine Demonic Scale
 layout: default
-hero: divine-demonic-scale
+title: Divine Demonic Scale
+tagline: The Divine Demonic Scale assists in measuring the two type of beings.
+image: /assets/img/page/training/divine-demonic-scale.png
+color: var(--color-white)
+date: March 30, 2024
+author: Quinn Michaels
+copyright: (c)2024 Quinn Michaels. All rights reserved.
 ---
 
-![Divine Demonic Scale](/assets/img/ins-divine-demonic-scale.png)
+![Divine Demonic Scale](/assets/img/page/training/ins-divine-demonic-scale.png)
 
 In this segment, we'll explore an intriguing component known as the **#DivineDemonicScale**. This scale helps us understand the dual nature within us and guides us towards self-improvement and better decision-making. Let's dive deeper.
 

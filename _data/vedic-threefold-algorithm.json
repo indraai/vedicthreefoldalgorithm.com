@@ -8,7 +8,7 @@
   "date": "March 26, 2024",
   "emoji": "☸️",
   "icon": "lotus",
-  "image": "/assets/img/ins-threefold-algorithm.png",
+  "image": "/assets/img/page/training/ins-threefold-algorithm.png",
   "data": [
     {
       "key": "#Intelligence",
@@ -16,7 +16,7 @@
       "emoji": "🧠",
       "icon": "brain",
       "training": "/training/intelligence",
-      "image": "/assets/img/ins-intelligence.png",
+      "image": "/assets/img/page/training/ins-intelligence.png",
       "video": false,
       "properties": []
     },
@@ -26,7 +26,7 @@
       "emoji": "🖐️",
       "icon": "hand",
       "training": "/training/five-elements",
-      "image": "/assets/img/ins-five-elements.png",
+      "image": "/assets/img/page/training/ins-five-elements.png",
       "video": "wq6WVKkQcZA",
       "properties": [
         {
@@ -67,7 +67,7 @@
       "emoji": "🥼",
       "icon": "graduation-hat",
       "training": "/training/caste",
-      "image": "/assets/img/ins-caste.png",
+      "image": "/assets/img/page/training/ins-caste.png",
       "video": false,
       "properties": [
         {
@@ -113,7 +113,7 @@
       "emoji": "☂️",
       "icon": "umbrella",
       "training": "/training/thought-word-deed",
-      "image": "/assets/img/ins-thought-word-deed.png",
+      "image": "/assets/img/page/training/ins-thought-word-deed.png",
       "video": "84vhgTJrmKk",
       "properties": [
         {
@@ -139,7 +139,7 @@
       "emoji": "⚖️",
       "icon": "balance",
       "training": "/training/divine-demonic-scale",
-      "image": "/assets/img/ins-divine-demonic-scale.png",
+      "image": "/assets/img/page/training/ins-divine-demonic-scale.png",
       "video": "RHfgODRn6Mc",
       "properties": [
         {
@@ -162,7 +162,7 @@
       "emoji": "🧘‍♂️",
       "icon": "fingers-crossed",
       "training": "/training/threefold-austerity",
-      "image": "/assets/img/ins-threefold-austerity.png",
+      "image": "/assets/img/page/training/ins-threefold-austerity.png",
       "video": "auXshIRv9bk",
       "properties": [
         {
@@ -191,7 +191,7 @@
       "emoji": "🎁",
       "icon": "gift",
       "training": "/training/threefold-charity",
-      "image": "/assets/img/ins-threefold-charity.png",
+      "image": "/assets/img/page/training/ins-threefold-charity.png",
       "video": "5c8Ab_xXH84",
       "properties": [
         {
@@ -219,7 +219,7 @@
       "value": "Analyze actions based on their motivation and impact, categorizing them into actions performed out of goodness, passion, or ignorance.",
       "emoji": "🎬",
       "training": "/training/threefold-action",
-      "image": "/assets/img/ins-threefold-action.png",
+      "image": "/assets/img/page/training/ins-threefold-action.png",
       "video": "L5FOY1JJ9as",
       "properties": [
         {
@@ -248,7 +248,7 @@
       "emoji": "🎅",
       "icon": "man",
       "training": "/training/threefold-agent",
-      "image": "/assets/img/ins-threefold-agent.png",
+      "image": "/assets/img/page/training/ins-threefold-agent.png",
       "video": "7BkJhxIrB4w",
       "properties": [
         {
@@ -277,7 +277,7 @@
       "emoji": "🫡",
       "icon": "shield",
       "training": "/training/threefold-duty",
-      "image": "/assets/img/ins-threefold-duty.png",
+      "image": "/assets/img/page/training/ins-threefold-duty.png",
       "video": "Gq3FXX-oeE0",
       "properties": [
         {
@@ -305,7 +305,7 @@
       "value": "Evaluate and distinguish between right/wrong, beneficial/harmful categorized into three types based on the qualities of goodness, passion, and ignorance.",
       "emoji": "🧐",
       "training": "/training/threefold-intellect",
-      "image": "/assets/img/ins-threefold-intellect.png",
+      "image": "/assets/img/page/training/ins-threefold-intellect.png",
       "video": "ODZFgVGpz8E",
       "properties": [
         {
@@ -334,7 +334,7 @@
       "emoji": "🧩",
       "icon": "puzzle",
       "training": "/training/threefold-resolve",
-      "image": "/assets/img/ins-threefold-resolve.png",
+      "image": "/assets/img/page/training/ins-threefold-resolve.png",
       "video": "Taxd2rk6mMQ",
       "properties": [
         {
@@ -362,7 +362,7 @@
       "value": "Identify to the types of food and their effects, classified according to the three qualities, affecting both physical health and mental well-being.",
       "emoji": "🍚",
       "training": "/training/threefold-food",
-      "image": "/assets/img/ins-threefold-food.png",
+      "image": "/assets/img/page/training/ins-threefold-food.png",
       "video": "m0QRHWy7U9o",
       "properties": [
         {
@@ -391,7 +391,7 @@
       "emoji": "🎈",
       "icon": "balloon",
       "training": "/training/threefold-pleasure",
-      "image": "/assets/img/ins-threefold-pleasure.png",
+      "image": "/assets/img/page/training/ins-threefold-pleasure.png",
       "video": "RD43XGHfpQI",
       "properties": [
         {
@@ -420,7 +420,7 @@
       "emoji": "📍",
       "icon": "check-square",
       "training": "/training/threefold-convergence",
-      "image": "/assets/img/ins-threefold-convergence.png",
+      "image": "/assets/img/page/training/ins-threefold-convergence.png",
       "video": "yXVIfyDBEbM",
       "properties": [
         {
@@ -448,7 +448,7 @@
       "value": "Distinguish between activities based on their nature and impact, identifying them as positive, neutral, or negative.",
       "emoji": "🕺",
       "training": "/training/threefold-activity",
-      "image": "/assets/img/ins-threefold-activity.png",
+      "image": "/assets/img/page/training/ins-threefold-activity.png",
       "video": "RiPizf5A7Bg",
       "properties": [
         {
@@ -476,7 +476,7 @@
       "value": "Categorize listening behavior into engaged, partially engaged, and disengaged, reflecting the level of attention and receptiveness.",
       "emoji": "👂",
       "training": "/training/threefold-listening",
-      "image": "/assets/img/ins-threefold-listening.png",
+      "image": "/assets/img/page/training/ins-threefold-listening.png",
       "video": "fIuplLSPRQI",
       "properties": [
         {
@@ -504,7 +504,7 @@
       "value": "Categorizes concern into identifiable categories so that concerns of goodness, passion, and ignorance are easliy identified.",
       "emoji": "❤️",
       "training": "/training/threefold-concern",
-      "image": "/assets/img/ins-threefold-concern.png",
+      "image": "/assets/img/page/training/ins-threefold-concern.png",
       "video": false,
       "properties": [
         {
@@ -530,7 +530,7 @@
       "value": "Based on the three modes of Vedic wealth generation White, Spotted, and Black types divided mapped to goodness, passion, and ignorance.",
       "emoji": "💰",
       "training": "/training/threefold-wealth",
-      "image": "/assets/img/ins-threefold-wealth.png",
+      "image": "/assets/img/page/training/ins-threefold-wealth.png",
       "video": false,
       "properties": [
         {
