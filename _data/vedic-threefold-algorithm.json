@@ -11,7 +11,7 @@
   "image": "/assets/img/page/training/ins-threefold-algorithm.png",
   "data": [
     {
-      "key": "#IndraMind",
+      "key": "Indra Mind",
       "value": "May we live free from hostility, free from violence, free from rivalry, free from ill will, free from those who are hostile.",
       "emoji": "🤴",
       "icon": "king",
@@ -49,7 +49,7 @@
       "instruction": []
     },
     {
-      "key": "#Intelligence",
+      "key": "Intelligence",
       "value": "The heart, the mind, consciousness, comprehension, understanding, intelligence, wisdom, insight, resolution, thought, prudence, eagerness, memory, conception, power, life, desire, will—all these are names of the Intelligence. The five great elements 🔔Ether, 💨Air, 🔥Fire, 💧Water, and 🌳Earth, whatsoever is breathing, walking or flying, and what is motionless; all this is guided by Intelligence, founded on Intelligence. The universe is guided by Intelligence, founded on Intelligence.",
       "emoji": "🧠",
       "icon": "brain",
@@ -64,7 +64,7 @@
       ]
     },
     {
-      "key": "#FiveElements",
+      "key": "Five Elements",
       "value": "All living creatures are made of the five primeval elements. All mobile and immobile objects are made of these five elements. The five senses also of living creatures partake of the five elements.",
       "emoji": "🖐️",
       "icon": "hand",
@@ -131,7 +131,7 @@
       ]
     },
     {
-      "key": "#Meditation",
+      "key": "Meditation",
       "value": "The meditation of mindfulness of in-&-out breathing, when developed & pursued, is of great fruit, of great benefit.",
       "emoji": "🧘‍♂️",
       "icon": "meditate",
@@ -192,7 +192,7 @@
       ]
     },
     {
-      "key": "#Caste",
+      "key": "Caste",
       "value": "The concept of caste as a framework for the division of labor based on innate qualities and dispositions of individuals.",
       "emoji": "🥼",
       "icon": "graduation-hat",
@@ -241,7 +241,7 @@
       "instruction": []
     },
     {
-      "key": "#ThoughtWordDeed",
+      "key": "Thought Word Deed",
       "value": "Emphasizes the importance of integrity in one's thoughts, words, and deeds reflecting the moral and ethical standards that guide interactions.",
       "emoji": "☂️",
       "icon": "umbrella",
@@ -269,7 +269,7 @@
       "instruction": []
     },
     {
-      "key": "#DivineDemonicScale",
+      "key": "Divine Demonic Scale",
       "value": "There are two scales of beings. The divine (wise), and the demonic (ignorant). Individuals measure on the scale of +100 Divine to -100 Demonic.",
       "emoji": "⚖️",
       "icon": "balance",
@@ -295,7 +295,7 @@
       "instruction": []
     },
     {
-      "key": "#ThreefoldAusterity",
+      "key": "Threefold Austerity",
       "value": "Categorizes austerity into three types based on motivation and approach: goodness, passion, and ignorance. Each type has distinct characteristics and outcomes.",
       "emoji": "🧘‍♂️",
       "icon": "fingers-crossed",
@@ -326,7 +326,7 @@
       ]
     },
     {
-      "key": "#ThreefoldCharity",
+      "key": "Threefold Charity",
       "value": "Similar to austerity, charity is also divided into three categories based on the nature of the giver and the circumstances of giving: goodness, passion, and ignorance.",
       "emoji": "🎁",
       "icon": "gift",
@@ -358,7 +358,7 @@
       "instruction": []
     },
     {
-      "key": "#ThreefoldAction",
+      "key": "Threefold Action",
       "value": "Analyze actions based on their motivation and impact, categorizing them into actions performed out of goodness, passion, or ignorance.",
       "emoji": "🎬",
       "training": "/training/threefold-action",
@@ -389,7 +389,7 @@
       "instruction": []
     },
     {
-      "key": "#ThreefoldAgent",
+      "key": "Threefold Agent",
       "value": "Describes the types of individuals undertaking actions, identifying them as motivated by goodness, passion, or ignorance.",
       "emoji": "🎅",
       "icon": "man",
@@ -421,7 +421,7 @@
       "instruction": []
     },
     {
-      "key": "#ThreefoldDuty",
+      "key": "Threefold Duty",
       "value": "The nature of duty and its execution, differentiating between actions performed as a matter of duty, those abandoned out of difficulty, and those neglected due to delusion.",
       "emoji": "🫡",
       "icon": "shield",
@@ -453,7 +453,7 @@
       "instruction": []
     },
     {
-      "key": "#ThreefoldIntellect",
+      "key": "Threefold Intellect",
       "value": "Evaluate and distinguish between right/wrong, beneficial/harmful categorized into three types based on the qualities of goodness, passion, and ignorance.",
       "emoji": "🧐",
       "training": "/training/threefold-intellect",
@@ -484,7 +484,7 @@
       "instruction": []
     },
     {
-      "key": "#ThreefoldResolve",
+      "key": "Threefold Resolve",
       "value": "Look at the determination behind actions, whether they're aimed at self-realization, material gains, or are driven by dullness and inertia.",
       "emoji": "🧩",
       "icon": "puzzle",
@@ -516,7 +516,7 @@
       "instruction": []
     },
     {
-      "key": "#ThreefoldFood",
+      "key": "Threefold Food",
       "value": "Identify to the types of food and their effects, classified according to the three qualities, affecting both physical health and mental well-being.",
       "emoji": "🍚",
       "training": "/training/threefold-food",
@@ -547,7 +547,7 @@
       "instruction": []
     },
     {
-      "key": "#ThreefoldPleasure",
+      "key": "Threefold Pleasure",
       "value": "Categorize pleasure based on its long-term impact, identifying those that are beneficial and those that are ultimately harmful.",
       "emoji": "🎈",
       "icon": "balloon",
@@ -579,7 +579,7 @@
       "instruction": []
     },
     {
-      "key": "#ThreefoldConvergence",
+      "key": "Threefold Convergence",
       "value": "Deals with the outcome of group interactions, which can lead to attributes aligned with goodness, passion, or ignorance.",
       "emoji": "📍",
       "icon": "check-square",
@@ -611,7 +611,7 @@
       "instruction": []
     },
     {
-      "key": "#ThreefoldActivity",
+      "key": "Threefold Activity",
       "value": "Distinguish between activities based on their nature and impact, identifying them as positive, neutral, or negative.",
       "emoji": "🕺",
       "training": "/training/threefold-activity",
@@ -642,7 +642,7 @@
       "instruction": []
     },
     {
-      "key": "#ThreefoldListening",
+      "key": "Threefold Listening",
       "value": "Categorize listening behavior into engaged, partially engaged, and disengaged, reflecting the level of attention and receptiveness.",
       "emoji": "👂",
       "training": "/training/threefold-listening",
@@ -673,7 +673,7 @@
       "instruction": []
     },
     {
-      "key": "#ThreefoldConcern",
+      "key": "Threefold Concern",
       "value": "Categorizes concern into identifiable categories so that concerns of goodness, passion, and ignorance are easliy identified.",
       "emoji": "❤️",
       "training": "/training/threefold-concern",
@@ -701,7 +701,7 @@
       "instruction": []
     },
     {
-      "key": "#ThreefoldWealth",
+      "key": "Threefold Wealth",
       "value": "Based on the three modes of Vedic wealth generation White, Spotted, and Black types divided mapped to goodness, passion, and ignorance.",
       "emoji": "💰",
       "training": "/training/threefold-wealth",

@@ -80,6 +80,21 @@ class VedicThreefoldAlgorithm {
       $('.widget .content').on('click', '.drawer', evt => {
         $('.widget .content').removeClass('open');
       });
+      $('.widget .content .slide').on('click', 'p', evt => {
+        console.log(this.current);
+        const drawerHTML = [
+          `<article class="${this.current.key}">`,
+          `<h1>${this.current.emoji} ${this.current.key}</h1>`,
+          `<p>${this.current.value}</p>`,
+          `<div className="instructions">`,
+          `<h2>Instruction</h2>`,
+          `<p>${this.current.instruction.join('</p><p>')}</p>`,
+          `</div>`,
+          `</article>`,
+        ].join('');
+        $('.widget .content .drawer').html(drawerHTML);
+        $('.widget .content').addClass('open');
+      });
       //
       // $( "<ul/>", {
       //   "class": "my-new-list",
