@@ -11,30 +11,36 @@ class VedicThreefoldAlgorithm {
     this.license = false;
     this.tags = false;
     this.version = false;
+    this.current = false;
     this.jsonUrl = 'https://raw.githubusercontent.com/indraai/vedicthreefoldalgorithm.com/main/_data/vedic-threefold-algorithm.json';
   }
 
   content(idx) {
-    const _data = this.data[idx];
+    this.current = this.data[idx];
     const items = [];
 
-    console.log('DATA IMAGE', _data.image);
-    $('.widget .content').attr('style', `--widget-content-bg: url('${_data.image}')`);
-    $('.widget .content h1 span').html(`${_data.emoji} ${_data.key}`);
-    $('.widget .content p').html(_data.value);
+    $('.widget .content').attr('style', `--widget-content-bg: url('${this.current.image}')`);
+    $('.widget .content .slide h1 span').html(`${this.current.emoji} ${this.current.key}`);
+    $('.widget .content .slide p').html(this.current.value);
 
-    if (_data.properties) {
-      for (const x of _data.properties) {
+    if (this.current.properties) {
+      this.current.properties.forEach((val,x) => {
         const item = [
-          `<article class="${x.key}">`,
-          `<h2>${x.emoji} ${x.key}</h2>`,
-          `<p>${x.value}</p>`,
+          `<article class="${val.key}" data-property="${x}">`,
+          `<h2>${val.emoji} ${val.key}</h2>`,
+          `<p>${val.value}</p>`,
           `</article>`,
         ].join('');
         items.push(item);
+      });
+      if (items.length) {
+        $('.widget').addClass('props');
+        $('.widget .content .properties').html(items);
       }
-      $('.widget .content .properties').html(items);
-    }
+      else {
+        $('.widget').removeClass('props');
+      }
+    };
   }
 
   init() {
@@ -55,7 +61,11 @@ class VedicThreefoldAlgorithm {
         $('.widget .panel ul li button').removeClass('active');
         $(evt.target).addClass('active');
         this.content(evt.target.dataset.index);
-      })
+      });
+      $('.widget .content .properties').on('click', '[data-property]', evt => {
+        console.log('data property', this.current.properties[evt.currentTarget.dataset.property]);
+        $('.widget .content').addClass('open');
+      });
       //
       // $( "<ul/>", {
       //   "class": "my-new-list",

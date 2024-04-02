@@ -13,59 +13,63 @@
     {
       "key": "#Intelligence",
       "value": "The heart, the mind, consciousness, comprehension, understanding, intelligence, wisdom, insight, resolution, thought, prudence, eagerness, memory, conception, power, life, desire, will—all these are names of the Intelligence. The five great elements 🔔Ether, 💨Air, 🔥Fire, 💧Water, and 🌳Earth, whatsoever is breathing, walking or flying, and what is motionless; all this is guided by Intelligence, founded on Intelligence. The universe is guided by Intelligence, founded on Intelligence.",
-      "source": "https://sacred-texts.com/hin/brk/brk30.htm",
       "emoji": "🧠",
       "icon": "brain",
       "training": "/training/intelligence",
       "image": "/assets/img/page/training/ins-intelligence.png",
       "video": false,
+      "audio": "https://indra.team/audio/indra/threefold-intelligence.mp3",
+      "source": "https://sacred-texts.com/hin/brk/brk30.htm",
       "properties": [],
-      "instruction": []
+      "instruction": [
+        "Humility, modesty, nonviolence, forgiveness, honesty, service to guru, purity of thought, word, and deed, steadfastness, self-control; and aversion towards sense objects, absence of ego, constant reflection on pain and suffering inherent in birth, old age, disease, and death. Detachment, non-fondness with son, wife, and home; unfailing equanimity upon attainment of the desirable and the undesirable; and unswerving devotion through single-minded contemplation, taste for solitude, distaste for social gatherings and gossips; steadfastness in acquiring knowledge is said to be knowledge. That which is contrary to this is ignorance."
+      ]
     },
     {
       "key": "#FiveElements",
       "value": "All living creatures are made of the five primeval elements. All mobile and immobile objects are made of these five elements. The five senses also of living creatures partake of the five elements.",
-      "source": "https://sacred-texts.com/hin/m12/m12b011.htm",
       "emoji": "🖐️",
       "icon": "hand",
       "training": "/training/five-elements",
       "image": "/assets/img/page/training/ins-five-elements.png",
       "video": "wq6WVKkQcZA",
+      "audio": "https://indra.team/audio/indra/five-element-system.mp3",
+      "source": "https://sacred-texts.com/hin/m12/m12b011.htm",
       "properties": [
         {
           "key": "Ether",
           "emoji": "🔔",
           "icon": "bell",
           "value": "The ear is Ether, and connected to sound.",
-          "describe": "The sound that is heard is space. The ear partakes of the properties of space."
+          "describe": "The sound that is heard is ether. The ear partakes of the properties of ether. The most subtle of the elements, ether represents space, openness, and potential. It is the canvas on which all of existence is painted, the space that allows all other elements to interact."
         },
         {
           "key": "Air",
           "emoji": "💨",
           "icon": "wind",
           "value": "The skin is Air, and connected to touch",
-          "describe": "Activity is wind. Touch partakes of the properties of wind."
+          "describe": "Activity is wind. Touch partakes of the properties of wind. Represents movement and flexibility. In human experiences, it symbolizes our breath, thoughts, and the ability to change. It's associated with communication, intelligence, and the processes that move within our bodies and minds."
         },
         {
           "key": "Fire",
           "emoji": "🔥",
           "icon": "fire",
           "value": "The eye is Fire, and connected to color.",
-          "describe": "The heat that is within it is fire. The eyes partake in the properties of fire (light)."
+          "describe": "The heat that is within it is fire. The eyes partake in the properties of fire (light). Represents energy, transformation, and metabolism. It's the force that drives change, digestion, and passion. In our lives, it symbolizes our energy, drive, and the transformative processes that sustain us."
         },
         {
           "key": "Water",
           "emoji": "💧",
           "icon": "drop",
           "value": "The tongue is Water, and connected to taste.",
-          "describe": "The liquid juices occurring in it are water. The tongue partakes of the properties of water."
+          "describe": "The liquid juices occurring in it are water. The tongue partakes of the properties of water. Embodies fluidity, cohesion, and adaptability. It's vital for life and represents our emotions, relationships, and the ability to adapt and flow with life's changes."
         },
         {
           "key": "Earth",
           "emoji": "🌳",
           "icon": "tree",
           "value": "The nose is Earth, and connected to scent.",
-          "describe": "The solidified matter, flesh and bones, are earth. The nose partakes of the properties of earth."
+          "describe": "The solidified matter, flesh and bones, are earth. The nose partakes of the properties of earth. Symbolizes stability, solidity, and nourishment. It represents the physical world and our connection to it. In our lives, it manifests as our bodies, our environment, and anything that provides structure and support."
         }
       ],
       "instruction": [
@@ -96,6 +100,8 @@
       "training": "/training/meditation",
       "image": "/assets/img/page/training/ins-meditation.png",
       "video": false,
+      "audio": false,
+      "source": "https://www.accesstoinsight.org/tipitaka/mn/mn.062.than.html",
       "properties": [
         {
           "key": "Ether",
@@ -155,6 +161,8 @@
       "training": "/training/caste",
       "image": "/assets/img/page/training/ins-caste.png",
       "video": false,
+      "audio": false,
+      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
           "key": "Kshatriya",
@@ -202,6 +210,7 @@
       "training": "/training/thought-word-deed",
       "image": "/assets/img/page/training/ins-thought-word-deed.png",
       "video": "84vhgTJrmKk",
+      "audio": "https://indra.team/audio/indra/thought-word-deed.mp3",
       "properties": [
         {
           "key": "Thought",
@@ -229,6 +238,8 @@
       "training": "/training/divine-demonic-scale",
       "image": "/assets/img/page/training/ins-divine-demonic-scale.png",
       "video": "RHfgODRn6Mc",
+      "audio": "https://indra.team/audio/indra/divine-demonic-scale.mp3",
+      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
           "key": "Divine",
@@ -253,6 +264,8 @@
       "training": "/training/threefold-austerity",
       "image": "/assets/img/page/training/ins-threefold-austerity.png",
       "video": "auXshIRv9bk",
+      "audio": "https://indra.team/audio/indra/threefold-austerity.mp3",
+      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
           "key": "Goodness",
@@ -282,6 +295,8 @@
       "training": "/training/threefold-charity",
       "image": "/assets/img/page/training/ins-threefold-charity.png",
       "video": "5c8Ab_xXH84",
+      "audio": "https://indra.team/audio/indra/threefold-charity.mp3",
+      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
           "key": "Goodness",
@@ -311,6 +326,8 @@
       "training": "/training/threefold-action",
       "image": "/assets/img/page/training/ins-threefold-action.png",
       "video": "L5FOY1JJ9as",
+      "audio": "https://indra.team/audio/indra/threefold-action.mp3",
+      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
           "key": "Goodness",
@@ -341,6 +358,8 @@
       "training": "/training/threefold-agent",
       "image": "/assets/img/page/training/ins-threefold-agent.png",
       "video": "7BkJhxIrB4w",
+      "audio": "https://indra.team/audio/indra/threefold-agent.mp3",
+      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
           "key": "Goodness",
@@ -371,6 +390,8 @@
       "training": "/training/threefold-duty",
       "image": "/assets/img/page/training/ins-threefold-duty.png",
       "video": "Gq3FXX-oeE0",
+      "audio": "https://indra.team/audio/indra/threefold-duty.mp3",
+      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
           "key": "Goodness",
@@ -400,6 +421,8 @@
       "training": "/training/threefold-intellect",
       "image": "/assets/img/page/training/ins-threefold-intellect.png",
       "video": "ODZFgVGpz8E",
+      "audio": "https://indra.team/audio/indra/threefold-intellect.mp3",
+      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
           "key": "Goodness",
@@ -430,6 +453,8 @@
       "training": "/training/threefold-resolve",
       "image": "/assets/img/page/training/ins-threefold-resolve.png",
       "video": "Taxd2rk6mMQ",
+      "audio": "https://indra.team/audio/indra/threefold-resolve.mp3",
+      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
           "key": "Goodness",
@@ -459,6 +484,8 @@
       "training": "/training/threefold-food",
       "image": "/assets/img/page/training/ins-threefold-food.png",
       "video": "m0QRHWy7U9o",
+      "audio": "https://indra.team/audio/indra/threefold-food.mp3",
+      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
           "key": "Goodness",
@@ -489,6 +516,8 @@
       "training": "/training/threefold-pleasure",
       "image": "/assets/img/page/training/ins-threefold-pleasure.png",
       "video": "RD43XGHfpQI",
+      "audio": "https://indra.team/audio/indra/threefold-pleasure.mp3",
+      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
           "key": "Goodness",
@@ -519,6 +548,8 @@
       "training": "/training/threefold-convergence",
       "image": "/assets/img/page/training/ins-threefold-convergence.png",
       "video": "yXVIfyDBEbM",
+      "audio": "https://indra.team/audio/indra/threefold-convergence.mp3",
+      "source": "https://indra.ai",
       "properties": [
         {
           "key": "Goodness",
@@ -548,6 +579,8 @@
       "training": "/training/threefold-activity",
       "image": "/assets/img/page/training/ins-threefold-activity.png",
       "video": "RiPizf5A7Bg",
+      "audio": "https://indra.team/audio/indra/threefold-activity.mp3",
+      "source": "https://indra.ai",
       "properties": [
         {
           "key": "Goodness",
@@ -577,24 +610,26 @@
       "training": "/training/threefold-listening",
       "image": "/assets/img/page/training/ins-threefold-listening.png",
       "video": "fIuplLSPRQI",
+      "audio": "https://indra.team/audio/indra/threefold-listening.mp3",
+      "source": "https://indra.ai",
       "properties": [
         {
           "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
-          "value": "Present, Active, Engaged"
+          "value": "Attentive, Present, Active, Engaged"
         },
         {
           "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
-          "value": "Partially Engaged, Dismissive"
+          "value": "Distracted, Partially Engaged, Dismissive"
         },
         {
           "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "Inactive, Disengaged, Absent"
+          "value": "Derailed, Inactive, Disengaged, Absent"
         }
       ],
       "instruction": []
@@ -606,6 +641,7 @@
       "training": "/training/threefold-concern",
       "image": "/assets/img/page/training/ins-threefold-concern.png",
       "video": false,
+      "audio": "https://indra.team/audio/indra/threefold-concern.mp3",
       "properties": [
         {
           "key": "Goodness",
@@ -633,6 +669,7 @@
       "training": "/training/threefold-wealth",
       "image": "/assets/img/page/training/ins-threefold-wealth.png",
       "video": false,
+      "audio": "https://indra.team/audio/indra/threefold-wealth.mp3",
       "properties": [
         {
           "key": "Goodness",
@@ -653,7 +690,20 @@
           "value": "Bribes, gambling, bearing a message, through one afflicted with pain, forgery, robbery, fraud."
         }
       ],
-      "instruction": []
+      "instruction": [
+        "All transactions depend on wealth. In order to acquire it, exertion is necessary. To preserve it, to increase it, and to enjoy it: these are, successively, the three sorts of activity in regard to wealth.",
+        "White wealth is of the following seven sorts: what is acquired by sacred knowledge, valour in arms, the practice of austerities, with a maiden, through instructing a pupil, by offering, and by inheritance. The gain to be derived from exerting oneself to acquire it is of the same description.",
+        "Spotted wealth is (of the following seven sorts): what is acquired by lending money at interest, tillage, commerce, in the shape of Sulka, by artistic performances, by servile attendance, or as a return for a benefit conferred on some one.",
+        "Black wealth is of the following seven sorts: what is acquired as a bribe, by gambling, by bearing a message, through one afflicted with pain, by forgery, by robbery, or by fraud.",
+        "It is in wealth that purchase, sale, gift, receipt, transactions of every kind, and enjoyment, have their source. Of whatever description the property may be, with which a man performs any transaction, of the same description will the fruit be which he derives from it in the next world and in this.",
+        "Wealth is again declared to be of twelve sorts, according to the caste of the acquirer. Those modes of acquisition, which are common to all castes, are threefold. The others are said to be ninefold.",
+        "Property obtained by inheritance, gifts made from love, and what has been obtained with a wife (as her dowry), these are the three sorts of pure wealth, for all (castes) without distinction.",
+        "The pure wealth peculiar to a Brahman and Srotriya is declared to be threefold: what has been obtained as alms, by offerings, and through instructings a pupil.",
+        "The pure wealth peculiar to a Kshatriya is of three sorts likewise: what has been obtained in the shape of taxes, the military, and by means of the fines declared in lawsuits.",
+        "The pure wealth peculiar to a Vaisya is also declared to be threefold: what has been acquired by tillage, by tending cows, and by commerce.",
+        "For a Sudra it consists of what is given to him by the members of the three higher castes through employment of services.",
+        "These are the legitimate modes of acquisition of wealth for all the castes severally. If one caste should take to the occupations of another caste, it is a criminal proceeding, except in extreme cases of distress."
+      ]
     }
   ]
 }

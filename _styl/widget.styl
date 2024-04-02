@@ -48,66 +48,89 @@
             padding-left: 1rem
 
   .content
+    position: relative
     padding: 0
     overflow: auto
     display: flex
     flex-flow: column nowrap
+    background-image: var(--widget-content-bg)
+    background-position: center center
+    background-size: cover
+    overflow: hidden
 
-    h1
-      text-align: center
-      font-size: 2.25rem
-      margin: 0
-      padding: 5rem 0
-      background-image: var(--widget-content-bg)
+    .slide
+      display: flex
+      flex-flow: column nowrap
       color: $colors.white
       text-shadow: 0 2px 5px rgba($colors.black, .5)
-      background-position: center center
-      background-size: cover
-      flex: 0
-      background-color: $colors.grey
-
-      span
-        display: inline-block
-        background-color: rgba($colors.black, .75)
-        padding: 1rem 1.5rem
-        border-radius: 3rem
-
-    > p
       flex: 1
-      margin: 0;
-      padding: 1rem
-      font-size: 1.2rem
+
+      h1
+        text-align: center
+        align-content: center
+        align-self: center
+        font-size: 3rem
+        margin: 0
+        padding: 5rem 0
+        flex: 1
+
+        span
+          display: inline-block
+          background-color: rgba($colors.black, .75)
+          padding: 1rem 1.5rem
+          border-radius: 3rem
+
+      > p
+        margin: 0;
+        padding: 1rem
+        font-size: 1.2rem
+        background-color: rgba($colors.black, .75)
 
     .properties
-      flex: 1
-      display: flex
-      flex-flow: row wrap
-      justify-content: center
-      gap: .5rem
-      padding: .5rem
+      display: none
+      padding: 0
+      margin: 0
 
       article
-        padding: .5rem
-        flex: 1
+        transition: var(--transition-default)
         border-top: 2px solid
         text-shadow: 0 2px 3px rgba($colors.black, .25)
+        background-color: rgba($colors.black, .75)
+        flex: 1
+        &:hover
+          background-color: rgba($colors.black, .9)
+          cursor: pointer
+
+        &.Air
+        &.Wind
+          color: $colors.white
+          &:hover
+            box-shadow: inset 0 0 1rem rgba($colors.white, .5)
 
         &.Thought
         &.Srotriya
           color: $colors.purple
+          &:hover
+            box-shadow: inset 0 0 1rem rgba($colors.purple, .5)
 
         &.Deed
         &.Brahman
           color: $colors.orange
+          &:hover
+            box-shadow: inset 0 0 1rem rgba($colors.orange, .5)
 
         &.Divine
         &.Earth
         &.Vaisya
           color: $colors.green
+          &:hover
+            box-shadow: inset 0 0 1rem rgba($colors.green, .5)
 
         &.Goodness
         &.Water
           color: $colors.baby-blue
+          &:hover
+            box-shadow: inset 0 0 1rem rgba($colors.baby-blue, .5)
 
         &.Passion
         &.Word
@@ -115,12 +138,16 @@
         &.Space
         &.Kshatriya
           color: $colors.yellow
+          &:hover
+            box-shadow: inset 0 0 1rem rgba($colors.yellow, .5)
 
         &.Ignorance
         &.Demonic
         &.Fire
         &.Sudra
           color: $colors.red
+          &:hover
+            box-shadow: inset 0 0 1rem rgba($colors.red, .5)
 
         h2
           font-size: 1.25rem
@@ -132,4 +159,24 @@
         p
           font-size: .9rem
           margin: 0
-          padding: 0
+          padding: .25rem
+
+    .drawer
+      transition: var(--transition-default)
+      position: absolute
+      background-color: rgba(0,0,0,.75)
+      height: 100%
+      bottom: -100%
+      left: 0
+      right: 0
+    &.open
+      .drawer
+        bottom: 0
+
+  &.props
+
+    .properties
+      flex: 0
+      display: flex
+      flex-flow: row nowrap
+      justify-content: center
