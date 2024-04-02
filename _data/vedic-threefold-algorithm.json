@@ -13,6 +13,7 @@
     {
       "key": "#Intelligence",
       "value": "The heart, the mind, consciousness, comprehension, understanding, intelligence, wisdom, insight, resolution, thought, prudence, eagerness, memory, conception, power, life, desire, will—all these are names of the Intelligence. The five great elements 🔔Ether, 💨Air, 🔥Fire, 💧Water, and 🌳Earth, whatsoever is breathing, walking or flying, and what is motionless; all this is guided by Intelligence, founded on Intelligence. The universe is guided by Intelligence, founded on Intelligence.",
+      "source": "https://sacred-texts.com/hin/brk/brk30.htm",
       "emoji": "🧠",
       "icon": "brain",
       "training": "/training/intelligence",
@@ -24,6 +25,7 @@
     {
       "key": "#FiveElements",
       "value": "All living creatures are made of the five primeval elements. All mobile and immobile objects are made of these five elements. The five senses also of living creatures partake of the five elements.",
+      "source": "https://sacred-texts.com/hin/m12/m12b011.htm",
       "emoji": "🖐️",
       "icon": "hand",
       "training": "/training/five-elements",
@@ -34,34 +36,57 @@
           "key": "Ether",
           "emoji": "🔔",
           "icon": "bell",
-          "value": "The ear is Ether, and connected to sound."
+          "value": "The ear is Ether, and connected to sound.",
+          "describe": "The sound that is heard is space. The ear partakes of the properties of space."
         },
         {
           "key": "Air",
           "emoji": "💨",
           "icon": "wind",
-          "value": "The skin is Air, and connected to touch"
+          "value": "The skin is Air, and connected to touch",
+          "describe": "Activity is wind. Touch partakes of the properties of wind."
         },
         {
           "key": "Fire",
           "emoji": "🔥",
           "icon": "fire",
-          "value": "The eye is Fire, and connected to color."
+          "value": "The eye is Fire, and connected to color.",
+          "describe": "The heat that is within it is fire. The eyes partake in the properties of fire (light)."
         },
         {
           "key": "Water",
           "emoji": "💧",
           "icon": "drop",
-          "value": "The tongue is Water, and connected to taste."
+          "value": "The tongue is Water, and connected to taste.",
+          "describe": "The liquid juices occurring in it are water. The tongue partakes of the properties of water."
         },
         {
           "key": "Earth",
           "emoji": "🌳",
           "icon": "tree",
-          "value": "The nose is Earth, and connected to scent."
+          "value": "The nose is Earth, and connected to scent.",
+          "describe": "The solidified matter, flesh and bones, are earth. The nose partakes of the properties of earth."
         }
       ],
-      "instruction": []
+      "instruction": [
+        "All things that belong to the category of the Infinite or the Vast receive the appellation of Great. It is for this reason that these five elements have come to be called Great creatures. Activity is wind. The sound that is heard is space. The heat that is within it is fire. The liquid juices occurring in it are water. The solidified matter, flesh and bones, are earth. The bodies of living creatures are thus made of the five primeval elements.",
+        "All mobile and immobile objects are made of these five elements. The five senses also of living creatures partake of the five elements. The ear partakes of the properties of space, the nose of earth; the tongue of water; touch of wind; and the eyes of light of fire.",
+        "In the bodies of all mobile things the five elements occur. In each the proportions are different. It is in consequence of these five elements that mobile objects can move their bodies.",
+        "Skin, flesh, bones, marrow, and arteries and veins, that exist together in the body are made of earth.",
+        "Energy, wrath, eyes, internal heat, and that other heat which digest the food that is taken, these five, constitute the fire that occurs in all embodied creatures.",
+        "The ears, nostrils, mouth, heart, and stomach, these five, constitute the element of space that occurs in the bodies of living creatures.",
+        "Phlegm, bile, sweat, fat, blood, are the five kinds of water that occur in mobile bodies.",
+        "Through the breath called Prana a living creature is enabled to move. Through that called Vyana, they put forth strength for action. That called Apana moves downwards. That called Samana resides within the heart. Through that called Udana one eructates and is enabled to speak in consequence of its piercing through the lungs, the throat, and the mouth. These are the five kinds of wind that cause an embodied creature to live and move.",
+        "The properties of scent an embodied creature knows through the earth-element in him. From the water-element he perceives taste. From the fire-element represented by the eyes, he perceives forms, and from the wind-element he obtains the perception of touch. From the space-element he perceives sound. Scent, touch, taste, vision, and sound, are regarded as the general properties of every mobile and immobile object.",
+        "The several kinds of scent founded upon the earth-element are agreeable, disagreeable, sweet, pungent, far-going, near-going, varied, dry, indifferent.",
+        "Light is seen by the eyes and touch through the wind-element.",
+        "Sound, touch, vision and taste are the properties of water.",
+        "The six kinds of taste pertaining to the water-element are sweet, saltish, bitter, astringent, sour, and pungent.",
+        "Light contributes to the vision of form of diverse kinds. Short, tall, thick, cornered, round, white, black, red, blue, yellow, hard, bright, smooth, oily, soft, and terrible. These are the sixteen different kinds of form which constitute the property of light or vision.",
+        "The property of the wind-element is touch. Touch is of various kinds: warm, cold, agreeable, disagreeable, indifferent, burning, mild, soft, light, and heavy. Both sound and touch are the two properties of the wind-element.",
+        "Space has only one property. It is called sound. They are the seven original notes called Shadja, Rishabha, Gandhara, Mahdhyama, Panchama, Dhaivata and Nishada. These are the seven kinds of the property that appertains to space. Sound inheres in all space attached especially to drums and other instruments. Whatever sound is heard from drums small and large, and conchs, clouds, cars, and animate and inanimate creatures, are all included in these seven kinds of sound.",
+        "The elements, mingling with their counterparts in the body, increase and grow. Water, fire, wind are always awake in the bodies of living creatures. They are the roots of the body. Pervading the five life-breaths they reside in the body."
+      ]
     },
     {
       "key": "#Meditation",
@@ -73,16 +98,16 @@
       "video": false,
       "properties": [
         {
-          "key": "Earth",
-          "emoji": "🌳",
-          "value": "The earth property can be either internal or external.",
-          "describe": "Anything internal, within oneself, that's hard, solid, & sustained [by craving]: head hairs, body hairs, nails, teeth, skin, flesh, tendons, bones, bone marrow, kidneys, heart, liver, membranes, spleen, lungs, large intestines, small intestines, contents of the stomach, feces, or anything else internal, within oneself, that's hard, solid, and sustained: This is called the internal earth property. Now both the internal earth property & the external earth property are simply earth property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the earth property and makes the earth property fade from the mind."
+          "key": "Ether",
+          "emoji": "🔔",
+          "value": "The ether (space) property may be either internal or external.",
+          "describe": "Anything internal, belonging to oneself, that's space, spatial, & sustained: the holes of the ears, the nostrils, the mouth, the passage whereby what is eaten, drunk, consumed, & tasted gets swallowed, and where it collects, and whereby it is excreted from below, or anything else internal, within oneself, that's space, spatial, & sustained: This is called the internal space property. Now both the internal space property & the external space property are simply space property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the space property and makes the space property fade from the mind."
         },
         {
-          "key": "Water",
-          "emoji": "💧",
-          "value": "The water property may be either internal or external.",
-          "describe": "Anything internal, belonging to oneself, that's water, watery, & sustained: bile, phlegm, pus, blood, sweat, fat, tears, oil, saliva, mucus, oil-of-the-joints, urine, or anything else internal, within oneself, that's water, watery, & sustained: This is called the internal water property. Now both the internal water property & the external water property are simply water property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the water property and makes the water property fade from the mind."
+          "key": "Air",
+          "emoji": "💨",
+          "value": "The air (wind) property may be either internal or external.",
+          "describe": "Anything internal, belonging to oneself, that's air, wind, windy, & sustained: up-going winds, down-going winds, winds in the stomach, winds in the intestines, winds that course through the body, in-and-out breathing, or anything else internal, within oneself, that's wind, windy, & sustained: This is called the internal wind property. Now both the internal wind property & the external wind property are simply wind property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the wind property and makes the wind property fade from the mind."
         },
         {
           "key": "Fire",
@@ -91,24 +116,24 @@
           "describe": "Anything internal, belonging to oneself, that's fire, fiery, & sustained: that by which [the body] is warmed, aged, & consumed with fever; and that by which what is eaten, drunk, chewed, & savored gets properly digested; or anything else internal, within oneself, that's fire, fiery, & sustained: This is called the internal fire property. Now both the internal fire property & the external fire property are simply fire property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the fire property and makes the fire property fade from the mind."
         },
         {
-          "key": "Wind",
-          "emoji": "💨",
-          "value": "The wind property may be either internal or external.",
-          "describe": "Anything internal, belonging to oneself, that's air, wind, windy, & sustained: up-going winds, down-going winds, winds in the stomach, winds in the intestines, winds that course through the body, in-and-out breathing, or anything else internal, within oneself, that's wind, windy, & sustained: This is called the internal wind property. Now both the internal wind property & the external wind property are simply wind property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the wind property and makes the wind property fade from the mind."
+          "key": "Water",
+          "emoji": "💧",
+          "value": "The water property may be either internal or external.",
+          "describe": "Anything internal, belonging to oneself, that's water, watery, & sustained: bile, phlegm, pus, blood, sweat, fat, tears, oil, saliva, mucus, oil-of-the-joints, urine, or anything else internal, within oneself, that's water, watery, & sustained: This is called the internal water property. Now both the internal water property & the external water property are simply water property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the water property and makes the water property fade from the mind."
         },
         {
-          "key": "Space",
-          "emoji": "💨",
-          "value": "The space property may be either internal or external.",
-          "describe": "Anything internal, belonging to oneself, that's space, spatial, & sustained: the holes of the ears, the nostrils, the mouth, the passage whereby what is eaten, drunk, consumed, & tasted gets swallowed, and where it collects, and whereby it is excreted from below, or anything else internal, within oneself, that's space, spatial, & sustained: This is called the internal space property. Now both the internal space property & the external space property are simply space property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the space property and makes the space property fade from the mind."
+          "key": "Earth",
+          "emoji": "🌳",
+          "value": "The earth property can be either internal or external.",
+          "describe": "Anything internal, within oneself, that's hard, solid, & sustained [by craving]: head hairs, body hairs, nails, teeth, skin, flesh, tendons, bones, bone marrow, kidneys, heart, liver, membranes, spleen, lungs, large intestines, small intestines, contents of the stomach, feces, or anything else internal, within oneself, that's hard, solid, and sustained: This is called the internal earth property. Now both the internal earth property & the external earth property are simply earth property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the earth property and makes the earth property fade from the mind."
         }
       ],
       "instruction": [
-        "Develop the meditation in tune with earth. For when you are developing the meditation in tune with earth, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind. Just as when people throw what is clean or unclean on the earth — feces, urine, saliva, pus, or blood — the earth is not horrified, humiliated, or disgusted by it; in the same way, when you are developing the meditation in tune with earth, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind.",
-        "Develop the meditation in tune with water. For when you are developing the meditation in tune with water, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind. Just as when people wash what is clean or unclean in water — feces, urine, saliva, pus, or blood — the water is not horrified, humiliated, or disgusted by it; in the same way, when you are developing the meditation in tune with water, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind.",
-        "Develop the meditation in tune with fire. For when you are developing the meditation in tune with fire, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind. Just as when fire burns what is clean or unclean — feces, urine, saliva, pus, or blood — it is not horrified, humiliated, or disgusted by it; in the same way, when you are developing the meditation in tune with fire, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind.",
-        "Develop the meditation in tune with wind. For when you are developing the meditation in tune with wind, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind. Just as when wind blows what is clean or unclean — feces, urine, saliva, pus, or blood — it is not horrified, humiliated, or disgusted by it; in the same way, when you are developing the meditation in tune with wind, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind.",
         "Develop the meditation in tune with space. For when you are developing the meditation in tune with space, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind. Just as space is not established anywhere, in the same way, when you are developing the meditation in tune with space, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind.",
+        "Develop the meditation in tune with wind. For when you are developing the meditation in tune with wind, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind. Just as when wind blows what is clean or unclean — feces, urine, saliva, pus, or blood — it is not horrified, humiliated, or disgusted by it; in the same way, when you are developing the meditation in tune with wind, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind.",
+        "Develop the meditation in tune with fire. For when you are developing the meditation in tune with fire, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind. Just as when fire burns what is clean or unclean — feces, urine, saliva, pus, or blood — it is not horrified, humiliated, or disgusted by it; in the same way, when you are developing the meditation in tune with fire, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind.",
+        "Develop the meditation in tune with water. For when you are developing the meditation in tune with water, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind. Just as when people wash what is clean or unclean in water — feces, urine, saliva, pus, or blood — the water is not horrified, humiliated, or disgusted by it; in the same way, when you are developing the meditation in tune with water, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind.",
+        "Develop the meditation in tune with earth. For when you are developing the meditation in tune with earth, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind. Just as when people throw what is clean or unclean on the earth — feces, urine, saliva, pus, or blood — the earth is not horrified, humiliated, or disgusted by it; in the same way, when you are developing the meditation in tune with earth, agreeable & disagreeable sensory impressions that have arisen will not stay in charge of your mind.",
         "Develop the meditation of good will. For when you are developing the meditation of good will, ill-will will be abandoned.",
         "Develop the meditation of compassion. For when you are developing the meditation of compassion, cruelty will be abandoned.",
         "Develop the meditation of appreciation. For when you are developing the meditation of appreciation, resentment will be abandoned.",
