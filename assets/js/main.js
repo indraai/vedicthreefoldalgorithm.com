@@ -59,12 +59,26 @@ class VedicThreefoldAlgorithm {
       });
       $('.widget .panel ul li').on('click', 'button', evt => {
         $('.widget .panel ul li button').removeClass('active');
+        $('.widget .content').removeClass('open');
         $(evt.target).addClass('active');
         this.content(evt.target.dataset.index);
       });
       $('.widget .content .properties').on('click', '[data-property]', evt => {
-        console.log('data property', this.current.properties[evt.currentTarget.dataset.property]);
+        const prop = this.current.properties[evt.currentTarget.dataset.property];
+        console.log('data property', prop);
+
+        const drawerHTML = [
+          `<article class="${prop.key}">`,
+          `<h1>${prop.emoji} ${prop.key}</h1>`,
+          `<p>${prop.value}</p>`,
+          `<p>${prop.describe}</p>`,
+          `</article>`,
+        ].join('');
         $('.widget .content').addClass('open');
+        $('.widget .content .drawer').html(drawerHTML)
+      });
+      $('.widget .content').on('click', '.drawer', evt => {
+        $('.widget .content').removeClass('open');
       });
       //
       // $( "<ul/>", {

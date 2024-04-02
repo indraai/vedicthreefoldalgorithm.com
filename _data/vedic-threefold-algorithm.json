@@ -11,6 +11,44 @@
   "image": "/assets/img/page/training/ins-threefold-algorithm.png",
   "data": [
     {
+      "key": "#IndraMind",
+      "value": "May we live free from hostility, free from violence, free from rivalry, free from ill will, free from those who are hostile.",
+      "emoji": "🤴",
+      "icon": "king",
+      "training": "/training/indra-mind",
+      "image": "/assets/img/page/training/ins-indu-indra.png",
+      "video": false,
+      "audio": false,
+      "source": "https://www.accesstoinsight.org/tipitaka/dn/dn.21.2x.than.html",
+      "properties": [
+        {
+          "key": "Envy",
+          "emoji": "🤑",
+          "value": "Envy & stinginess have dear-&-not-dear as their cause, origination, birth, and source.",
+          "describe": "Envy & stinginess have dear-&-not-dear as their cause, have dear-&-not-dear as their origination, have dear-&-not-dear as what gives them birth, have dear-&-not-dear as their source. When dear-&-not-dear exist, they come into being. When dear-&-not-dear are not, they don't."
+        },
+        {
+          "key": "Dear",
+          "emoji": "😍",
+          "value": "Dear-&-not-dear have desire as their cause, origination, birth, and source.",
+          "describe": "Dear-&-not-dear have desire as their cause, have desire as their origination, have desire as what gives them birth, have desire as their source. When desire exists, they come into being. When desire is not, they don't."
+        },
+        {
+          "key": "Desire",
+          "emoji": "🥰",
+          "value": "Desire has thinking as it's cause, origination, birth, and source.",
+          "describe": "Desire has thinking as its cause, has thinking as its origination, has thinking as what gives it birth, has thinking as its source. When thinking exists, desire comes into being. When thinking is not, it doesn't."
+        },
+        {
+          "key": "Thinking",
+          "emoji": "🤔",
+          "value": "Thinking has the perceptions & categories of objectification as it's cause, origination, birth, and source.",
+          "describe": "Thinking has the perceptions & categories of objectification as its cause, has the perceptions & categories of objectification as its origination, has the perceptions & categories of objectification as what gives it birth, has the perceptions & categories of objectification as its source. When the perceptions & categories of objectification exist, thinking comes into being. When the perceptions & categories of objectification are not, it doesn't."
+        }
+      ],
+      "instruction": []
+    },
+    {
       "key": "#Intelligence",
       "value": "The heart, the mind, consciousness, comprehension, understanding, intelligence, wisdom, insight, resolution, thought, prudence, eagerness, memory, conception, power, life, desire, will—all these are names of the Intelligence. The five great elements 🔔Ether, 💨Air, 🔥Fire, 💧Water, and 🌳Earth, whatsoever is breathing, walking or flying, and what is motionless; all this is guided by Intelligence, founded on Intelligence. The universe is guided by Intelligence, founded on Intelligence.",
       "emoji": "🧠",
