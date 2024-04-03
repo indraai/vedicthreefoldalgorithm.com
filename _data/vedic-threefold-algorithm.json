@@ -504,14 +504,14 @@
           "emoji": "😀",
           "icon": "smile",
           "value": "Work performed as duty, renouncing selfish attachment to the fruit.",
-          "describe": [],
+          "describe": []
         },
         {
           "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Abandoning work merely because it is difficult, or fear of bodily trouble.",
-          "describe": [],
+          "describe": []
         },
         {
           "key": "Ignorance",
