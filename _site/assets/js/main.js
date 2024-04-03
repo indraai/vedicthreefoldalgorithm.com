@@ -43,6 +43,40 @@ class VedicThreefoldAlgorithm {
     };
   }
 
+  drawer(obj) {
+    console.log('CONTENT', obj);
+    let drawerHTML = [
+      `<article class="${obj.key}">`,
+      `<h1>${obj.emoji} ${obj.key}</h1>`,
+      `<p>${obj.value}</p>`,
+      obj.describe ? `<div class="describe">` : '',
+      obj.describe ? `<p>${obj.describe.join('</p><p>')}</p>` : '',
+      obj.describe ? `</div>` : '',
+      `</article>`,
+    ].join('');
+
+    // set the display if the obj has an instruction object.
+    if (obj.instruction) {
+      drawerHTML = [
+        `<article class="${obj.key}">`,
+        `<h1>${obj.emoji} ${obj.key}</h1>`,
+        `<div class="row">`,
+        `<div class="describe">`,
+        `<p>${obj.value}</p>`,
+        obj.describe ? `<p>${obj.describe.join('</p><p>')}</p>` : '',
+        `</div>`,
+        `<div class="instruction"><h2>Instruction</h2>`,
+        `<p>${obj.instruction.join('</p><p>')}</p>`,
+        `</div>`,
+        `</div>`,
+        `</article>`,
+      ].join('');
+    }
+
+    $('.widget .content').addClass('open');
+    $('.widget .content .drawer').html(drawerHTML);
+  }
+
   init() {
     $.getJSON(this.jsonUrl, _data => {
       this.title = _data.title;
@@ -63,37 +97,16 @@ class VedicThreefoldAlgorithm {
         $(evt.target).addClass('active');
         this.content(evt.target.dataset.index);
       });
+
       $('.widget .content .properties').on('click', '[data-property]', evt => {
         const prop = this.current.properties[evt.currentTarget.dataset.property];
-        console.log('data property', prop);
-
-        const drawerHTML = [
-          `<article class="${prop.key}">`,
-          `<h1>${prop.emoji} ${prop.key}</h1>`,
-          `<p>${prop.value}</p>`,
-          `<p>${prop.describe}</p>`,
-          `</article>`,
-        ].join('');
-        $('.widget .content').addClass('open');
-        $('.widget .content .drawer').html(drawerHTML)
+        this.drawer(prop);
       });
       $('.widget .content').on('click', '.drawer', evt => {
         $('.widget .content').removeClass('open');
       });
       $('.widget .content .slide').on('click', 'p', evt => {
-        console.log(this.current);
-        const drawerHTML = [
-          `<article class="${this.current.key}">`,
-          `<h1>${this.current.emoji} ${this.current.key}</h1>`,
-          `<p>${this.current.value}</p>`,
-          `<div class="instruction">`,
-          `<h2>Instruction</h2>`,
-          `<p>${this.current.instruction.join('</p><p>')}</p>`,
-          `</div>`,
-          `</article>`,
-        ].join('');
-        $('.widget .content .drawer').html(drawerHTML);
-        $('.widget .content').addClass('open');
+        this.drawer(this.current);
       });
       //
       // $( "<ul/>", {

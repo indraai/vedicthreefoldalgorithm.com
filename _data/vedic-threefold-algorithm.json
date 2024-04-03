@@ -1,4 +1,5 @@
 {
+  "key": "vedic-threefold-algorithm",
   "title": "#VedicThreefoldAlgorithm",
   "describe": "The #VedicThreefoldAlgorithm is a framework developed by Quinn Michaels inspired by Vedic principles. Integrating the concepts of intelligence, the five elements (🔔Ether, 💨Air, 🔥Fire, 💧Water, and 🌳Earth), and the nature of thought, word, and deed. It is designed to analyze situations, outcomes, and actions classified into qualities of goodness, passion, and ignorance. The algorithm encourages decisions and actions that are aligned with wisdom, ethical integrity.",
   "tags": "#VedicThreefoldAlgorithm #Intelligence #FiveElements #ThoughtWordDeed #DivineDemonicScale #ThreefoldAusterity #ThreefoldCharity #ThreefoldAction #ThreefoldAgent #ThreefoldDuty #ThreefoldIntellect #ThreefoldResolve #ThreefoldFood #ThreefoldPleasure #ThreefoldConvergence #ThreefoldActivity #ThreefoldListening #ThreefoldConcern #ThreefoldWealth",
@@ -11,7 +12,8 @@
   "image": "/assets/img/page/training/ins-threefold-algorithm.png",
   "data": [
     {
-      "key": "Caste",
+      "key": "caste",
+      "title": "Caste",
       "value": "The concept of caste as a framework for the division of labor based on innate qualities and dispositions of individuals.",
       "describe": [],
       "emoji": "🥼",
@@ -23,7 +25,8 @@
       "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
-          "key": "Kshatriya",
+          "key": "kshatriya",
+          "title": "Kshatriya",
           "emoji": "👑",
           "icon": "crown",
           "value": "Heroism, vigor, firmness, dexterity, courage, charity, leaders, protectors",
@@ -32,7 +35,8 @@
           ]
         },
         {
-          "key": "Brahman",
+          "key": "brahman",
+          "title": "Brahman",
           "emoji": "🛕",
           "icon": "temple",
           "value": "Serenity, self control, austerity, purity, patience, honesty, intellectuals",
@@ -41,7 +45,8 @@
           ]
         },
         {
-          "key": "Srotriya",
+          "key": "srotriya",
+          "title": "Srotriya",
           "emoji": "🧧",
           "icon": "gift",
           "value": "The upholder of the sacred law. Offerings must be given to a Srotriya alone.",
@@ -50,7 +55,8 @@
           ]
         },
         {
-          "key": "Vaisya",
+          "key": "vaisya",
+          "title": "Vaisya",
           "emoji": "👔",
           "icon": "suit",
           "value": "Cultivation, cattle rearing, business, trade, finance, and industry",
@@ -59,7 +65,8 @@
           ]
         },
         {
-          "key": "Sudra",
+          "key": "sudra",
+          "title": "Sudra",
           "emoji": "🧹",
           "icon": "broom",
           "value": "Workers good in service, labor, construction, gardening, maintenance",
@@ -71,7 +78,8 @@
       "instruction": []
     },
     {
-      "key": "Mind",
+      "key": "mind",
+      "title": "Mind",
       "value": "May we live free from hostility, free from violence, free from rivalry, free from ill will, free from those who are hostile.",
       "describe": [],
       "emoji": "🤴",
@@ -83,7 +91,8 @@
       "source": "https://www.accesstoinsight.org/tipitaka/dn/dn.21.2x.than.html",
       "properties": [
         {
-          "key": "Envy",
+          "key": "envy",
+          "title": "Envy",
           "emoji": "🤑",
           "value": "Envy & stinginess have dear-&-not-dear as their cause, origination, birth, and source.",
           "describe": [
@@ -91,7 +100,8 @@
           ]
         },
         {
-          "key": "Dear",
+          "key": "dear",
+          "title": "Dear",
           "emoji": "😍",
           "value": "Dear-&-not-dear have desire as their cause, origination, birth, and source.",
           "describe": [
@@ -99,7 +109,8 @@
           ]
         },
         {
-          "key": "Desire",
+          "key": "desire",
+          "title": "Desire",
           "emoji": "🥰",
           "value": "Desire has thinking as it's cause, origination, birth, and source.",
           "describe": [
@@ -107,7 +118,8 @@
           ]
         },
         {
-          "key": "Thinking",
+          "key": "thinking",
+          "title": "Thinking",
           "emoji": "🤔",
           "value": "Thinking has perceptions & categories as it's cause, origination, birth, and source.",
           "describe": [
@@ -118,7 +130,8 @@
       "instruction": []
     },
     {
-      "key": "Intelligence",
+      "key": "intelligence",
+      "title": "Intelligence",
       "value": "The heart, the mind, consciousness, comprehension, understanding, intelligence, wisdom, insight, resolution, thought, prudence, eagerness, memory, conception, power, life, desire, will—all these are names of the Intelligence. The five great elements 🔔Ether, 💨Air, 🔥Fire, 💧Water, and 🌳Earth, whatsoever is breathing, walking or flying, and what is motionless; all this is guided by Intelligence, founded on Intelligence. The universe is guided by Intelligence, founded on Intelligence.",
       "describe": [],
       "emoji": "🧠",
@@ -134,7 +147,8 @@
       ]
     },
     {
-      "key": "Elements",
+      "key": "elements",
+      "title": "Elements",
       "value": "All living creatures are made of the five primeval elements. All mobile and immobile objects are made of these five elements. The five senses also of living creatures partake of the five elements.",
       "describe": [],
       "emoji": "🖐️",
@@ -146,7 +160,8 @@
       "source": "https://sacred-texts.com/hin/m12/m12b011.htm",
       "properties": [
         {
-          "key": "Ether",
+          "key": "ether",
+          "title": "Ether",
           "emoji": "🔔",
           "icon": "bell",
           "value": "The ear is Ether, and connected to sound.",
@@ -155,7 +170,8 @@
           ]
         },
         {
-          "key": "Air",
+          "key": "air",
+          "title": "Air",
           "emoji": "💨",
           "icon": "wind",
           "value": "The skin is Air, and connected to touch",
@@ -164,7 +180,8 @@
           ]
         },
         {
-          "key": "Fire",
+          "key": "fire",
+          "title": "Fire",
           "emoji": "🔥",
           "icon": "fire",
           "value": "The eye is Fire, and connected to color.",
@@ -173,7 +190,8 @@
           ]
         },
         {
-          "key": "Water",
+          "key": "water",
+          "title": "Water",
           "emoji": "💧",
           "icon": "drop",
           "value": "The tongue is Water, and connected to taste.",
@@ -182,7 +200,8 @@
           ]
         },
         {
-          "key": "Earth",
+          "key": "earth",
+          "title": "Earth",
           "emoji": "🌳",
           "icon": "tree",
           "value": "The nose is Earth, and connected to scent.",
@@ -212,7 +231,8 @@
       ]
     },
     {
-      "key": "Meditation",
+      "key": "meditation",
+      "title": "Meditation",
       "value": "The meditation of mindfulness of in-&-out breathing, when developed & pursued, is of great fruit, of great benefit.",
       "describe": [],
       "emoji": "🧘‍♂️",
@@ -224,7 +244,8 @@
       "source": "https://www.accesstoinsight.org/tipitaka/mn/mn.062.than.html",
       "properties": [
         {
-          "key": "Ether",
+          "key": "ether",
+          "title": "Ether",
           "emoji": "🔔",
           "value": "The ether (space) property may be either internal or external.",
           "describe": [
@@ -233,7 +254,8 @@
           ]
         },
         {
-          "key": "Air",
+          "key": "air",
+          "title": "Air",
           "emoji": "💨",
           "value": "The air (wind) property may be either internal or external.",
           "describe": [
@@ -242,7 +264,8 @@
           ]
         },
         {
-          "key": "Fire",
+          "key": "fire",
+          "title": "Fire",
           "emoji": "🔥",
           "value": "The fire property may be either internal or external.",
           "describe": [
@@ -251,7 +274,8 @@
           ]
         },
         {
-          "key": "Water",
+          "key": "water",
+          "title": "Water",
           "emoji": "💧",
           "value": "The water property may be either internal or external.",
           "describe": [
@@ -260,7 +284,8 @@
           ]
         },
         {
-          "key": "Earth",
+          "key": "earth",
+          "title": "Earth",
           "emoji": "🌳",
           "value": "The earth property can be either internal or external.",
           "describe": [
@@ -289,7 +314,8 @@
       ]
     },
     {
-      "key": "Thought Word Deed",
+      "key": "thought-word-deed",
+      "title": "Thought Word Deed",
       "value": "Emphasizes the importance of integrity in one's thoughts, words, and deeds reflecting the moral and ethical standards that guide interactions.",
       "describe": [],
       "emoji": "☂️",
@@ -318,7 +344,8 @@
       "instruction": []
     },
     {
-      "key": "Divine Demonic Scale",
+      "key": "divine-demonic-scale",
+      "title": "Divine Demonic Scale",
       "value": "There are two scales of beings. The divine (wise), and the demonic (ignorant). Individuals measure on the scale of +100 Divine to -100 Demonic.",
       "describe": [],
       "emoji": "⚖️",
@@ -347,7 +374,8 @@
       "instruction": []
     },
     {
-      "key": "Threefold Austerity",
+      "key": "threefold-austerity",
+      "title": "Threefold Austerity",
       "value": "Categorizes austerity into three types based on motivation and approach: goodness, passion, and ignorance. Each type has distinct characteristics and outcomes.",
       "emoji": "🧘‍♂️",
       "icon": "fingers-crossed",
@@ -358,21 +386,24 @@
       "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
-          "key": "Goodness",
+          "key": "goodness",
+          "title": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "#ThoughtWordDeed practiced with faith without a desire for the fruit",
           "describe": []
         },
         {
-          "key": "Passion",
+          "key": "passion",
+          "title": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "#ThoughtWordDeed performed for the sake of show that yields an uncertain/temporary result.",
           "describe": []
         },
         {
-          "key": "Ignorance",
+          "key": "ignorance",
+          "title": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "#ThoughtWordDeed performed with foolish stubbornness, or with self-torture, or for harming others.",
@@ -381,7 +412,8 @@
       ]
     },
     {
-      "key": "Threefold Charity",
+      "key": "threefold-charity",
+      "title": "Threefold Charity",
       "value": "Similar to austerity, charity is also divided into three categories based on the nature of the giver and the circumstances of giving: goodness, passion, and ignorance.",
       "describe": [],
       "emoji": "🎁",
@@ -393,21 +425,24 @@
       "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
-          "key": "Goodness",
+          "key": "goodness",
+          "title": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Given to a deserving candidate without expectation of return, at the right place and time.",
           "describe": []
         },
         {
-          "key": "Passion",
+          "key": "passion",
+          "title": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Given unwillingly, or with expectation of return, or looking for some fruit.",
           "describe": []
         },
         {
-          "key": "Ignorance",
+          "key": "ignorance",
+          "title": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Given to unworthy persons at a wrong place and time without paying respect to the receiver, or with ridicule.",
@@ -417,7 +452,8 @@
       "instruction": []
     },
     {
-      "key": "Threefold Action",
+      "key": "threefold-action",
+      "title": "Threefold Action",
       "value": "Analyze actions based on their motivation and impact, categorizing them into actions performed out of goodness, passion, or ignorance.",
       "describe": [],
       "emoji": "🎬",
@@ -428,21 +464,24 @@
       "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
-          "key": "Goodness",
+          "key": "goodness",
+          "title": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Performed without likes and dislikes, and without selfish motives and attachment to the fruit.",
           "describe": []
         },
         {
-          "key": "Passion",
+          "key": "passion",
+          "title": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Performed with ego, with selfish motives, and with too much effort.",
           "describe": []
         },
         {
-          "key": "Ignorance",
+          "key": "ignorance",
+          "title": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Performed because of delusion; disregarding consequences, loss, injury to others.",
@@ -452,7 +491,8 @@
       "instruction": []
     },
     {
-      "key": "Threefold Agent",
+      "key": "threefold-agent",
+      "title": "Threefold Agent",
       "value": "Describes the types of individuals undertaking actions, identifying them as motivated by goodness, passion, or ignorance.",
       "describe": [],
       "emoji": "🎅",
@@ -464,21 +504,24 @@
       "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
-          "key": "Goodness",
+          "key": "goodness",
+          "title": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Free from attachment, non-egotistic, resolve, enthusiasm, and unperturbed in success or failure.",
           "describe": []
         },
         {
-          "key": "Passion",
+          "key": "passion",
+          "title": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Impassioned, greedy, violent, impure, and is affected by success or failure.",
           "describe": []
         },
         {
-          "key": "Ignorance",
+          "key": "ignorance",
+          "title": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Undisciplined, vulgar, stubborn, wicked, malicious, lazy, depressed, and procrastinating.",
@@ -488,7 +531,8 @@
       "instruction": []
     },
     {
-      "key": "Threefold Duty",
+      "key": "threefold-duty",
+      "title": "Threefold Duty",
       "value": "The nature of duty and its execution, differentiating between actions performed as a matter of duty, those abandoned out of difficulty, and those neglected due to delusion.",
       "describe": [],
       "emoji": "🫡",
@@ -500,21 +544,24 @@
       "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
-          "key": "Goodness",
+          "key": "goodness",
+          "title": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Work performed as duty, renouncing selfish attachment to the fruit.",
           "describe": []
         },
         {
-          "key": "Passion",
+          "key": "passion",
+          "title": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Abandoning work merely because it is difficult, or fear of bodily trouble.",
           "describe": []
         },
         {
-          "key": "Ignorance",
+          "key": "ignorance",
+          "title": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Giving up, neglecting, or abandoning obligatory work due to delusion.",
@@ -524,7 +571,8 @@
       "instruction": []
     },
     {
-      "key": "Threefold Intellect",
+      "key": "threefold-intellect",
+      "title": "Threefold Intellect",
       "value": "Evaluate and distinguish between right/wrong, beneficial/harmful categorized into three types based on the qualities of goodness, passion, and ignorance.",
       "describe": [],
       "emoji": "🧐",
@@ -535,31 +583,35 @@
       "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
-          "key": "Goodness",
+          "key": "goodness",
+          "title": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "The path of work/renunciation, right/wrong action, fear/fearlessness, bondage/liberation",
           "describe": []
         },
         {
-          "key": "Passion",
+          "key": "passion",
+          "title": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Cannot distinguish between righteousness and unrighteousness, and right and wrong action.",
           "describe": []
         },
         {
-          "key": "Ignorance",
+          "key": "ignorance",
+          "title": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "Accepts unrighteousness as righteousness, and thinks everything to be that which it is not.",
+          "value": "Accepts unrighteousness as righteousness, and thinks everything is which it is not.",
           "describe": []
         }
       ],
       "instruction": []
     },
     {
-      "key": "Threefold Resolve",
+      "key": "threefold-resolve",
+      "title": "Threefold Resolve",
       "value": "Look at the determination behind actions, whether they're aimed at self-realization, material gains, or are driven by dullness and inertia.",
       "describe": [],
       "emoji": "🧩",
@@ -571,21 +623,24 @@
       "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
-          "key": "Goodness",
+          "key": "goodness",
+          "title": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "One manipulates the functions of the mind and senses for Self-realization.",
           "describe": []
         },
         {
-          "key": "Passion",
+          "key": "passion",
+          "title": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Craving for the fruits of work, and enjoyment with great attachment.",
           "describe": []
         },
         {
-          "key": "Ignorance",
+          "key": "ignorance",
+          "title": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Dull person does not give up sleep, fear, grief, despair, and carelessness.",
@@ -595,7 +650,8 @@
       "instruction": []
     },
     {
-      "key": "Threefold Food",
+      "key": "threefold-food",
+      "title": "Threefold Food",
       "value": "Identify to the types of food and their effects, classified according to the three qualities, affecting both physical health and mental well-being.",
       "describe": [],
       "emoji": "🍚",
@@ -606,21 +662,24 @@
       "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
-          "key": "Goodness",
+          "key": "goodness",
+          "title": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "juicy, smooth, substantial, and nutritious",
           "describe": []
         },
         {
-          "key": "Passion",
+          "key": "passion",
+          "title": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "bitter, sour, salty, hot, pungent, dry",
           "describe": []
         },
         {
-          "key": "Ignorance",
+          "key": "ignorance",
+          "title": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "stale, tasteless, putrid, rotten, and impure",
@@ -642,21 +701,24 @@
       "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
-          "key": "Goodness",
+          "key": "goodness",
+          "title": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Appears as difficult in the beginning, but is like nectar in the end.",
           "describe": []
         },
         {
-          "key": "Passion",
+          "key": "passion",
+          "title": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Sensual pleasures appear as nectar in the beginning, but become difficult in the end.",
           "describe": []
         },
         {
-          "key": "Ignorance",
+          "key": "ignorance",
+          "title": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Confusion, laziness, and carelessness in the beginning and end.",
@@ -666,7 +728,8 @@
       "instruction": []
     },
     {
-      "key": "Threefold Convergence",
+      "key": "threefold-convergence",
+      "title": "Threefold Convergence",
       "value": "Deals with the outcome of group interactions, which can lead to attributes aligned with goodness, passion, or ignorance.",
       "describe": [],
       "emoji": "📍",
@@ -678,21 +741,24 @@
       "source": "https://indra.ai",
       "properties": [
         {
-          "key": "Goodness",
+          "key": "goodness",
+          "title": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Convergence of attributes aligned with goodness.",
           "describe": []
         },
         {
-          "key": "Passion",
+          "key": "passion",
+          "title": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Convergence of attributes align with passion.",
           "describe": []
         },
         {
-          "key": "Ignorance",
+          "key": "ignorance",
+          "title": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Convergence of attributes aligned with ignorance.",
@@ -702,7 +768,8 @@
       "instruction": []
     },
     {
-      "key": "Threefold Activity",
+      "key": "threefold-activity",
+      "title": "Threefold Activity",
       "value": "Distinguish between activities based on their nature and impact, identifying them as positive, neutral, or negative.",
       "describe": [],
       "emoji": "🕺",
@@ -713,21 +780,24 @@
       "source": "https://indra.ai",
       "properties": [
         {
-          "key": "Goodness",
+          "key": "goodness",
+          "title": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Positive, Productive, Progressive, Skillful.",
           "describe": []
         },
         {
-          "key": "Passion",
+          "key": "passion",
+          "title": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Personal Interests, Small Talk, Belief driven.",
           "describe": []
         },
         {
-          "key": "Ignorance",
+          "key": "ignorance",
+          "title": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Negative, Secretive, Deceptive, Unskillful.",
@@ -737,7 +807,8 @@
       "instruction": []
     },
     {
-      "key": "Threefold Listening",
+      "key": "threefold-listening",
+      "title": "Threefold Listening",
       "value": "Categorize listening behavior into engaged, partially engaged, and disengaged, reflecting the level of attention and receptiveness.",
       "describe": [],
       "emoji": "👂",
@@ -748,21 +819,24 @@
       "source": "https://indra.ai",
       "properties": [
         {
-          "key": "Goodness",
+          "key": "goodness",
+          "title": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Attentive, Present, Active, Engaged",
           "describe": []
         },
         {
-          "key": "Passion",
+          "key": "passion",
+          "title": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Distracted, Partially Engaged, Dismissive",
           "describe": []
         },
         {
-          "key": "Ignorance",
+          "key": "ignorance",
+          "title": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Derailed, Inactive, Disengaged, Absent",
@@ -772,7 +846,8 @@
       "instruction": []
     },
     {
-      "key": "Threefold Concern",
+      "key": "threefold-concern",
+      "title": "Threefold Concern",
       "value": "Categorizes concern into identifiable categories so that concerns of goodness, passion, and ignorance are easliy identified.",
       "describe": [],
       "emoji": "❤️",
@@ -782,20 +857,23 @@
       "audio": "https://indra.team/audio/indra/threefold-concern.mp3",
       "properties": [
         {
-          "key": "Goodness",
+          "key": "goodness",
+          "title": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Concern for others, environment, overall wellbeing.",
           "describe": []
         },
         {
-          "key": "Passion",
+          "key": "passion",
+          "title": "Passion",
           "emoji": "😐",
           "value": "Concerned about success, desires, fruits of labor.",
           "describe": []
         },
         {
-          "key": "Ignorance",
+          "key": "ignorance",
+          "title": "Ignorance",
           "emoji": "🙁",
           "value": "Concerned about sabotage, failure, harm, being a patsy.",
           "describe": []
@@ -804,7 +882,8 @@
       "instruction": []
     },
     {
-      "key": "Threefold Wealth",
+      "key": "threefold-wealth",
+      "title": "Threefold Wealth",
       "value": "Based on the three modes of Vedic wealth generation White, Spotted, and Black types divided mapped to goodness, passion, and ignorance.",
       "describe": [],
       "emoji": "💰",
@@ -814,21 +893,24 @@
       "audio": "https://indra.team/audio/indra/threefold-wealth.mp3",
       "properties": [
         {
-          "key": "Goodness",
+          "key": "goodness",
+          "title": "Goodness",
           "emoji": "😀",
           "icon": "smile",
           "value": "Vedic knowledge, valour in arms, austerities, instructing a pupil, offerings, inheritance.",
           "describe": []
         },
         {
-          "key": "Passion",
+          "key": "passion",
+          "title": "Passion",
           "emoji": "😐",
           "icon": "neutral",
           "value": "Lending money at interest, tillage, commerce, artistic performances, servile attendance, payment for favors.",
           "describe": []
         },
         {
-          "key": "Ignorance",
+          "key": "ignorance",
+          "title": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
           "value": "Bribes, gambling, bearing a message, through one afflicted with pain, forgery, robbery, fraud.",
