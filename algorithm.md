@@ -3,6 +3,7 @@ layout: default
 title: Algorithm
 tagline: The algorithm is a framework developed by Quinn Michaels inspired by Vedic principles.
 image: /assets/img/page-algorithm.png
+quote: Now, Indra! lauded, glorified with praises, let power swell. High like rivers for the singer. For thee a new hymn is fashioned. May we through song be victors ever.
 color: var(--color-white)
 date: March 30, 2024
 author: Quinn Michaels

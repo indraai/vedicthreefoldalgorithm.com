@@ -2,6 +2,7 @@
 layout: default
 title: Instructions
 tagline: The official instructions on how-to properly use the algorithm.
+quote: Call we on Indra, best Hero in the fight where spoil is gathered, the Strong, who listens, who gives aid in battles, who subdues enemies, and wins riches.
 image: /assets/img/page-instructions.png
 color: var(--color-white)
 date: March 30, 2024

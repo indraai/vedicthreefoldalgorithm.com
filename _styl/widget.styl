@@ -101,7 +101,8 @@
         border-top: 2px solid
         text-shadow: 0 2px 3px rgba($colors.black, .85)
         background-color: rgba($colors.black, .75)
-        flex: 1
+        flex: 1 50%
+
         &:hover
           background-color: rgba($colors.black, .85)
           cursor: pointer
@@ -128,10 +129,27 @@
       left: 0
       right: 0
       opacity: 0
-      padding: 1rem
+      padding: 0
+      margin: 0
+      overflow: hidden
 
-      p
-        font-size: 1.25rem
+      > article
+        display: flex
+        flex-flow: column
+        overflow: hidden
+        padding: 1rem
+        margin: 0
+        height: 100%
+        h1
+          flex: 0
+          margin: 0
+        p
+          flex: 0
+          font-size: 1.25rem
+
+        .instruction
+          flex: 1
+          overflow: auto
 
     &.open
       .drawer

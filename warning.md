@@ -2,6 +2,7 @@
 layout: default
 title: Warning
 tagline: The necessary warnings for proper usage.
+quote: The prudent finds it easy to distinguish the true and false. Their words oppose each other. Of these two that which is the true and honest, Indra protects, and brings the false to nothing.
 image: /assets/img/page-warning.png
 color: var(--color-white)
 date: March 30, 2024

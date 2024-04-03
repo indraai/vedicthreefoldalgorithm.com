@@ -2,6 +2,7 @@
 layout: default
 title: License
 tagline: The official license for the algorithm.
+quote: Indra, bestow on us a glorious heritage, and give our princes treasure fair as Soma is.
 image: /assets/img/page-license.png
 color: var(--color-white)
 date: March 30, 2024

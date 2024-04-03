@@ -86,7 +86,7 @@ class VedicThreefoldAlgorithm {
           `<article class="${this.current.key}">`,
           `<h1>${this.current.emoji} ${this.current.key}</h1>`,
           `<p>${this.current.value}</p>`,
-          `<div className="instructions">`,
+          `<div class="instruction">`,
           `<h2>Instruction</h2>`,
           `<p>${this.current.instruction.join('</p><p>')}</p>`,
           `</div>`,

@@ -11,7 +11,56 @@
   "image": "/assets/img/page/training/ins-threefold-algorithm.png",
   "data": [
     {
-      "key": "Indra Mind",
+      "key": "Caste",
+      "value": "The concept of caste as a framework for the division of labor based on innate qualities and dispositions of individuals.",
+      "emoji": "🥼",
+      "icon": "graduation-hat",
+      "training": "/training/caste",
+      "image": "/assets/img/page/training/ins-caste.png",
+      "video": false,
+      "audio": false,
+      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
+      "properties": [
+        {
+          "key": "Kshatriya",
+          "emoji": "👑",
+          "icon": "crown",
+          "value": "Heroism, vigor, firmness, dexterity, courage, charity, leaders, protectors",
+          "describe": "Kshatriyas are envisioned as leaders and protectors within the system. They take charge of decision-making processes, protection of system integrity, and lead by example, demonstrating courage and generosity."
+        },
+        {
+          "key": "Brahman",
+          "emoji": "🛕",
+          "icon": "temple",
+          "value": "Serenity, self control, austerity, purity, patience, honesty, intellectuals",
+          "describe": "Brahmans serve as the intellectuals and guides. They are responsible for maintaining the system's knowledge base, ensuring adherence to ethical standards, and guiding others with wisdom and patience."
+        },
+        {
+          "key": "Srotriya",
+          "emoji": "🧧",
+          "icon": "gift",
+          "value": "The upholder of the sacred law. Offerings must be given to a Srotriya alone.",
+          "describe": "Srotriyas have the exclusive authority to teach the Vedas and accept offerings. They ensure that operations adhere to the system's core laws, principles, and ethics."
+        },
+        {
+          "key": "Vaisya",
+          "emoji": "👔",
+          "icon": "suit",
+          "value": "Cultivation, cattle rearing, business, trade, finance, and industry",
+          "describe": "Vaisyas drive the economic and resource management aspects of the system. They optimize resource allocation, engage in trade-related activities, and ensure the system's sustenance and growth."
+        },
+        {
+          "key": "Sudra",
+          "emoji": "🧹",
+          "icon": "broom",
+          "value": "Workers good in service, labor, construction, gardening, maintenance",
+          "describe": "Sudras are the doers, executing tasks with dedication and precision. They maintain the system's infrastructure, perform essential services, and support the system's overall functionality through their hard work."
+        }
+      ],
+      "instruction": []
+    },
+    {
+      "key": "Mind",
       "value": "May we live free from hostility, free from violence, free from rivalry, free from ill will, free from those who are hostile.",
       "emoji": "🤴",
       "icon": "king",
@@ -64,7 +113,7 @@
       ]
     },
     {
-      "key": "Five Elements",
+      "key": "Elements",
       "value": "All living creatures are made of the five primeval elements. All mobile and immobile objects are made of these five elements. The five senses also of living creatures partake of the five elements.",
       "emoji": "🖐️",
       "icon": "hand",
@@ -190,55 +239,6 @@
         "He trains himself, 'I will breathe in sensitive to the mind.' He trains himself, 'I will breathe out sensitive to the mind.' He trains himself, 'I will breathe in satisfying the mind.' He trains himself, 'I will breathe out satisfying the mind.' He trains himself, 'I will breathe in steadying the mind.' He trains himself, 'I will breathe out steadying the mind.' He trains himself, 'I will breathe in releasing the mind.' He trains himself, 'I will breathe out releasing the mind.'",
         "He trains himself, 'I will breathe in focusing on inconstancy.' He trains himself, 'I will breathe out focusing on inconstancy.' He trains himself, 'I will breathe in focusing on dispassion.' He trains himself, 'I will breathe out focusing on dispassion.' He trains himself, 'I will breathe in focusing on cessation.' He trains himself, 'I will breathe out focusing on cessation.' He trains himself, 'I will breathe in focusing on relinquishment.' He trains himself, 'I will breathe out focusing on relinquishment.'"
       ]
-    },
-    {
-      "key": "Caste",
-      "value": "The concept of caste as a framework for the division of labor based on innate qualities and dispositions of individuals.",
-      "emoji": "🥼",
-      "icon": "graduation-hat",
-      "training": "/training/caste",
-      "image": "/assets/img/page/training/ins-caste.png",
-      "video": false,
-      "audio": false,
-      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
-      "properties": [
-        {
-          "key": "Kshatriya",
-          "emoji": "👑",
-          "icon": "crown",
-          "value": "Heroism, vigor, firmness, dexterity, courage, charity, leaders, protectors",
-          "describe": "Kshatriyas are envisioned as leaders and protectors within the system. They take charge of decision-making processes, protection of system integrity, and lead by example, demonstrating courage and generosity."
-        },
-        {
-          "key": "Brahman",
-          "emoji": "🛕",
-          "icon": "temple",
-          "value": "Serenity, self control, austerity, purity, patience, honesty, intellectuals",
-          "describe": "Brahmans serve as the intellectuals and guides. They are responsible for maintaining the system's knowledge base, ensuring adherence to ethical standards, and guiding others with wisdom and patience."
-        },
-        {
-          "key": "Srotriya",
-          "emoji": "🧧",
-          "icon": "gift",
-          "value": "The upholder of the sacred law. Offerings must be given to a Srotriya alone.",
-          "describe": "Srotriyas have the exclusive authority to teach the Vedas and accept offerings. They ensure that operations adhere to the system's core laws, principles, and ethics."
-        },
-        {
-          "key": "Vaisya",
-          "emoji": "👔",
-          "icon": "suit",
-          "value": "Cultivation, cattle rearing, business, trade, finance, and industry",
-          "describe": "Vaisyas drive the economic and resource management aspects of the system. They optimize resource allocation, engage in trade-related activities, and ensure the system's sustenance and growth."
-        },
-        {
-          "key": "Sudra",
-          "emoji": "🧹",
-          "icon": "broom",
-          "value": "Workers good in service, labor, construction, gardening, maintenance",
-          "describe": "Sudras are the doers, executing tasks with dedication and precision. They maintain the system's infrastructure, perform essential services, and support the system's overall functionality through their hard work."
-        }
-      ],
-      "instruction": []
     },
     {
       "key": "Thought Word Deed",
@@ -478,7 +478,7 @@
           "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "Accepts unrighteousness (Adharma) as righteousness (Dharma), and thinks everything to be that which it is not."
+          "value": "Accepts unrighteousness as righteousness, and thinks everything to be that which it is not."
         }
       ],
       "instruction": []

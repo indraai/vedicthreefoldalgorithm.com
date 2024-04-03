@@ -2,6 +2,7 @@
 layout: default
 title: Origin
 tagline: The origin behind the creation of the algorithm.
+quote: Three times strode forth in all his grandeur over this Earth bright with a hundred splendors. Foremost be Indra, stronger than the strongest.
 image: /assets/img/page-origin.png
 color: var(--color-white)
 date: March 30, 2024

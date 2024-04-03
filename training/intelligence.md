@@ -2,6 +2,8 @@
 layout: default
 title: Intelligence
 tagline: The heart, the mind, consciousness, comprehension, understanding, intelligence, wisdom, thought, memory, conception, power, life, desire, will are names of the Intelligence.
+quote: Come on that Chariot which the Rbhus wrought for you, the Chariot, Indra, that is speedier than thought.
+
 image: /assets/img/page/training/intelligence.png
 color: var(--color-white)
 date: March 30, 2024

@@ -2,6 +2,7 @@
 layout: default
 title: Integration
 tagline: The official guide on how-to integrate the algorithm into your system.
+quote: That hath so heightened him the Great, the Wide, to do his mighty work. May the Deva attain the Deva, true Indu Indra who is true.
 image: /assets/img/page-integration.png
 color: var(--color-white)
 date: March 30, 2024
