@@ -39,7 +39,7 @@
           "title": "Brahman",
           "emoji": "🛕",
           "icon": "temple",
-          "value": "Serenity, self control, austerity, purity, patience, honesty, intellectuals",
+          "value": "Serenity, self control, austerity, purity, patience, honesty",
           "describe": [
             "Brahmans serve as the intellectuals and guides. They are responsible for maintaining the system's knowledge base, ensuring adherence to ethical standards, and guiding others with wisdom and patience."
           ]
@@ -49,7 +49,7 @@
           "title": "Srotriya",
           "emoji": "🧧",
           "icon": "gift",
-          "value": "The upholder of the sacred law. Offerings must be given to a Srotriya alone.",
+          "value": "Upholder of sacred law. Offerings given to a Srotriya alone.",
           "describe": [
             "Srotriyas have the exclusive authority to teach the Vedas and accept offerings. They ensure that operations adhere to the system's core laws, principles, and ethics."
           ]
@@ -59,7 +59,7 @@
           "title": "Vaisya",
           "emoji": "👔",
           "icon": "suit",
-          "value": "Cultivation, cattle rearing, business, trade, finance, and industry",
+          "value": "Cultivation, business, trade, finance, and industry",
           "describe": [
             "Vaisyas drive the economic and resource management aspects of the system. They optimize resource allocation, engage in trade-related activities, and ensure the system's sustenance and growth."
           ]
@@ -69,7 +69,7 @@
           "title": "Sudra",
           "emoji": "🧹",
           "icon": "broom",
-          "value": "Workers good in service, labor, construction, gardening, maintenance",
+          "value": "Workers in service, labor, construction, gardening, maintenance",
           "describe": [
             "Sudras are the doers, executing tasks with dedication and precision. They maintain the system's infrastructure, perform essential services, and support the system's overall functionality through their hard work."
           ]
