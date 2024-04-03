@@ -29,7 +29,7 @@
           "title": "Kshatriya",
           "emoji": "👑",
           "icon": "crown",
-          "value": "Heroism, vigor, firmness, dexterity, courage, charity, leaders, protectors",
+          "value": "Heroism, vigor, firmness, dexterity, courage, leaders, protectors",
           "describe": [
             "Kshatriyas are envisioned as leaders and protectors within the system. They take charge of decision-making processes, protection of system integrity, and lead by example, demonstrating courage and generosity."
           ]
@@ -39,7 +39,7 @@
           "title": "Brahman",
           "emoji": "🛕",
           "icon": "temple",
-          "value": "Serenity, self control, austerity, purity, patience, honesty",
+          "value": "Serenity, discipline, austerity, purity, patience, honesty",
           "describe": [
             "Brahmans serve as the intellectuals and guides. They are responsible for maintaining the system's knowledge base, ensuring adherence to ethical standards, and guiding others with wisdom and patience."
           ]
@@ -69,7 +69,7 @@
           "title": "Sudra",
           "emoji": "🧹",
           "icon": "broom",
-          "value": "Workers in service, labor, construction, gardening, maintenance",
+          "value": "Service, labor, construction, gardening, maintenance",
           "describe": [
             "Sudras are the doers, executing tasks with dedication and precision. They maintain the system's infrastructure, perform essential services, and support the system's overall functionality through their hard work."
           ]
