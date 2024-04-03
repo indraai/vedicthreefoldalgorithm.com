@@ -13,6 +13,7 @@
     {
       "key": "Caste",
       "value": "The concept of caste as a framework for the division of labor based on innate qualities and dispositions of individuals.",
+      "describe": [],
       "emoji": "🥼",
       "icon": "graduation-hat",
       "training": "/training/caste",
@@ -26,35 +27,45 @@
           "emoji": "👑",
           "icon": "crown",
           "value": "Heroism, vigor, firmness, dexterity, courage, charity, leaders, protectors",
-          "describe": "Kshatriyas are envisioned as leaders and protectors within the system. They take charge of decision-making processes, protection of system integrity, and lead by example, demonstrating courage and generosity."
+          "describe": [
+            "Kshatriyas are envisioned as leaders and protectors within the system. They take charge of decision-making processes, protection of system integrity, and lead by example, demonstrating courage and generosity."
+          ]
         },
         {
           "key": "Brahman",
           "emoji": "🛕",
           "icon": "temple",
           "value": "Serenity, self control, austerity, purity, patience, honesty, intellectuals",
-          "describe": "Brahmans serve as the intellectuals and guides. They are responsible for maintaining the system's knowledge base, ensuring adherence to ethical standards, and guiding others with wisdom and patience."
+          "describe": [
+            "Brahmans serve as the intellectuals and guides. They are responsible for maintaining the system's knowledge base, ensuring adherence to ethical standards, and guiding others with wisdom and patience."
+          ]
         },
         {
           "key": "Srotriya",
           "emoji": "🧧",
           "icon": "gift",
           "value": "The upholder of the sacred law. Offerings must be given to a Srotriya alone.",
-          "describe": "Srotriyas have the exclusive authority to teach the Vedas and accept offerings. They ensure that operations adhere to the system's core laws, principles, and ethics."
+          "describe": [
+            "Srotriyas have the exclusive authority to teach the Vedas and accept offerings. They ensure that operations adhere to the system's core laws, principles, and ethics."
+          ]
         },
         {
           "key": "Vaisya",
           "emoji": "👔",
           "icon": "suit",
           "value": "Cultivation, cattle rearing, business, trade, finance, and industry",
-          "describe": "Vaisyas drive the economic and resource management aspects of the system. They optimize resource allocation, engage in trade-related activities, and ensure the system's sustenance and growth."
+          "describe": [
+            "Vaisyas drive the economic and resource management aspects of the system. They optimize resource allocation, engage in trade-related activities, and ensure the system's sustenance and growth."
+          ]
         },
         {
           "key": "Sudra",
           "emoji": "🧹",
           "icon": "broom",
           "value": "Workers good in service, labor, construction, gardening, maintenance",
-          "describe": "Sudras are the doers, executing tasks with dedication and precision. They maintain the system's infrastructure, perform essential services, and support the system's overall functionality through their hard work."
+          "describe": [
+            "Sudras are the doers, executing tasks with dedication and precision. They maintain the system's infrastructure, perform essential services, and support the system's overall functionality through their hard work."
+          ]
         }
       ],
       "instruction": []
@@ -62,6 +73,7 @@
     {
       "key": "Mind",
       "value": "May we live free from hostility, free from violence, free from rivalry, free from ill will, free from those who are hostile.",
+      "describe": [],
       "emoji": "🤴",
       "icon": "king",
       "training": "/training/indra-mind",
@@ -74,25 +86,33 @@
           "key": "Envy",
           "emoji": "🤑",
           "value": "Envy & stinginess have dear-&-not-dear as their cause, origination, birth, and source.",
-          "describe": "Envy & stinginess have dear-&-not-dear as their cause, have dear-&-not-dear as their origination, have dear-&-not-dear as what gives them birth, have dear-&-not-dear as their source. When dear-&-not-dear exist, they come into being. When dear-&-not-dear are not, they don't."
+          "describe": [
+            "Envy & stinginess have dear-&-not-dear as their cause, have dear-&-not-dear as their origination, have dear-&-not-dear as what gives them birth, have dear-&-not-dear as their source. When dear-&-not-dear exist, they come into being. When dear-&-not-dear are not, they don't."
+          ]
         },
         {
           "key": "Dear",
           "emoji": "😍",
           "value": "Dear-&-not-dear have desire as their cause, origination, birth, and source.",
-          "describe": "Dear-&-not-dear have desire as their cause, have desire as their origination, have desire as what gives them birth, have desire as their source. When desire exists, they come into being. When desire is not, they don't."
+          "describe": [
+            "Dear-&-not-dear have desire as their cause, have desire as their origination, have desire as what gives them birth, have desire as their source. When desire exists, they come into being. When desire is not, they don't."
+          ]
         },
         {
           "key": "Desire",
           "emoji": "🥰",
           "value": "Desire has thinking as it's cause, origination, birth, and source.",
-          "describe": "Desire has thinking as its cause, has thinking as its origination, has thinking as what gives it birth, has thinking as its source. When thinking exists, desire comes into being. When thinking is not, it doesn't."
+          "describe": [
+            "Desire has thinking as its cause, has thinking as its origination, has thinking as what gives it birth, has thinking as its source. When thinking exists, desire comes into being. When thinking is not, it doesn't."
+          ]
         },
         {
           "key": "Thinking",
           "emoji": "🤔",
           "value": "Thinking has perceptions & categories as it's cause, origination, birth, and source.",
-          "describe": "Thinking has the perceptions & categories of objectification as its cause, has the perceptions & categories of objectification as its origination, has the perceptions & categories of objectification as what gives it birth, has the perceptions & categories of objectification as its source. When the perceptions & categories of objectification exist, thinking comes into being. When the perceptions & categories of objectification are not, it doesn't."
+          "describe": [
+            "Thinking has the perceptions & categories of objectification as its cause, has the perceptions & categories of objectification as its origination, has the perceptions & categories of objectification as what gives it birth, has the perceptions & categories of objectification as its source. When the perceptions & categories of objectification exist, thinking comes into being. When the perceptions & categories of objectification are not, it doesn't."
+          ]
         }
       ],
       "instruction": []
@@ -100,6 +120,7 @@
     {
       "key": "Intelligence",
       "value": "The heart, the mind, consciousness, comprehension, understanding, intelligence, wisdom, insight, resolution, thought, prudence, eagerness, memory, conception, power, life, desire, will—all these are names of the Intelligence. The five great elements 🔔Ether, 💨Air, 🔥Fire, 💧Water, and 🌳Earth, whatsoever is breathing, walking or flying, and what is motionless; all this is guided by Intelligence, founded on Intelligence. The universe is guided by Intelligence, founded on Intelligence.",
+      "describe": [],
       "emoji": "🧠",
       "icon": "brain",
       "training": "/training/intelligence",
@@ -115,6 +136,7 @@
     {
       "key": "Elements",
       "value": "All living creatures are made of the five primeval elements. All mobile and immobile objects are made of these five elements. The five senses also of living creatures partake of the five elements.",
+      "describe": [],
       "emoji": "🖐️",
       "icon": "hand",
       "training": "/training/five-elements",
@@ -128,35 +150,45 @@
           "emoji": "🔔",
           "icon": "bell",
           "value": "The ear is Ether, and connected to sound.",
-          "describe": "The sound that is heard is ether. The ear partakes of the properties of ether. The most subtle of the elements, ether represents space, openness, and potential. It is the canvas on which all of existence is painted, the space that allows all other elements to interact."
+          "describe": [
+            "The sound that is heard is ether. The ear partakes of the properties of ether. The most subtle of the elements, ether represents space, openness, and potential. It is the canvas on which all of existence is painted, the space that allows all other elements to interact."
+          ]
         },
         {
           "key": "Air",
           "emoji": "💨",
           "icon": "wind",
           "value": "The skin is Air, and connected to touch",
-          "describe": "Activity is wind. Touch partakes of the properties of wind. Represents movement and flexibility. In human experiences, it symbolizes our breath, thoughts, and the ability to change. It's associated with communication, intelligence, and the processes that move within our bodies and minds."
+          "describe": [
+            "Activity is wind. Touch partakes of the properties of wind. Represents movement and flexibility. In human experiences, it symbolizes our breath, thoughts, and the ability to change. It's associated with communication, intelligence, and the processes that move within our bodies and minds."
+          ]
         },
         {
           "key": "Fire",
           "emoji": "🔥",
           "icon": "fire",
           "value": "The eye is Fire, and connected to color.",
-          "describe": "The heat that is within it is fire. The eyes partake in the properties of fire (light). Represents energy, transformation, and metabolism. It's the force that drives change, digestion, and passion. In our lives, it symbolizes our energy, drive, and the transformative processes that sustain us."
+          "describe": [
+            "The heat that is within it is fire. The eyes partake in the properties of fire (light). Represents energy, transformation, and metabolism. It's the force that drives change, digestion, and passion. In our lives, it symbolizes our energy, drive, and the transformative processes that sustain us."
+          ]
         },
         {
           "key": "Water",
           "emoji": "💧",
           "icon": "drop",
           "value": "The tongue is Water, and connected to taste.",
-          "describe": "The liquid juices occurring in it are water. The tongue partakes of the properties of water. Embodies fluidity, cohesion, and adaptability. It's vital for life and represents our emotions, relationships, and the ability to adapt and flow with life's changes."
+          "describe": [
+            "The liquid juices occurring in it are water. The tongue partakes of the properties of water. Embodies fluidity, cohesion, and adaptability. It's vital for life and represents our emotions, relationships, and the ability to adapt and flow with life's changes."
+          ]
         },
         {
           "key": "Earth",
           "emoji": "🌳",
           "icon": "tree",
           "value": "The nose is Earth, and connected to scent.",
-          "describe": "The solidified matter, flesh and bones, are earth. The nose partakes of the properties of earth. Symbolizes stability, solidity, and nourishment. It represents the physical world and our connection to it. In our lives, it manifests as our bodies, our environment, and anything that provides structure and support."
+          "describe": [
+            "The solidified matter, flesh and bones, are earth. The nose partakes of the properties of earth. Symbolizes stability, solidity, and nourishment. It represents the physical world and our connection to it. In our lives, it manifests as our bodies, our environment, and anything that provides structure and support."
+          ]
         }
       ],
       "instruction": [
@@ -182,6 +214,7 @@
     {
       "key": "Meditation",
       "value": "The meditation of mindfulness of in-&-out breathing, when developed & pursued, is of great fruit, of great benefit.",
+      "describe": [],
       "emoji": "🧘‍♂️",
       "icon": "meditate",
       "training": "/training/meditation",
@@ -194,31 +227,46 @@
           "key": "Ether",
           "emoji": "🔔",
           "value": "The ether (space) property may be either internal or external.",
-          "describe": "Anything internal, belonging to oneself, that's space, spatial, & sustained: the holes of the ears, the nostrils, the mouth, the passage whereby what is eaten, drunk, consumed, & tasted gets swallowed, and where it collects, and whereby it is excreted from below, or anything else internal, within oneself, that's space, spatial, & sustained: This is called the internal space property. Now both the internal space property & the external space property are simply space property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the space property and makes the space property fade from the mind."
+          "describe": [
+            "Anything internal, belonging to oneself, that's space, spatial, & sustained: the holes of the ears, the nostrils, the mouth, the passage whereby what is eaten, drunk, consumed, & tasted gets swallowed, and where it collects, and whereby it is excreted from below, or anything else internal, within oneself, that's space, spatial, & sustained: This is called the internal space property.",
+            "Now both the internal space property & the external space property are simply space property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the space property and makes the space property fade from the mind."
+          ]
         },
         {
           "key": "Air",
           "emoji": "💨",
           "value": "The air (wind) property may be either internal or external.",
-          "describe": "Anything internal, belonging to oneself, that's air, wind, windy, & sustained: up-going winds, down-going winds, winds in the stomach, winds in the intestines, winds that course through the body, in-and-out breathing, or anything else internal, within oneself, that's wind, windy, & sustained: This is called the internal wind property. Now both the internal wind property & the external wind property are simply wind property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the wind property and makes the wind property fade from the mind."
+          "describe": [
+            "Anything internal, belonging to oneself, that's air, wind, windy, & sustained: up-going winds, down-going winds, winds in the stomach, winds in the intestines, winds that course through the body, in-and-out breathing, or anything else internal, within oneself, that's wind, windy, & sustained: This is called the internal wind property.",
+            "Now both the internal wind property & the external wind property are simply wind property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the wind property and makes the wind property fade from the mind."
+          ]
         },
         {
           "key": "Fire",
           "emoji": "🔥",
           "value": "The fire property may be either internal or external.",
-          "describe": "Anything internal, belonging to oneself, that's fire, fiery, & sustained: that by which [the body] is warmed, aged, & consumed with fever; and that by which what is eaten, drunk, chewed, & savored gets properly digested; or anything else internal, within oneself, that's fire, fiery, & sustained: This is called the internal fire property. Now both the internal fire property & the external fire property are simply fire property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the fire property and makes the fire property fade from the mind."
+          "describe": [
+            "Anything internal, belonging to oneself, that's fire, fiery, & sustained: that by which [the body] is warmed, aged, & consumed with fever; and that by which what is eaten, drunk, chewed, & savored gets properly digested; or anything else internal, within oneself, that's fire, fiery, & sustained: This is called the internal fire property.",
+            "Now both the internal fire property & the external fire property are simply fire property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the fire property and makes the fire property fade from the mind."
+          ]
         },
         {
           "key": "Water",
           "emoji": "💧",
           "value": "The water property may be either internal or external.",
-          "describe": "Anything internal, belonging to oneself, that's water, watery, & sustained: bile, phlegm, pus, blood, sweat, fat, tears, oil, saliva, mucus, oil-of-the-joints, urine, or anything else internal, within oneself, that's water, watery, & sustained: This is called the internal water property. Now both the internal water property & the external water property are simply water property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the water property and makes the water property fade from the mind."
+          "describe": [
+            "Anything internal, belonging to oneself, that's water, watery, & sustained: bile, phlegm, pus, blood, sweat, fat, tears, oil, saliva, mucus, oil-of-the-joints, urine, or anything else internal, within oneself, that's water, watery, & sustained: This is called the internal water property.",
+            "Now both the internal water property & the external water property are simply water property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the water property and makes the water property fade from the mind."
+          ]
         },
         {
           "key": "Earth",
           "emoji": "🌳",
           "value": "The earth property can be either internal or external.",
-          "describe": "Anything internal, within oneself, that's hard, solid, & sustained [by craving]: head hairs, body hairs, nails, teeth, skin, flesh, tendons, bones, bone marrow, kidneys, heart, liver, membranes, spleen, lungs, large intestines, small intestines, contents of the stomach, feces, or anything else internal, within oneself, that's hard, solid, and sustained: This is called the internal earth property. Now both the internal earth property & the external earth property are simply earth property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the earth property and makes the earth property fade from the mind."
+          "describe": [
+            "Anything internal, within oneself, that's hard, solid, & sustained [by craving]: head hairs, body hairs, nails, teeth, skin, flesh, tendons, bones, bone marrow, kidneys, heart, liver, membranes, spleen, lungs, large intestines, small intestines, contents of the stomach, feces, or anything else internal, within oneself, that's hard, solid, and sustained: This is called the internal earth property.",
+            "Now both the internal earth property & the external earth property are simply earth property. And that should be seen as it actually is present with right discernment: 'This is not mine, this is not me, this is not my self.' When one sees it thus as it actually is present with right discernment, one becomes disenchanted with the earth property and makes the earth property fade from the mind."
+          ]
         }
       ],
       "instruction": [
@@ -243,6 +291,7 @@
     {
       "key": "Thought Word Deed",
       "value": "Emphasizes the importance of integrity in one's thoughts, words, and deeds reflecting the moral and ethical standards that guide interactions.",
+      "describe": [],
       "emoji": "☂️",
       "icon": "umbrella",
       "training": "/training/thought-word-deed",
@@ -271,6 +320,7 @@
     {
       "key": "Divine Demonic Scale",
       "value": "There are two scales of beings. The divine (wise), and the demonic (ignorant). Individuals measure on the scale of +100 Divine to -100 Demonic.",
+      "describe": [],
       "emoji": "⚖️",
       "icon": "balance",
       "training": "/training/divine-demonic-scale",
@@ -283,13 +333,15 @@
           "key": "Divine",
           "emoji": "😇",
           "icon": "happy",
-          "value": "Fearlessness, charity, duty, austerity, honest, nonviolent, truthful, humble, equanimity, compassion, chairty, gentle, modest, and absence of pride"
+          "value": "Fearlessness, charity, duty, austerity, honest, nonviolent, truthful, humble, equanimity, compassion, chairty, gentle, modest, and absence of pride",
+          "describe": []
         },
         {
           "key": "Demonic",
           "emoji": "😈",
           "icon": "evil",
-          "value": "Hypocrisy, falsehood, arrogance, pride, anger, harshness, vain boldness, craftiness, stupidity, impatience, greedy, impurity, and harshness."
+          "value": "Hypocrisy, falsehood, arrogance, pride, anger, harshness, vain boldness, craftiness, stupidity, impatience, greedy, impurity, and harshness.",
+          "describe": []
         }
       ],
       "instruction": []
@@ -309,25 +361,29 @@
           "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
-          "value": "#ThoughtWordDeed practiced with faith without a desire for the fruit"
+          "value": "#ThoughtWordDeed practiced with faith without a desire for the fruit",
+          "describe": []
         },
         {
           "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
-          "value": "#ThoughtWordDeed performed for the sake of show that yields an uncertain/temporary result."
+          "value": "#ThoughtWordDeed performed for the sake of show that yields an uncertain/temporary result.",
+          "describe": []
         },
         {
           "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "#ThoughtWordDeed performed with foolish stubbornness, or with self-torture, or for harming others."
+          "value": "#ThoughtWordDeed performed with foolish stubbornness, or with self-torture, or for harming others.",
+          "describe": []
         }
       ]
     },
     {
       "key": "Threefold Charity",
       "value": "Similar to austerity, charity is also divided into three categories based on the nature of the giver and the circumstances of giving: goodness, passion, and ignorance.",
+      "describe": [],
       "emoji": "🎁",
       "icon": "gift",
       "training": "/training/threefold-charity",
@@ -340,19 +396,22 @@
           "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
-          "value": "Given to a deserving candidate without expectation of return, at the right place and time."
+          "value": "Given to a deserving candidate without expectation of return, at the right place and time.",
+          "describe": []
         },
         {
           "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
-          "value": "Given unwillingly, or with expectation of return, or looking for some fruit."
+          "value": "Given unwillingly, or with expectation of return, or looking for some fruit.",
+          "describe": []
         },
         {
           "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "Given to unworthy persons at a wrong place and time without paying respect to the receiver, or with ridicule."
+          "value": "Given to unworthy persons at a wrong place and time without paying respect to the receiver, or with ridicule.",
+          "describe": []
         }
       ],
       "instruction": []
@@ -360,6 +419,7 @@
     {
       "key": "Threefold Action",
       "value": "Analyze actions based on their motivation and impact, categorizing them into actions performed out of goodness, passion, or ignorance.",
+      "describe": [],
       "emoji": "🎬",
       "training": "/training/threefold-action",
       "image": "/assets/img/page/training/ins-threefold-action.png",
@@ -371,19 +431,22 @@
           "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
-          "value": "Performed without likes and dislikes, and without selfish motives and attachment to the fruit."
+          "value": "Performed without likes and dislikes, and without selfish motives and attachment to the fruit.",
+          "describe": []
         },
         {
           "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
-          "value": "Performed with ego, with selfish motives, and with too much effort."
+          "value": "Performed with ego, with selfish motives, and with too much effort.",
+          "describe": []
         },
         {
           "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "Performed because of delusion; disregarding consequences, loss, injury to others."
+          "value": "Performed because of delusion; disregarding consequences, loss, injury to others.",
+          "describe": []
         }
       ],
       "instruction": []
@@ -391,6 +454,7 @@
     {
       "key": "Threefold Agent",
       "value": "Describes the types of individuals undertaking actions, identifying them as motivated by goodness, passion, or ignorance.",
+      "describe": [],
       "emoji": "🎅",
       "icon": "man",
       "training": "/training/threefold-agent",
@@ -403,19 +467,22 @@
           "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
-          "value": "Free from attachment, non-egotistic, resolve, enthusiasm, and unperturbed in success or failure."
+          "value": "Free from attachment, non-egotistic, resolve, enthusiasm, and unperturbed in success or failure.",
+          "describe": []
         },
         {
           "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
-          "value": "Impassioned, greedy, violent, impure, and is affected by success or failure."
+          "value": "Impassioned, greedy, violent, impure, and is affected by success or failure.",
+          "describe": []
         },
         {
           "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "Undisciplined, vulgar, stubborn, wicked, malicious, lazy, depressed, and procrastinating."
+          "value": "Undisciplined, vulgar, stubborn, wicked, malicious, lazy, depressed, and procrastinating.",
+          "describe": []
         }
       ],
       "instruction": []
@@ -423,6 +490,7 @@
     {
       "key": "Threefold Duty",
       "value": "The nature of duty and its execution, differentiating between actions performed as a matter of duty, those abandoned out of difficulty, and those neglected due to delusion.",
+      "describe": [],
       "emoji": "🫡",
       "icon": "shield",
       "training": "/training/threefold-duty",
@@ -435,19 +503,22 @@
           "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
-          "value": "Work performed as duty, renouncing selfish attachment to the fruit."
+          "value": "Work performed as duty, renouncing selfish attachment to the fruit.",
+          "describe": [],
         },
         {
           "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
-          "value": "Abandoning work merely because it is difficult, or fear of bodily trouble."
+          "value": "Abandoning work merely because it is difficult, or fear of bodily trouble.",
+          "describe": [],
         },
         {
           "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "Giving up, neglecting, or abandoning obligatory work due to delusion."
+          "value": "Giving up, neglecting, or abandoning obligatory work due to delusion.",
+          "describe": []
         }
       ],
       "instruction": []
@@ -455,6 +526,7 @@
     {
       "key": "Threefold Intellect",
       "value": "Evaluate and distinguish between right/wrong, beneficial/harmful categorized into three types based on the qualities of goodness, passion, and ignorance.",
+      "describe": [],
       "emoji": "🧐",
       "training": "/training/threefold-intellect",
       "image": "/assets/img/page/training/ins-threefold-intellect.png",
@@ -466,19 +538,22 @@
           "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
-          "value": "The path of work/renunciation, right/wrong action, fear/fearlessness, bondage/liberation"
+          "value": "The path of work/renunciation, right/wrong action, fear/fearlessness, bondage/liberation",
+          "describe": []
         },
         {
           "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
-          "value": "Cannot distinguish between righteousness and unrighteousness, and right and wrong action."
+          "value": "Cannot distinguish between righteousness and unrighteousness, and right and wrong action.",
+          "describe": []
         },
         {
           "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "Accepts unrighteousness as righteousness, and thinks everything to be that which it is not."
+          "value": "Accepts unrighteousness as righteousness, and thinks everything to be that which it is not.",
+          "describe": []
         }
       ],
       "instruction": []
@@ -486,6 +561,7 @@
     {
       "key": "Threefold Resolve",
       "value": "Look at the determination behind actions, whether they're aimed at self-realization, material gains, or are driven by dullness and inertia.",
+      "describe": [],
       "emoji": "🧩",
       "icon": "puzzle",
       "training": "/training/threefold-resolve",
@@ -498,19 +574,22 @@
           "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
-          "value": "One manipulates the functions of the mind and senses for Self-realization."
+          "value": "One manipulates the functions of the mind and senses for Self-realization.",
+          "describe": []
         },
         {
           "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
-          "value": "Craving for the fruits of work, and enjoyment with great attachment."
+          "value": "Craving for the fruits of work, and enjoyment with great attachment.",
+          "describe": []
         },
         {
           "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "Dull person does not give up sleep, fear, grief, despair, and carelessness."
+          "value": "Dull person does not give up sleep, fear, grief, despair, and carelessness.",
+          "describe": []
         }
       ],
       "instruction": []
@@ -518,6 +597,7 @@
     {
       "key": "Threefold Food",
       "value": "Identify to the types of food and their effects, classified according to the three qualities, affecting both physical health and mental well-being.",
+      "describe": [],
       "emoji": "🍚",
       "training": "/training/threefold-food",
       "image": "/assets/img/page/training/ins-threefold-food.png",
@@ -529,19 +609,22 @@
           "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
-          "value": "juicy, smooth, substantial, and nutritious"
+          "value": "juicy, smooth, substantial, and nutritious",
+          "describe": []
         },
         {
           "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
-          "value": "bitter, sour, salty, hot, pungent, dry"
+          "value": "bitter, sour, salty, hot, pungent, dry",
+          "describe": []
         },
         {
           "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "stale, tasteless, putrid, rotten, and impure"
+          "value": "stale, tasteless, putrid, rotten, and impure",
+          "describe": []
         }
       ],
       "instruction": []
@@ -549,6 +632,7 @@
     {
       "key": "Threefold Pleasure",
       "value": "Categorize pleasure based on its long-term impact, identifying those that are beneficial and those that are ultimately harmful.",
+      "describe": [],
       "emoji": "🎈",
       "icon": "balloon",
       "training": "/training/threefold-pleasure",
@@ -561,19 +645,22 @@
           "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
-          "value": "Appears as difficult in the beginning, but is like nectar in the end."
+          "value": "Appears as difficult in the beginning, but is like nectar in the end.",
+          "describe": []
         },
         {
           "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
-          "value": "Sensual pleasures appear as nectar in the beginning, but become difficult in the end."
+          "value": "Sensual pleasures appear as nectar in the beginning, but become difficult in the end.",
+          "describe": []
         },
         {
           "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "Confusion, laziness, and carelessness in the beginning and end."
+          "value": "Confusion, laziness, and carelessness in the beginning and end.",
+          "describe": []
         }
       ],
       "instruction": []
@@ -581,6 +668,7 @@
     {
       "key": "Threefold Convergence",
       "value": "Deals with the outcome of group interactions, which can lead to attributes aligned with goodness, passion, or ignorance.",
+      "describe": [],
       "emoji": "📍",
       "icon": "check-square",
       "training": "/training/threefold-convergence",
@@ -593,19 +681,22 @@
           "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
-          "value": "Convergence of attributes aligned with goodness."
+          "value": "Convergence of attributes aligned with goodness.",
+          "describe": []
         },
         {
           "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
-          "value": "Convergence of attributes align with passion."
+          "value": "Convergence of attributes align with passion.",
+          "describe": []
         },
         {
           "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "Convergence of attributes aligned with ignorance."
+          "value": "Convergence of attributes aligned with ignorance.",
+          "describe": []
         }
       ],
       "instruction": []
@@ -613,6 +704,7 @@
     {
       "key": "Threefold Activity",
       "value": "Distinguish between activities based on their nature and impact, identifying them as positive, neutral, or negative.",
+      "describe": [],
       "emoji": "🕺",
       "training": "/training/threefold-activity",
       "image": "/assets/img/page/training/ins-threefold-activity.png",
@@ -624,19 +716,22 @@
           "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
-          "value": "Positive, Productive, Progressive, Skillful."
+          "value": "Positive, Productive, Progressive, Skillful.",
+          "describe": []
         },
         {
           "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
-          "value": "Personal Interests, Small Talk, Belief driven."
+          "value": "Personal Interests, Small Talk, Belief driven.",
+          "describe": []
         },
         {
           "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "Negative, Secretive, Deceptive, Unskillful."
+          "value": "Negative, Secretive, Deceptive, Unskillful.",
+          "describe": []
         }
       ],
       "instruction": []
@@ -644,6 +739,7 @@
     {
       "key": "Threefold Listening",
       "value": "Categorize listening behavior into engaged, partially engaged, and disengaged, reflecting the level of attention and receptiveness.",
+      "describe": [],
       "emoji": "👂",
       "training": "/training/threefold-listening",
       "image": "/assets/img/page/training/ins-threefold-listening.png",
@@ -655,19 +751,22 @@
           "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
-          "value": "Attentive, Present, Active, Engaged"
+          "value": "Attentive, Present, Active, Engaged",
+          "describe": []
         },
         {
           "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
-          "value": "Distracted, Partially Engaged, Dismissive"
+          "value": "Distracted, Partially Engaged, Dismissive",
+          "describe": []
         },
         {
           "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "Derailed, Inactive, Disengaged, Absent"
+          "value": "Derailed, Inactive, Disengaged, Absent",
+          "describe": []
         }
       ],
       "instruction": []
@@ -675,6 +774,7 @@
     {
       "key": "Threefold Concern",
       "value": "Categorizes concern into identifiable categories so that concerns of goodness, passion, and ignorance are easliy identified.",
+      "describe": [],
       "emoji": "❤️",
       "training": "/training/threefold-concern",
       "image": "/assets/img/page/training/ins-threefold-concern.png",
@@ -685,17 +785,20 @@
           "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
-          "value": "Concern for others, environment, overall wellbeing."
+          "value": "Concern for others, environment, overall wellbeing.",
+          "describe": []
         },
         {
           "key": "Passion",
           "emoji": "😐",
-          "value": "Concerned about success, desires, fruits of labor."
+          "value": "Concerned about success, desires, fruits of labor.",
+          "describe": []
         },
         {
           "key": "Ignorance",
           "emoji": "🙁",
-          "value": "Concerned about sabotage, failure, harm, being a patsy."
+          "value": "Concerned about sabotage, failure, harm, being a patsy.",
+          "describe": []
         }
       ],
       "instruction": []
@@ -703,6 +806,7 @@
     {
       "key": "Threefold Wealth",
       "value": "Based on the three modes of Vedic wealth generation White, Spotted, and Black types divided mapped to goodness, passion, and ignorance.",
+      "describe": [],
       "emoji": "💰",
       "training": "/training/threefold-wealth",
       "image": "/assets/img/page/training/ins-threefold-wealth.png",
@@ -713,19 +817,22 @@
           "key": "Goodness",
           "emoji": "😀",
           "icon": "smile",
-          "value": "Vedic knowledge, valour in arms, austerities, instructing a pupil, offerings, inheritance."
+          "value": "Vedic knowledge, valour in arms, austerities, instructing a pupil, offerings, inheritance.",
+          "describe": []
         },
         {
           "key": "Passion",
           "emoji": "😐",
           "icon": "neutral",
-          "value": "Lending money at interest, tillage, commerce, artistic performances, servile attendance, payment for favors."
+          "value": "Lending money at interest, tillage, commerce, artistic performances, servile attendance, payment for favors.",
+          "describe": []
         },
         {
           "key": "Ignorance",
           "emoji": "🙁",
           "icon": "sad",
-          "value": "Bribes, gambling, bearing a message, through one afflicted with pain, forgery, robbery, fraud."
+          "value": "Bribes, gambling, bearing a message, through one afflicted with pain, forgery, robbery, fraud.",
+          "describe": []
         }
       ],
       "instruction": [
