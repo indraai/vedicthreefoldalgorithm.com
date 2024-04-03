@@ -20,8 +20,8 @@ class VedicThreefoldAlgorithm {
     const items = [];
 
     $('.widget .content').attr('style', `--widget-content-bg: url('${this.current.image}')`);
-    $('.widget .content .slide h1 span').html(`${this.current.emoji} ${this.current.key}`);
-    $('.widget .content .slide p').html(this.current.value);
+    $('.widget .content .slide h1 span').html(`${this.current.emoji} ${this.current.title}`);
+    $('.widget .content .slide p').html(`${this.current.value} <button>More...</button>`);
 
     if (this.current.properties) {
       this.current.properties.forEach((val,x) => {
@@ -47,7 +47,7 @@ class VedicThreefoldAlgorithm {
     console.log('CONTENT', obj);
     let drawerHTML = [
       `<article class="${obj.key}">`,
-      `<h1>${obj.emoji} ${obj.key}</h1>`,
+      `<h1>${obj.emoji} ${obj.title}</h1>`,
       `<p>${obj.value}</p>`,
       obj.describe ? `<div class="describe">` : '',
       obj.describe ? `<p>${obj.describe.join('</p><p>')}</p>` : '',
@@ -59,7 +59,7 @@ class VedicThreefoldAlgorithm {
     if (obj.instruction) {
       drawerHTML = [
         `<article class="${obj.key}">`,
-        `<h1>${obj.emoji} ${obj.key}</h1>`,
+        `<h1>${obj.emoji} ${obj.title}</h1>`,
         `<div class="row">`,
         `<div class="describe">`,
         `<p>${obj.value}</p>`,
@@ -89,7 +89,7 @@ class VedicThreefoldAlgorithm {
       this.version = _data.version;
 
       $.each( this.data, (key, val) => {
-        $('.widget .panel ul').append( `<li><button data-index="${key}">${val.emoji} ${val.key}</button></li>`);
+        $('.widget .panel ul').append( `<li><button data-index="${key}">${val.emoji} ${val.title}</button></li>`);
       });
       $('.widget .panel ul li').on('click', 'button', evt => {
         $('.widget .panel ul li button').removeClass('active');
@@ -105,7 +105,7 @@ class VedicThreefoldAlgorithm {
       $('.widget .content').on('click', '.drawer', evt => {
         $('.widget .content').removeClass('open');
       });
-      $('.widget .content .slide').on('click', 'p', evt => {
+      $('.widget .content .slide p').on('click', 'button', evt => {
         this.drawer(this.current);
       });
       //

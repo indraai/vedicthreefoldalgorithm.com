@@ -326,17 +326,20 @@
       "audio": "https://indra.team/audio/indra/thought-word-deed.mp3",
       "properties": [
         {
-          "key": "Thought",
+          "key": "thought",
+          "title": "Thought",
           "emoji": "💭",
           "value": "The serenity of mind, gentleness, equanimity, self-control, and the purity of thought."
         },
         {
-          "key": "Word",
+          "key": "word",
+          "title": "Word",
           "emoji": "📣",
           "value": "Speech that is non-offensive, truthful, pleasant, beneficial, and is honest/truthful."
         },
         {
-          "key": "Deed",
+          "key": "eeed",
+          "title": "Deed",
           "emoji": "🧹",
           "value": "Offerings to the Devas, Teacher, Guru, and the Wise. Purity, truth, honesty, and nonviolence."
         }
@@ -357,14 +360,16 @@
       "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
         {
-          "key": "Divine",
+          "key": "divine",
+          "title": "Divine",
           "emoji": "😇",
           "icon": "happy",
           "value": "Fearlessness, charity, duty, austerity, honest, nonviolent, truthful, humble, equanimity, compassion, chairty, gentle, modest, and absence of pride",
           "describe": []
         },
         {
-          "key": "Demonic",
+          "key": "demonic",
+          "title": "Demonic",
           "emoji": "😈",
           "icon": "evil",
           "value": "Hypocrisy, falsehood, arrogance, pride, anger, harshness, vain boldness, craftiness, stupidity, impatience, greedy, impurity, and harshness.",

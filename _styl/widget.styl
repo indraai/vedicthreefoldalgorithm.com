@@ -57,7 +57,6 @@
     background-position: center center
     background-size: cover
     overflow: hidden
-    filter: blur(0)
 
     .slide
     .properties
@@ -69,42 +68,43 @@
       color: $colors.white
       text-shadow: 0 2px 5px rgba($colors.black, .5)
       flex: 1
-      filter: blur(0)
+      background-color: rgba($colors.black, .6)
+
       h1
-        text-align: center
         align-content: center
-        align-self: center
-        font-size: 3rem
+        align-self: start
+        font-size: 2.5rem
         margin: 0
-        padding: 5rem 0
+        padding: 0
         flex: 1
-
+        width: 100%
         span
-          display: inline-block
-          background-color: rgba($colors.black, .75)
-          padding: 1rem 1.5rem
-          border-radius: 3rem
-
+          display block
+          text-align: center
+          padding: .5rem 1rem 0 1rem
       > p
         margin: 0;
         padding: 1rem
         font-size: 1.2rem
-        background-color: rgba($colors.black, .75)
+
+        button
+          padding: .25rem
+          font-size: .85rem
 
     .properties
       display: none
       padding: 0
       margin: 0
+      background-color: rgba($colors.black, .6)
 
       article
         transition: var(--transition-default)
-        border-top: 2px solid
         text-shadow: 0 2px 3px rgba($colors.black, .85)
-        background-color: rgba($colors.black, .75)
         flex: 1 50%
-
+        border-radius: .5rem
+        margin: .5rem
         &:hover
-          background-color: rgba($colors.black, .85)
+          background-color: rgba($colors.black, .15)
           cursor: pointer
           box-shadow: inset 0 0 .5rem
 
