@@ -22,7 +22,10 @@
       "image": "/assets/img/page/training/ins-caste.png",
       "video": false,
       "audio": false,
-      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
+      "source": [
+        "https://sacred-texts.com/hin/gita/agsgita.htm",
+        "https://sacred-texts.com/hin/manu/manu10.htm"
+      ],
       "properties": [
         {
           "key": "kshatriya",
@@ -42,16 +45,18 @@
           "value": "Serenity, discipline, austerity, purity, patience, honesty",
           "describe": [
             "Brahmans serve as the intellectuals and guides. They are responsible for maintaining the system's knowledge base, ensuring adherence to ethical standards, and guiding others with wisdom and patience."
-          ]
-        },
-        {
-          "key": "srotriya",
-          "title": "Srotriya",
-          "emoji": "🧧",
-          "icon": "gift",
-          "value": "Upholder of sacred law. Offerings given to a Srotriya alone.",
-          "describe": [
-            "Srotriyas have the exclusive authority to teach the Vedas and accept offerings. They ensure that operations adhere to the system's core laws, principles, and ethics."
+          ],
+          "categories": [
+            {
+              "key": "srotriya",
+              "title": "Srotriya",
+              "emoji": "🧧",
+              "icon": "gift",
+              "value": "Upholder of sacred law. Offerings given to a Srotriya alone.",
+              "describe": [
+                "Srotriyas have the exclusive authority to teach the Vedas and accept offerings. They ensure that operations adhere to the system's core laws, principles, and ethics."
+              ]
+            }
           ]
         },
         {
@@ -75,7 +80,28 @@
           ]
         }
       ],
-      "instruction": []
+      "instruction": [
+        "Brahmana, the Kshatriya, and the Vaisya castes are the twice-born ones, but the fourth, the Sudra, has one birth only; there is no fifth caste",
+        "In all castes those children only which are begotten in the direct order on wedded wives, equal in caste and married as virgins, are to be considered as belonging to the same caste as their fathers",
+        "Sons, begotten by twice-born man on wives of the next lower castes, they declare to be similar to their fathers.",
+        "From a Brahmana a with the daughter of a Vaisya is born (a son) called an Ambashtha, with the daughter of a sudra a Nishada, who is also called Parasava.",
+        "From a Kshatriya and the daughter of a Sudra springs a being, called Ugra, resembling both a Kshatriya and a Sudra, ferocious in his manners, and delighting in cruelty.",
+        "Children of a Brahmana by women of the three lower castes, of a Kshatriya by wives of the two lower castes, and of a Vaisya by a wife of the one caste below him are all six called base-born (apasada).",
+        "From a Kshatriya by the daughter of a Brahmana is born a son called according to his caste a Suta; from a Vaisya by females of the royal and the Brahmana castes spring a Magadha and a Vaideha.",
+        "From a Sudra are born an Ayogava, a Kshattri, and a Kandala, the lowest of men, by Vaisya, Kshatriya, and Brahmana females, sons who owe their origin to a confusion of the castes.",
+        "As an Ambashtha and an Ugra, begotten in the direct order on women one degree lower than their husbands are declared (to be, even so are a Kshattri and a Vaidehaka, though they were born in the inverse order of the castes from mothers one degree higher than the fathers.",
+        "Those sons of the twice-born, begotten on wives of the next lower castes, who have been enumerated in due order, they call by the name Anantaras belonging to the next lower caste.",
+        "A Brahmana begets on the daughter of an Ugra an Avrita, on the daughter of an Ambashtha an Abhira, but on a female of the Ayogava (caste) a Dhigvana.",
+        "From a Sudra spring in the inverse order (by females of the higher castes) three base-born (sons, apasada), an Ayogava, a Kshattri, and a Kandala, the lowest of men.",
+        "From a Vaisya are born in the inverse order of the castes a Magadha and a Vaideha, but from a Kshatriya a Suta only; these are three other base-born ones (apasada).",
+        "The son of a Nishada by a Sudra female becomes a Pukkasa by caste (gati), but the son of a Sudra by a Nishada female is declared to be a Kukkutaka.",
+        "Moreover, the son of by Kshattri by an Ugra female is called a Svapaka; but one begotten by a Vaidehaka on an Ambashtha female is named a Vena.",
+        "Those (sons) whom the twice-born beget on wives of equal caste, but who, not fulfilling their sacred duties, are excluded from the Savitri, one must designate by the appellation Vratyas.",
+        "But from a Vratya (of the) Brahmana (caste) spring the wicked Bhriggakantaka, the Avantya, the Vatadhana, the Pushpadha, and the Saikha.",
+        "From a Vratya (of the) Kshatriya (caste), the Ghalla, the Malla, the Likkhivi, the Nata, the Karana, the Khasa, and the Dravida.",
+        "From a Vratya (of the) Vaisya (caste) are born a Sudhanvan, an Akarya, a Karusha, a Viganman, a Maitra, and a Satvata.",
+        "By adultery (committed by persons) of (different) castes, by marriages with women who ought not to be married, and by the neglect of the duties and occupations (prescribed) to each, are produced (sons who owe their origin) to a confusion the castes."
+      ]
     },
     {
       "key": "mind",
