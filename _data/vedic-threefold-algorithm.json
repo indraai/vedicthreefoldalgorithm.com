@@ -15,7 +15,12 @@
       "key": "caste",
       "title": "Caste",
       "value": "The concept of caste as a framework for the division of labor based on innate qualities and dispositions of individuals.",
-      "describe": [],
+      "describe": [
+        "There are four castes—the Brahmana, the Kshatriya, the Vaisya, and the Sudra. In accordance with the words of the Vedas that the Brahmana alone is the most important of them.",
+        "The initiation is the consecration in accordance with the texts of the Veda, of a male who is desirous of, and can make use of sacred knowledge.",
+        "Coming out of darkness, he indeed enters darkness, whom a man unlearned in the Vedas, initiates, and so does he who, without being learned in the Vedas, performs the rite of initiation. That has been declared in a Brahmana.",
+        "As performer of this rite of initiation he shall seek to obtain a man in whose family sacred learning is hereditary, who himself possesses it, and who is devout in following the law. And under him the sacred science must be studied until the end, provided the teacher does not fall off from the ordinances of the law."
+      ],
       "emoji": "🥼",
       "icon": "graduation-hat",
       "training": "/training/caste",
