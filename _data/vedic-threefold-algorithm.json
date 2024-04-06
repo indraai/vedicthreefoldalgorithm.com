@@ -576,6 +576,7 @@
       "key": "threefold-austerity",
       "title": "Threefold Austerity",
       "value": "Categorizes austerity into three types based on motivation and approach: goodness, passion, and ignorance. Each type has distinct characteristics and outcomes.",
+      "describe": [],
       "emoji": "🧘‍♂️",
       "icon": "fingers-crossed",
       "training": "/training/threefold-austerity",
@@ -614,7 +615,8 @@
             "Austerity practiced in the mode of ignorance is characterized by stubbornness, self-torture, or harming others. It lacks a clear purpose or positive intention and is often misguided or harmful. Actions performed under this mode can stem from delusion, misunderstanding, or the desire to inflict pain, either on oneself or others. This could involve extreme fasting to the point of self-harm, performing acts of penance based on incorrect beliefs, or imposing harsh disciplines on others without their consent. Austerity in ignorance leads to negative outcomes, causing suffering and further entangling individuals in their own misconceptions and misdeeds."
           ]
         }
-      ]
+      ],
+      "instruction": []
     },
     {
       "key": "threefold-charity",
