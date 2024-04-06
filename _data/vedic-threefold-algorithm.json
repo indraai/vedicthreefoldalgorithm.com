@@ -418,7 +418,9 @@
       "key": "thought-word-deed",
       "title": "Thought Word Deed",
       "value": "Emphasizes the importance of integrity in one's thoughts, words, and deeds reflecting the moral and ethical standards that guide interactions.",
-      "describe": [],
+      "describe": [
+        "The alignment of 🧠thought, 🗣️word, and 🤝deed is at the heart of the #VedicThreefoldAlgorithm. This alignment ensures that our inner beliefs and values are consistently expressed in our speech and actions. When our thoughts, words, and deeds are in harmony, we live authentically and with integrity. This congruence reduces internal conflict, promotes inner peace, and enhances our impact on the world."
+      ],
       "emoji": "☂️",
       "icon": "umbrella",
       "training": "/training/thought-word-deed",
@@ -430,19 +432,28 @@
           "key": "thought",
           "title": "Thought",
           "emoji": "💭",
-          "value": "The serenity of mind, gentleness, equanimity, self-control, and the purity of thought."
+          "value": "The serenity of mind, gentleness, equanimity, self-control, and the purity of thought.",
+          "describe": [
+            "This refers to the serenity of mind, gentleness, equanimity, self-control, and the purity of thought. These qualities are essential for clear thinking and decision-making. A serene mind allows for gentleness and fairness in our judgments. Equanimity helps us remain balanced in various situations, while self-control prevents us from making impulsive decisions. Finally, the purity of thought ensures that our intentions are positive and constructive. Cultivating these qualities enables us to approach life with clarity and purpose."
+          ]
         },
         {
           "key": "word",
           "title": "Word",
           "emoji": "📣",
-          "value": "Speech that is non-offensive, truthful, pleasant, beneficial, and is honest/truthful."
+          "value": "Speech that is non-offensive, truthful, pleasant, beneficial, and is honest/truthful.",
+          "describe": [
+            "In the Vedic tradition, how we speak reflects our inner state and has the power to shape our reality. Therefore, our speech should be non-offensive, truthful, pleasant, beneficial, and honest. By aligning our words with these principles, we ensure that our communication is constructive, respectful, and aligned with our true intentions. This fosters positive relationships and trust with others, and it ensures that our interactions contribute to mutual growth and understanding."
+          ]
         },
         {
           "key": "deed",
           "title": "Deed",
           "emoji": "🧹",
-          "value": "Offerings to the Devas, Teacher, Guru, and the Wise. Purity, truth, honesty, and nonviolence."
+          "value": "Offerings to the Devas, Teacher, Guru, and the Wise. Purity, truth, honesty, and nonviolence.",
+          "describe": [
+            "This encompasses our actions in the world, including how we express our respect and reverence through offerings to the celestial controllers (Devas), the priest, the guru, and the wise. Our deeds should embody purity, truth, honesty, and nonviolence. By ensuring that our actions reflect these values, we contribute positively to our environment and society. Our deeds become a reflection of our inner state, creating a consistent and harmonious expression of our deepest values."
+          ]
         }
       ],
       "instruction": []
@@ -451,7 +462,10 @@
       "key": "divine-demonic-scale",
       "title": "Divine Demonic Scale",
       "value": "There are two scales of beings. The divine (wise), and the demonic (ignorant). Individuals measure on the scale of +100 Divine to -100 Demonic.",
-      "describe": [],
+      "describe": [
+        "Atool that represents the spectrum of human qualities and behaviors, ranging from divine (😇) to demonic (😈). This scale is not about labeling people as good or bad but rather about understanding the diverse traits that influence our actions and attitudes.",
+        "On this scale, +100 represents the epitome of divine qualities, such as wisdom, compassion, honesty, and selflessness. On the opposite end, -100 signifies the extreme of demonic attributes, including ignorance, arrogance, deceit, and cruelty. Everyone falls somewhere on this spectrum based on their current thoughts, words, and deeds."
+      ],
       "emoji": "⚖️",
       "icon": "balance",
       "training": "/training/divine-demonic-scale",
@@ -466,7 +480,10 @@
           "emoji": "😇",
           "icon": "happy",
           "value": "Fearlessness, charity, duty, austerity, honest, nonviolent, truthful, humble, equanimity, compassion, chairty, gentle, modest, and absence of pride",
-          "describe": []
+          "describe": [
+            "On the positive side of the scale, divine qualities include fearlessness, purity of heart, dedication to spiritual growth, charity, self-control, sacrifice, study, austerity, nonviolence, truthfulness, and absence of anger. These traits lead to harmony, peace, and constructive growth. They promote personal well-being and contribute positively to the welfare of society.",
+            "Individuals exhibiting more divine qualities are likely to experience greater inner peace, fulfillment, and harmonious relationships. They approach life with a sense of duty, respect for others, and a deep understanding of the interconnectedness of all beings."
+          ]
         },
         {
           "key": "demonic",
@@ -474,7 +491,10 @@
           "emoji": "😈",
           "icon": "evil",
           "value": "Hypocrisy, falsehood, arrogance, pride, anger, harshness, vain boldness, craftiness, stupidity, impatience, greedy, impurity, and harshness.",
-          "describe": []
+          "describe": [
+            "The demonic end of the scale is characterized by qualities such as arrogance, hypocrisy, pride, anger, harshness, and ignorance. These attributes lead to conflict, suffering, and discord, both internally and in one's interactions with others.",
+            "Individuals who exhibit more demonic qualities tend to experience inner turmoil, dissatisfaction, and strained relationships. They may pursue selfish goals without regard for the well-being of others, leading to negative consequences and a lack of true fulfillment."
+          ]
         }
       ],
       "instruction": []
@@ -497,7 +517,9 @@
           "emoji": "😀",
           "icon": "smile",
           "value": "#ThoughtWordDeed practiced with faith without a desire for the fruit",
-          "describe": []
+          "describe": [
+            "Austerity practiced with goodness is done with purity, sincerity, and faith, without any desire for personal gain or recognition. This form of austerity is aligned with the qualities of thought, word, and deed we previously discussed. When you practice austerity in the mode of goodness, you focus on self-improvement and spiritual growth, contributing positively to those around you. Your actions are not aimed at personal accolades or material rewards but are performed as a duty and a service to others and the higher self."
+          ]
         },
         {
           "key": "passion",
@@ -505,7 +527,9 @@
           "emoji": "😐",
           "icon": "neutral",
           "value": "#ThoughtWordDeed performed for the sake of show that yields an uncertain/temporary result.",
-          "describe": []
+          "describe": [
+            "Austerity performed in the mode of passion is driven by the desire for results, such as gaining respect, honor, or reverence from others. This form of austerity is not about self-improvement or spiritual growth but is performed for the sake of appearance and societal status. The intentions behind these actions are not pure; they are done with the expectation of a reward, whether it be admiration, fame, or authority. While the acts might appear similar to those done in the mode of goodness, the underlying motivation is what categorizes them as passion. They yield results that are temporary and often lead to dissatisfaction and frustration."
+          ]
         },
         {
           "key": "ignorance",
@@ -513,7 +537,9 @@
           "emoji": "🙁",
           "icon": "sad",
           "value": "#ThoughtWordDeed performed with foolish stubbornness, or with self-torture, or for harming others.",
-          "describe": []
+          "describe": [
+            "Austerity practiced in the mode of ignorance is characterized by stubbornness, self-torture, or harming others. It lacks a clear purpose or positive intention and is often misguided or harmful. Actions performed under this mode can stem from delusion, misunderstanding, or the desire to inflict pain, either on oneself or others. This could involve extreme fasting to the point of self-harm, performing acts of penance based on incorrect beliefs, or imposing harsh disciplines on others without their consent. Austerity in ignorance leads to negative outcomes, causing suffering and further entangling individuals in their own misconceptions and misdeeds."
+          ]
         }
       ]
     },
@@ -536,7 +562,9 @@
           "emoji": "😀",
           "icon": "smile",
           "value": "Given to a deserving candidate without expectation of return, at the right place and time.",
-          "describe": []
+          "describe": [
+            "Charity performed in goodness is given out of a sense of duty, to a deserving recipient, without expecting anything in return. It is carried out at the right place and time. This form of charity is considered the purest, as it is motivated solely by the desire to do good and help others. It reinforces a sense of connection and compassion, contributing positively to the giver's spiritual growth and societal harmony."
+          ]
         },
         {
           "key": "passion",
@@ -544,7 +572,9 @@
           "emoji": "😐",
           "icon": "neutral",
           "value": "Given unwillingly, or with expectation of return, or looking for some fruit.",
-          "describe": []
+          "describe": [
+            "Charity performed in passion is given reluctantly or with the expectation of receiving something in return. This could be in the form of public acknowledgment, respect, or a favor. The act is often motivated by personal interests, desires, or social status. While the act itself might benefit others, the intention behind it is self-serving, which diminishes the spiritual value and the positive impact it might have on the giver's personal development."
+          ]
         },
         {
           "key": "ignorance",
@@ -552,7 +582,9 @@
           "emoji": "🙁",
           "icon": "sad",
           "value": "Given to unworthy persons at a wrong place and time without paying respect to the receiver, or with ridicule.",
-          "describe": []
+          "describe": [
+            "The lowest form of charity is that performed in ignorance. This involves giving at the wrong place and time, to unworthy recipients, or without respect and sincerity. It may even involve ridicule or harm to the receiver. Such charity arises from misunderstanding, disdain, or negative emotions. It contributes neither to the well-being of the giver nor to the receiver and may, in fact, propagate harm and negativity."
+          ]
         }
       ],
       "instruction": []
