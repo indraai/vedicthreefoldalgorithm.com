@@ -16,7 +16,7 @@
       "title": "Intelligence",
       "value": "The heart, the mind, consciousness, comprehension, understanding, intelligence, wisdom, insight, resolution, thought, prudence, eagerness, memory, conception, power, life, desire, will—all these are names of the Intelligence. The five great elements 🔔Ether, 💨Air, 🔥Fire, 💧Water, and 🌳Earth, whatsoever is breathing, walking or flying, and what is motionless; all this is guided by Intelligence, founded on Intelligence. The universe is guided by Intelligence, founded on Intelligence.",
       "describe": [
-        "Humility, modesty, nonviolence, forgiveness, honesty, service to guru, purity of thought, word, and deed, steadfastness, self-control; and aversion towards sense objects, absence of ego, constant reflection on pain and suffering inherent in birth, old age, disease, and death. Detachment, non-fondness with son, wife, and home; unfailing equanimity upon attainment of the desirable and the undesirable; and unswerving devotion through single-minded contemplation, taste for solitude, distaste for social gatherings and gossips; steadfastness in acquiring knowledge is said to be knowledge. That which is contrary to this is ignorance."        
+        "Humility, modesty, nonviolence, forgiveness, honesty, service to guru, purity of thought, word, and deed, steadfastness, self-control; and aversion towards sense objects, absence of ego, constant reflection on pain and suffering inherent in birth, old age, disease, and death. Detachment, non-fondness with son, wife, and home; unfailing equanimity upon attainment of the desirable and the undesirable; and unswerving devotion through single-minded contemplation, taste for solitude, distaste for social gatherings and gossips; steadfastness in acquiring knowledge is said to be knowledge. That which is contrary to this is ignorance."
       ],
       "emoji": "🧠",
       "icon": "brain",
@@ -536,7 +536,11 @@
           ]
         }
       ],
-      "instruction": []
+      "instruction": [
+        "The #ThoughtWordDeed component of the Vedic Threefold Algorithm encapsulates the essential human faculties that govern our moral and ethical behaviors: thought, speech, and action. This triad is pivotal in shaping one's character and the impacts one has on their environment. In \"Thought,\" the algorithm emphasizes serenity of mind, equanimity, self-control, and purity, underscoring the importance of maintaining a peaceful and balanced mental state. This foundation ensures that the subsequent expressions through words and actions are likewise positively inclined. \"Word\" stresses the importance of speech that is truthful, pleasant, beneficial, and non-offensive, promoting communication that uplifts and constructs rather than harms. The algorithm views speech as a powerful tool that can bridge differences and foster understanding when used wisely.",
+
+        "In \"Deed,\" the algorithm highlights actions that manifest these internal and verbal principles into the external world. It encourages deeds that are pure, honest, nonviolent, and aligned with the welfare of all beings. Actions, as evaluated by the algorithm, should ideally be offerings to the divine, contributions to societal harmony, and expressions of respect towards nature and humanity. This segment of the algorithm serves as a guiding principle for interaction within both human and technological realms, ensuring that every action taken is scrutinized for its moral and ethical ramifications. By holistically integrating thought, word, and deed, the algorithm seeks to produce outcomes that are not only successful in their immediate effects but also beneficial in their long-term implications for both individual growth and collective well-being."
+      ]
     },
     {
       "key": "divine-demonic-scale",

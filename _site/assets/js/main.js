@@ -65,7 +65,7 @@ class VedicThreefoldAlgorithm {
         `<p>${obj.value}</p>`,
         obj.describe ? `<p>${obj.describe.join('</p><p>')}</p>` : '',
         `</div>`,
-        `<div class="instruction"><h2>Instruction</h2>`,
+        `<div class="instruction">`,
         `<p>${obj.instruction.join('</p><p>')}</p>`,
         `</div>`,
         `</div>`,
