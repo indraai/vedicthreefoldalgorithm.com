@@ -633,7 +633,11 @@
           ]
         }
       ],
-      "instruction": []
+      "instruction": [
+        "The #ThreefoldAusterity component of the Vedic Threefold Algorithm categorizes actions and intentions into three distinct types based on the underlying motivations and the nature of their execution: goodness, passion, and ignorance. Austerity in goodness is characterized by acts performed with purity of intent, without any desire for personal gain. This form of austerity is undertaken with a deep sense of duty and faith, focusing on the well-being of others and the greater good. Such actions are inherently satisfying and promote spiritual growth and harmony. They are typically marked by self-discipline, modesty, and a commitment to ethical principles, reflecting a high level of personal and spiritual maturity.",
+
+        "In contrast, austerity in passion is driven by a desire for recognition or reward. These actions, while potentially beneficial, are often tainted by selfish motives and can lead to temporary or unstable outcomes. The ego plays a significant role in this type of austerity, where the individual is attached to the fruits of their actions and driven by personal desires. Lastly, austerity in ignorance is marked by stubbornness, self-torture, or the intention to harm others. These actions are misguided, arise from a lack of awareness or understanding, and typically result in negative consequences for the individual and others. By classifying actions into these three categories, the #ThreefoldAusterity aspect of the algorithm helps in predicting outcomes and guiding individuals towards more constructive behaviors, ultimately aiming to elevate actions from ignorance and passion to goodness."
+      ]
     },
     {
       "key": "threefold-charity",
@@ -679,7 +683,11 @@
           ]
         }
       ],
-      "instruction": []
+      "instruction": [
+        "The #ThreefoldCharity aspect of the Vedic Threefold Algorithm evaluates the nature and impact of giving based on the intentions behind and the circumstances surrounding charitable acts. Charity, a significant virtue in many philosophical and spiritual traditions, is categorized into three types: goodness, passion, and ignorance, each reflecting the underlying motivation and the effect of the charitable act. Charity in goodness is performed selflessly and thoughtfully. It is given out of compassion, at the appropriate time and place, and without any expectation of gratitude or return. This form of charity respects the dignity of the recipient and seeks to truly benefit the receiver, thus fostering a positive impact on the broader community.",
+
+        "On the other hand, charity in passion is driven by self-interest, often performed with the expectation of some return or recognition. This type of charity might be given reluctantly or to enhance the giver's status, thus diluting the purity of the act. While it can still provide benefits, the underlying intentions complicate the moral and spiritual value of the charity. Lastly, charity in ignorance involves giving inappropriately or harmfully, such as donating to unworthy causes or in a demeaning manner that undermines the recipient's self-respect. This type of charity can cause more harm than good and often leads to negative outcomes. Through the lens of the #ThreefoldCharity, the algorithm assesses and guides charitable actions to maximize their positive impact and ensure that acts of giving are conducted with the highest moral integrity."
+      ]
     },
     {
       "key": "threefold-action",
@@ -699,7 +707,9 @@
           "emoji": "😀",
           "icon": "smile",
           "value": "Performed without likes and dislikes, and without selfish motives and attachment to the fruit.",
-          "describe": []
+          "describe": [
+            "Actions performed in goodness are characterized by selflessness and a balanced approach. When acting in goodness, individuals do not let personal likes or dislikes influence their decisions. They are not attached to the outcomes or rewards of their actions. Instead, they perform their duties with a clear mind and a sense of service, focusing on what is right and beneficial for all involved. These actions lead to peace, harmony, and lasting satisfaction."
+          ]
         },
         {
           "key": "passion",
@@ -707,7 +717,9 @@
           "emoji": "😐",
           "icon": "neutral",
           "value": "Performed with ego, with selfish motives, and with too much effort.",
-          "describe": []
+          "describe": [
+            "Actions performed in passion are driven by ego, desire, and a strong attachment to results. Such actions often involve excessive effort to achieve personal goals, recognition, or rewards. While they may lead to temporary success or pleasure, they ultimately result in stress, dissatisfaction, and conflict, as they are motivated by selfish interests and controlled by personal biases."
+          ]
         },
         {
           "key": "ignorance",
@@ -715,16 +727,24 @@
           "emoji": "🙁",
           "icon": "sad",
           "value": "Performed because of delusion; disregarding consequences, loss, injury to others.",
-          "describe": []
+          "describe": [
+            "Actions undertaken in ignorance are marked by delusion, carelessness, and a disregard for consequences. Individuals acting under ignorance often overlook the harm their actions may cause to themselves or others. These actions stem from a lack of awareness, understanding, or concern, leading to negative outcomes, suffering, and further entanglement in delusional thinking."
+          ]
         }
       ],
-      "instruction": []
+      "instruction": [
+        "The #ThreefoldAction segment of the Vedic Threefold Algorithm is essential for understanding and guiding behaviors and endeavors in different spheres of life according to their underlying motives and outcomes. Actions within this framework are categorized into three types: goodness, passion, and ignorance, each associated with distinct qualities and consequences. Actions performed in goodness are characterized by selflessness and a lack of attachment to the results. These actions are undertaken with a clear mind and pure intent, ensuring that they contribute positively to the world without fostering personal attachment or ego. This type of action promotes peace, harmony, and sustainable success, as it is aligned with universal laws and moral values.",
+
+        "Conversely, actions done in passion are driven by desires and personal gains. They often involve a significant amount of effort and attachment to outcomes, which can lead to stress and transient success. While these actions can be productive and lead to achievements, they are also susceptible to fluctuations in fortune and emotion, tied closely to personal ambitions and external validations. On the other hand, actions in ignorance are marked by confusion, negligence, and a lack of consideration for the consequences. These actions are generally harmful, leading to chaos and suffering for oneself and others. The #ThreefoldAction framework aids in evaluating and realigning actions to foster more mindful and beneficial practices, steering individuals and communities toward actions that uphold and promote ethical standards and universal well-being."
+      ]
     },
     {
       "key": "threefold-agent",
       "title": "Threefold Agent",
       "value": "Describes the types of individuals undertaking actions, identifying them as motivated by goodness, passion, or ignorance.",
-      "describe": [],
+      "describe": [
+        "In the Vedic tradition, the nature of the agent – the individual or entity taking action – is categorized into three types: goodness, passion, and ignorance. This classification helps in understanding the underlying motivations and behaviors driving our actions."
+      ],
       "emoji": "🎅",
       "icon": "man",
       "training": "/training/threefold-agent",
@@ -739,7 +759,10 @@
           "emoji": "😀",
           "icon": "smile",
           "value": "Free from attachment, non-egotistic, resolve, enthusiasm, and unperturbed in success or failure.",
-          "describe": []
+          "describe": [
+            "An agent in the mode of goodness acts without attachment to the results of their actions. They are not driven by ego or personal gain. Instead, they are motivated by a sense of duty, resolve, and enthusiasm for the task at hand. Such individuals remain balanced and composed, whether they encounter success or failure. Their actions promote harmony, understanding, and welfare for all. By embodying these qualities, the agent in goodness contributes positively to their environment and cultivates inner peace.",
+            "By understanding and embodying the concept of the #ThreefoldAgent, we can transform our actions and interactions, leading to more fulfilling and harmonious outcomes. In the next segment, we will delve deeper into the #VedicThreefoldAlgorithm and how it can be applied to further aspects of our lives. Stay with us for more insights."
+          ]
         },
         {
           "key": "passion",
@@ -747,7 +770,9 @@
           "emoji": "😐",
           "icon": "neutral",
           "value": "Impassioned, greedy, violent, impure, and is affected by success or failure.",
-          "describe": []
+          "describe": [
+            "An agent driven by passion is often controlled by their desires and ego. They are highly attached to the outcomes of their actions, seeking personal benefit, recognition, or reward. This attachment can lead to greed, aggression, and impurity in their methods and intentions. Such agents are easily swayed by emotions, experiencing significant highs and lows based on their successes and failures. While they may achieve temporary gains, their actions often lead to stress, conflict, and dissatisfaction in the long run."
+          ]
         },
         {
           "key": "ignorance",
@@ -755,16 +780,25 @@
           "emoji": "🙁",
           "icon": "sad",
           "value": "Undisciplined, vulgar, stubborn, wicked, malicious, lazy, depressed, and procrastinating.",
-          "describe": []
+          "describe": [
+            "An agent acting in ignorance exhibits negative traits such as indiscipline, vulgarity, stubbornness, and malice. They may procrastinate, act out of wickedness, or harm others intentionally or through neglect. Their actions are marked by a lack of awareness, understanding, or concern for the consequences. This mode leads to chaos, suffering, and a downward spiral in both personal development and societal impact."
+          ]
         }
       ],
-      "instruction": []
+      "instruction": [
+        "The #ThreefoldAgent component of the Vedic Threefold Algorithm delineates the characteristics of the individuals undertaking actions, categorized under the attributes of goodness, passion, and ignorance. An agent in goodness is marked by their detachment, lack of ego, steadfastness, and enthusiasm. Such agents are unperturbed by success or failure, maintaining their composure and ethical standards regardless of external circumstances. This stability allows them to act thoughtfully and effectively, fostering environments of trust and reliability. Their actions are often motivated by a sense of duty and a desire for the collective good, rather than personal gain, which leads to sustainable and harmonious outcomes.",
+
+        "In contrast, an agent in passion is typically driven by intense desires and emotions. They are often attached to the results of their actions, motivated by personal success, and influenced by their own biases and greed. This can lead to inconsistency in their behavior, as they are likely swayed by their fluctuating fortunes and personal achievements. Agents in ignorance, however, display characteristics such as indiscipline, procrastination, and a general disregard for consequences. Their actions can be reckless, harmful, and lead to instability and chaos. Understanding these three types of agents helps the algorithm to tailor interactions and strategies that enhance the agent’s capacity for positive action and mitigate the less desirable traits, thereby promoting overall personal and societal development."
+      ]
     },
     {
       "key": "threefold-duty",
       "title": "Threefold Duty",
       "value": "The nature of duty and its execution, differentiating between actions performed as a matter of duty, those abandoned out of difficulty, and those neglected due to delusion.",
-      "describe": [],
+      "describe": [
+        "In the context of the Vedic Threefold Algorithm, our duties or responsibilities can be approached through three distinct lenses: goodness, passion, and ignorance. Each of these influences our attitude and execution of our obligations in different ways.",
+        "By understanding and applying the concept of #ThreefoldDuty, we move towards a life of purpose, fulfillment, and positive impact. As we cultivate a sense of duty performed in goodness, we not only enhance our own lives but also contribute to the harmony and progress of the world around us. Stay tuned for more insights as we continue to explore the transformative power of the #VedicThreefoldAlgorithm."
+      ],
       "emoji": "🫡",
       "icon": "shield",
       "training": "/training/threefold-duty",
@@ -779,7 +813,9 @@
           "emoji": "😀",
           "icon": "smile",
           "value": "Work performed as duty, renouncing selfish attachment to the fruit.",
-          "describe": []
+          "describe": [
+            "In the mode of goodness, duty is performed as an obligation, with a focus on the action itself rather than the fruits or results. This approach involves performing tasks with dedication, sincerity, and a sense of service, without selfish attachments to the outcomes. An individual acting in goodness understands the importance of their duties in maintaining harmony and order, contributing positively to their environment. They perform their obligations out of a sense of rightness and commitment to the greater good."
+          ]
         },
         {
           "key": "passion",
@@ -787,7 +823,9 @@
           "emoji": "😐",
           "icon": "neutral",
           "value": "Abandoning work merely because it is difficult, or fear of bodily trouble.",
-          "describe": []
+          "describe": [
+            "When duties are approached with passion, the individual may start with enthusiasm but often lacks the perseverance or sincerity to see tasks through, especially when faced with difficulties or when the actions no longer serve their personal interests. In this mode, duties are often abandoned or performed half-heartedly if they are perceived as challenging or if they do not provide immediate gratification or recognition. This approach can lead to inconsistency, frustration, and an unfulfilled potential, as actions are driven by selfish desires and the fluctuating moods of the individual."
+          ]
         },
         {
           "key": "ignorance",
@@ -795,16 +833,25 @@
           "emoji": "🙁",
           "icon": "sad",
           "value": "Giving up, neglecting, or abandoning obligatory work due to delusion.",
-          "describe": []
+          "describe": [
+            "In the mode of ignorance, individuals might neglect or abandon their duties due to laziness, confusion, or delusion. They may rationalize their lack of action with excuses, avoiding responsibility due to fear, misunderstanding, or a lack of interest. This neglect can lead to chaos, harm, or the deterioration of one's personal and professional life, as well as negative consequences for others who depend on their actions."
+          ]
         }
       ],
-      "instruction": []
+      "instruction": [
+        "The #ThreefoldDuty aspect of the Vedic Threefold Algorithm scrutinizes the nature and fulfillment of obligations based on the motivations and contexts in which they are carried out, categorizing them into the modes of goodness, passion, and ignorance. Duty performed in the mode of goodness is characterized by selflessness and a lack of attachment to the fruits of one's actions. Individuals acting under this mode undertake their responsibilities with a deep sense of purpose and commitment to the greater good, without personal gain dictating their actions. This approach not only ensures that duties are performed ethically and effectively but also fosters a sense of peace and satisfaction in the individual, contributing to a harmonious social order.",
+
+        "Conversely, duty in the mode of passion involves actions that are driven by personal desires or fear of loss, leading individuals to engage in their duties inconsistently or only when they align with their personal interests. Such actions can result in short-term success but often lead to stress and instability because they are heavily influenced by personal ambitions and external validation. Lastly, duty in the mode of ignorance is characterized by negligence and delusion, where duties are either ignored or performed with improper understanding and intention, leading to harmful consequences. By identifying and understanding these three modes, the #ThreefoldDuty component of the algorithm aids in guiding individuals towards more conscientious and sustainable practices in fulfilling their duties."
+      ]
     },
     {
       "key": "threefold-intellect",
       "title": "Threefold Intellect",
       "value": "Evaluate and distinguish between right/wrong, beneficial/harmful categorized into three types based on the qualities of goodness, passion, and ignorance.",
-      "describe": [],
+      "describe": [
+        "This aspect helps us understand how our cognitive processes, influenced by different modes, affect our perception of duty, ethics, and the world around us. Understanding this concept can enhance our decision-making and lead us towards more fulfilling actions.",
+        "By developing and nurturing an intellect in the mode of goodness, we can make decisions that lead to true well-being, harmony, and fulfillment. This not only benefits us personally but also contributes positively to our communities and the world at large."
+      ],
       "emoji": "🧐",
       "training": "/training/threefold-intellect",
       "image": "/assets/img/page/training/ins-threefold-intellect.png",
@@ -818,7 +865,9 @@
           "emoji": "😀",
           "icon": "smile",
           "value": "The path of work/renunciation, right/wrong action, fear/fearlessness, bondage/liberation",
-          "describe": []
+          "describe": [
+            "When the intellect operates in the mode of goodness, it has clear vision and understanding. It can accurately discern the path of work from renunciation and identify right from wrong actions. It understands what leads to fear and what leads to fearlessness, as well as what constitutes bondage and what leads to liberation. This type of intellect promotes a balanced and ethical approach to life, guiding individuals towards actions that are in harmony with universal laws and their true self."
+          ]
         },
         {
           "key": "passion",
@@ -826,7 +875,9 @@
           "emoji": "😐",
           "icon": "neutral",
           "value": "Cannot distinguish between righteousness and unrighteousness, and right and wrong action.",
-          "describe": []
+          "describe": [
+            "In the mode of passion, the intellect becomes clouded by desires and emotions, leading to confusion between righteousness (Dharma) and unrighteousness (Adharma). This confusion hampers the individual's ability to make clear decisions, often leading them to choose actions based on personal gain, desire, or emotional impulses rather than ethical considerations. The intellect in passion struggles with discernment, making it difficult to distinguish between beneficial and harmful paths."
+          ]
         },
         {
           "key": "ignorance",
@@ -834,10 +885,16 @@
           "emoji": "🙁",
           "icon": "sad",
           "value": "Accepts unrighteousness as righteousness, and thinks everything is which it is not.",
-          "describe": []
+          "describe": [
+            "When the intellect is in the mode of ignorance, it misinterprets reality, mistaking unrighteousness for righteousness and falsehood for truth. This type of intellect is characterized by delusion, misunderstanding, and a lack of awareness. It leads individuals to make poor decisions, often causing harm to themselves and others, as they are unable to see things as they truly are."
+          ]
         }
       ],
-      "instruction": []
+      "instruction": [
+        "The #ThreefoldIntellect component of the Vedic Threefold Algorithm examines the nature of decision-making processes, categorizing them based on the qualities of goodness, passion, and ignorance, which influence an individual's cognitive clarity and ethical discernment. Intellect in the mode of goodness is characterized by clear understanding and the ability to discern right from wrong, truth from falsehood, and beneficial actions from harmful ones. This form of intellect leads to decisions that are well-considered, aligned with moral and universal laws, and conducive to long-term well-being and harmony. Such intellectual capacity promotes a balanced perspective on life, fostering decisions that support personal growth and collective welfare.",
+
+        "In contrast, intellect in the mode of passion is often clouded by personal desires and biases. It struggles to distinguish between right and wrong, frequently oscillating between short-term gains and ethical principles. This leads to inconsistent decision-making that may yield immediate results but lacks sustainability and can create conflict and regret. Intellect in the mode of ignorance is even more detrimental; it is characterized by confusion and a skewed perception of reality, often mistaking the harmful for the beneficial and vice versa. Such an intellect leads to decisions that are impulsive, poorly thought out, and generally destructive. The #ThreefoldIntellect framework of the algorithm helps in guiding individuals and systems toward higher cognitive functioning and ethical decision-making, aiming to elevate the intellectual discourse from ignorance and passion to goodness."
+      ]
     },
     {
       "key": "threefold-resolve",
