@@ -1321,6 +1321,60 @@
       ]
     },
     {
+      "key": "threefold-friends",
+      "title": "Threefold Friends",
+      "value": "Categorizes friendships/relationships into identifiable categories of goodness, passion, and ignorance.",
+      "describe": [
+        "The #ThreefoldFriends component of the Vedic Threefold Algorithm categorizes social relationships into three types: goodness, passion, and ignorance, to evaluate and guide interactions within social networks. Relationships rooted in goodness are supportive and uplifting, fostering mutual growth and positive community engagement. Passion-driven friendships, while dynamic, may lead to competitive or conflicting interactions if unchecked. Friendships in ignorance promote negative behaviors and misinformation, potentially harming individual and community well-being. This algorithmic approach aims to enhance users' social experiences by promoting healthier interactions and advising caution against detrimental relationships."
+      ],
+      "emoji": "🥳",
+      "training": "/training/threefold-concern",
+      "image": "/assets/img/page/training/ins-threefold-friends.png",
+      "video": false,
+      "audio": "https://indra.team/audio/indra/threefold-friends.mp3",
+      "properties": [
+        {
+          "key": "goodness",
+          "title": "Goodness",
+          "emoji": "😀",
+          "icon": "smile",
+          "value": "Caring, supportive, encouraging, respectful, and positive",
+          "describe": [
+            "Friends in this category promote well-being, offer support, and encourage positive personal growth. Interactions are based on mutual respect, kindness, and a shared commitment to beneficial outcomes. AI using this parameter would foster and prioritize connections that enhance these qualities."
+          ]
+        },
+        {
+          "key": "passion",
+          "title": "Passion",
+          "emoji": "😐",
+          "value": "Competative, conflict driven, shared activities, ambitions",
+          "describe": [
+            "Friends characterized by passion may involve dynamic and inspiring interactions but can also lead to competitiveness or conflict. Relationships in this category often revolve around shared activities or ambitions, and while they can be enriching, they might also require careful navigation to maintain balance."
+          ]
+        },
+        {
+          "key": "ignorance",
+          "title": "Ignorance",
+          "emoji": "🙁",
+          "value": "Negative, discouraging, dishonest, harmful, and deceptive.",
+          "describe": [
+            "This type of friendship might involve negative influences or behaviors such as discouragement, dishonesty, or other harmful interactions. In this category, relationships could lead to ethical dilemmas or situations where the AI needs to provide advice on caution or withdrawal."
+          ]
+        }
+      ],
+      "instruction": [
+        "The #ThreefoldFriends component of the Vedic Threefold Algorithm is designed to enhance understanding and management of social relationships by categorizing them into three types: goodness, passion, and ignorance. This framework helps to evaluate the nature and impact of interactions within social circles and networks.",
+
+        "Friends in the realm of goodness are characterized by their supportive, honest, and uplifting interactions. These relationships foster mutual growth, shared positive experiences, and a consistent support system that enhances personal and communal well-being. Engagements here are generally altruistic, aiming for the collective good without seeking personal gains at the expense of others.",
+
+        "Conversely, friendships in the category of passion are often marked by dynamic but potentially unstable interactions driven by intense emotions or personal ambitions. While these relationships can be inspiring and motivating, they may also lead to conflict or competitive tensions if not managed carefully.",
+
+        "Lastly, friendships in the mode of ignorance are associated with negative influences, including deceit, manipulation, or discouragement. Such relationships might propagate harmful behaviors, misinformation, or unethical actions.",
+
+        "The #ThreefoldFriends algorithm aims to identify and promote healthier social interactions, guiding users towards more enriching connections and advising caution or reevaluation of potentially harmful associations."
+      ]
+    },
+    {
       "key": "threefold-wealth",
       "title": "Threefold Wealth",
       "value": "Based on the three modes of Vedic wealth generation White, Spotted, and Black types divided mapped to goodness, passion, and ignorance.",
