@@ -16,7 +16,6 @@ class VedicThreefoldAlgorithm {
   }
 
   content(idx) {
-    this.current = this.data[idx];
     const items = [];
 
     $('.widget .content').attr('style', `--widget-content-bg: url('${this.current.image}')`);
@@ -77,6 +76,27 @@ class VedicThreefoldAlgorithm {
     $('.widget .content .drawer').html(drawerHTML);
   }
 
+  view(idx) {
+    this.current = this.data[idx];
+
+    const prev = !idx ? this.data.length - 1 : idx - 1;
+    const next = idx + 1 >= this.data.length ? 0 : idx + 1
+
+    $('.prev .prev-btn').attr('data-index', prev);
+    $('.next .next-btn').attr('data-index', next);
+    console.log('idx', idx);
+    console.log('PREV', prev);
+    console.log('NEXT', next);
+
+    $('.widget .panel').removeClass('open');
+    $('.widget .content').removeClass('open');
+    $('.widget .panel ul li button').removeClass('active');
+
+    $(`.widget .panel ul li button[data-index="${idx}"]`).addClass('active');
+
+    this.content(idx);
+  }
+
   init() {
     $.getJSON(this.jsonUrl, _data => {
       this.title = _data.title;
@@ -91,11 +111,13 @@ class VedicThreefoldAlgorithm {
       $.each( this.data, (key, val) => {
         $('.widget .panel ul').append( `<li><button data-index="${key}">${val.emoji} ${val.title}</button></li>`);
       });
-      $('.widget .panel ul li').on('click', 'button', evt => {
-        $('.widget .panel ul li button').removeClass('active');
-        $('.widget .content').removeClass('open');
-        $(evt.target).addClass('active');
-        this.content(evt.target.dataset.index);
+
+      $('.widget .panel .menu').on('click', '.current', evt => {
+        $('.widget .panel').toggleClass('open')
+      });
+
+      $('.widget .panel').on('click', '[data-index]', evt => {
+        this.view(parseInt(evt.currentTarget.dataset.index));
       });
 
       $('.widget .content .properties').on('click', '[data-property]', evt => {

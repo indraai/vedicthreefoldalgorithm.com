@@ -102,7 +102,10 @@ hr
 .row
   display: flex
   margin: auto
-  flex-flow: row nowrap
+  flex-flow: column nowrap
+
+  @media screen and (min-width: 600px)
+    flex-flow: row nowrap
 
   @media screen and (min-width: 900px)
     max-width: $page.width

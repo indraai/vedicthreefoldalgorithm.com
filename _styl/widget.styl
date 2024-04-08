@@ -2,31 +2,88 @@
   overflow: hidden
   display: none
 
-  height: 36rem
   background-color: $colors.dark-grey
   margin auto
   border-top: 3px solid $colors.dark-grey
   border-bottom: 3px solid $colors.dark-grey
 
   flex-flow: column nowrap
-
-  @media screen and (min-width: 960px)
+  width: 100%
+  position: relative
+  @media screen and (min-width: 600px)
+    height: 24rem
     display: flex
-    flex-flow: row nowrap
+
+  @media screen and (min-width: 900px)
+    height: 27rem
+
+  @media screen and (min-width: 1000px)
+    height: 30rem
 
 
   .panel
+    transition: var(--transition-default)
+    transform: translateZ(0)
     overflow: auto
-    min-width: 200px
-    flex: 0 200px
+    flex: 0 2rem
+    order: 2
+    display: flex
+    flex-flow: column nowrap
+    &.open
+      flex: 0 9rem
+
+      ul
+        display: flex
+        opacity: 1
+      &+.content
+        .slide
+        .properties
+          opacity: 0
+
+    .menu
+      display: flex
+      flex-flow: row nowrap
+      .prev
+      .next
+        flex: 0 2rem
+        text-align: center
+        &-btn
+          padding: 0
+          margin: 0
+          font-size: 1.5rem
+          width: 2rem
+          height: 2rem
+          border-radius: 0
+
+      .current
+        flex: 1
+        text-align: center
+        &-btn
+          width: 100%
+          padding: 0
+          margin: 0
+          font-size: 1.5rem
+          height: 2rem
+          border-radius: 0
+          display: flex
+          justify-content: center
+          align-items: center
+
+          span
+            font-size: 1.25rem
 
     ul
+      transition: var(--transition-default)
+      transform: translateZ(0)
       list-style: none
       margin: 0
       padding: 0
-      display: flex
-      flex-flow: column nowrap
+      flex-flow: row wrap
       height: 100%
+      display: none
+      opacity: 0
+      justify-content: center
+      align-items: stretch
 
       li
         flex: 1 auto
@@ -58,10 +115,12 @@
     background-position: center center
     background-size: cover
     overflow: hidden
+    flex: 1
 
     .slide
     .properties
       transition: var(--transition-default)
+      opacity: 1
 
     .slide
       display: flex
@@ -184,7 +243,7 @@
   &.props
 
     .properties
-      flex: 0
+      flex: 0 9rem
       display: flex
       flex-flow: row nowrap
       justify-content: center
