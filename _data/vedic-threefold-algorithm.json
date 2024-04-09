@@ -652,6 +652,63 @@
       ]
     },
     {
+      "key": "threefold-sacrifice",
+      "title": "Threefold Sacrifice",
+      "value": "Categorizes austerity into three types based on motivation and approach: goodness, passion, and ignorance. Each type has distinct characteristics and outcomes.",
+      "describe": [
+        "The concept of Threefold Sacrifice, as delineated in the Vedic texts, is a critical component of ethical behavior and spiritual development. This concept is articulated through three distinct modes, each reflecting a different approach to sacrifice and service. Integrating this into the algorithm involves recognizing and categorizing actions based on their underlying motivations and adherence to Vedic principles."
+      ],
+      "emoji": "🧘‍♂️",
+      "icon": "fingers-crossed",
+      "training": "/training/threefold-austerity",
+      "image": "/assets/img/page/training/ins-threefold-austerity.png",
+      "video": "auXshIRv9bk",
+      "audio": "https://indra.team/audio/indra/threefold-austerity.mp3",
+      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
+      "properties": [
+        {
+          "key": "goodness",
+          "title": "Goodness",
+          "emoji": "😀",
+          "icon": "smile",
+          "value": "Service enjoined by the Vedas, without the desire for the fruit, with a firm belief and conviction that it is a duty.",
+          "describe": [
+            "This form of sacrifice is characterized by selfless service that is performed in accordance with the teachings of the Vedas, without any desire for personal gain or recognition. The individual engages in these actions out of a sense of duty and a firm belief in the righteousness of the act. Such sacrifices are driven by a genuine intent to contribute to the welfare of others, enhancing harmony and positive outcomes in society. The algorithm, by recognizing and promoting actions in this mode, encourages behaviors that are altruistic and beneficial, supporting a foundational structure that values the collective well-being."
+          ]
+        },
+        {
+          "key": "passion",
+          "title": "Passion",
+          "emoji": "😐",
+          "icon": "neutral",
+          "value": "Service that is performed only for show, and aiming for fruit, know that to be in the mode of passion.",
+          "describe": [
+            "This type of sacrifice, while still a form of service, is primarily performed for the sake of appearance or to gain some benefit or recognition (the fruit). Actions in this mode are not entirely selfless but are colored by personal desires and aspirations. They may still result in good, but the underlying motivation includes personal gain or public accolades. In the algorithm, such actions are identified to ensure that while they are acknowledged, they are not placed on the same level as those performed in the mode of goodness."
+          ]
+        },
+        {
+          "key": "ignorance",
+          "title": "Ignorance",
+          "emoji": "🙁",
+          "icon": "sad",
+          "value": "Service that is performed without following the Vedas, in which no food is distributed, which is devoid of mantra, faith, and gift, is said to be in the mode of ignorance.",
+          "describe": [
+            "The lowest form of sacrifice according to the Vedic framework is performed without any adherence to the prescribed rituals, lacks spiritual depth (devoid of mantras and faith), and does not involve the distribution of food or other forms of charity. These actions are often misinformed, aimless, or neglectful of the broader spiritual and communal principles that underpin Vedic sacrifices. By identifying these actions, the algorithm helps to highlight and discourage behaviors that are detached from ethical and spiritual frameworks, potentially leading to negative outcomes or societal discord."
+          ]
+        }
+      ],
+      "instruction": [
+        "The Threefold Sacrifice component of the algorithm encapsulates a vital aspect of Vedic philosophy that classifies sacrifices into three categories based on the intent and adherence to sacred scriptures. This classification is essential for ensuring that actions taken within various contexts—whether personal, social, or technological—are aligned with ethical principles that foster the collective well-being and spiritual growth of the community.",
+        "The first category, the mode of goodness, emphasizes selfless service performed without any desire for personal reward, purely out of duty and a profound respect for moral and spiritual laws. Such actions are considered the highest form of sacrifice, contributing positively to societal harmony and individual fulfillment.",
+
+        "In contrast, the mode of passion involves sacrifices made with ulterior motives, such as seeking recognition or material gains. While these actions may still result in beneficial outcomes, they are driven by personal ambition rather than pure altruism.",
+
+        "The lowest category, the mode of ignorance, describes actions that disregard spiritual guidelines and lack any form of selfless intent, often resulting in negative consequences.",
+
+        "By integrating the Threefold Sacrifice into the algorithm, the system is equipped to analyze and guide decisions within a framework that not only recognizes the complexity of human motives but also encourages a shift towards more ethical and selfless practices, ultimately aiming to elevate both individual and collective states of existence."
+      ]
+    },
+    {
       "key": "threefold-charity",
       "title": "Threefold Charity",
       "value": "Similar to austerity, charity is also divided into three categories based on the nature of the giver and the circumstances of giving: goodness, passion, and ignorance.",
