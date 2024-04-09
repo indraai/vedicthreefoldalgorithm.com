@@ -15,14 +15,21 @@ copyright: (c)2024 Quinn Michaels. All rights reserved.
 <p><strong>{{site.data.vedic-threefold-algorithm.tags}}</strong></p>
 
 {% for item in site.data.vedic-threefold-algorithm.data %}
-  <h3>{{item.emoji}} {{item.key}}</h3>
+  <h3>{{item.emoji}} {{item.title}}</h3>
 
   <p>{{item.value}}</p>
-  <ul>
+
+  {% if item.properties %}
+  <ul class="algo-props">
   {% for prop in item.properties %}
-    <li><strong>{{prop.emoji}} {{prop.key}}:</strong> {{prop.value}}</li>
+    <li class="{{prop.key}}"><span class="title">{{prop.emoji}} {{prop.key}}</span><span class="value">{{prop.value}}</span></li>
   {% endfor %}
   </ul>
+  {% endif %}
 
-  <p><a href="{{item.training}}" class="training">〉Take the {{item.key}} Training</a></p>
+  {% for desc in item.describe %}
+  <p>{{ desc }}</p>
+  {% endfor %}
+
+---
 {% endfor %}

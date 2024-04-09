@@ -580,8 +580,9 @@
           "icon": "evil",
           "value": "Hypocrisy, falsehood, arrogance, pride, anger, harshness, vain boldness, craftiness, stupidity, impatience, greedy, impurity, and harshness.",
           "describe": [
-            "The demonic end of the scale is characterized by qualities such as arrogance, hypocrisy, pride, anger, harshness, and ignorance. These attributes lead to conflict, suffering, and discord, both internally and in one's interactions with others.",
-            "Individuals who exhibit more demonic qualities tend to experience inner turmoil, dissatisfaction, and strained relationships. They may pursue selfish goals without regard for the well-being of others, leading to negative consequences and a lack of true fulfillment."
+            "The demonic end of the scale is characterized by qualities such as arrogance, hypocrisy, pride, anger, harshness, and ignorance. These attributes lead to conflict, suffering, and discord, both internally and in one's interactions with others. Individuals who exhibit more demonic qualities tend to experience inner turmoil, dissatisfaction, and strained relationships. They may pursue selfish goals without regard for the well-being of others, leading to negative consequences and a lack of true fulfillment.",
+
+            "They who practice severe austerities without following the prescription of the Vedas; who are full of hypocrisy and egotism; who are impelled by the force of desire and attachment; who senselessly torture the elements in their body and also Me who dwells within the body, know these ignorant persons to be of demonic nature."
           ]
         }
       ],
@@ -654,7 +655,7 @@
     {
       "key": "threefold-sacrifice",
       "title": "Threefold Sacrifice",
-      "value": "Categorizes austerity into three types based on motivation and approach: goodness, passion, and ignorance. Each type has distinct characteristics and outcomes.",
+      "value": "Categorizes sacrifice into three types based on motivation and approach: goodness, passion, and ignorance.",
       "describe": [
         "The concept of Threefold Sacrifice, as delineated in the Vedic texts, is a critical component of ethical behavior and spiritual development. This concept is articulated through three distinct modes, each reflecting a different approach to sacrifice and service. Integrating this into the algorithm involves recognizing and categorizing actions based on their underlying motivations and adherence to Vedic principles."
       ],
@@ -662,7 +663,7 @@
       "icon": "medal",
       "training": "/training/threefold-sacrifice",
       "image": "/assets/img/page/training/ins-threefold-sacrifice.png",
-      "video": "auXshIRv9bk",
+      "video": false,
       "audio": "https://indra.team/audio/indra/threefold-sacrifice.mp3",
       "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
       "properties": [
@@ -709,10 +710,73 @@
       ]
     },
     {
+      "key": "threefold-faith",
+      "title": "Threefold Faith",
+      "value": "Categorizes faith into three types based on motivation and approach: goodness, passion, and ignorance.",
+      "describe": [
+        "The faith of each is in accordance with one’s own natural disposition that is governed by Karmic impressions. A person is known by the faith. One can become whatever one wants to be, if one constantly contemplates on the object of desire with faith.",
+        "The concept of Threefold Faith is integral to understanding how individual beliefs align with one's inherent nature and actions, as described in Vedic teachings. This principle asserts that each person's faith reflects their intrinsic disposition, which is shaped by their karmic past. By incorporating the Threefold Faith into the algorithm, we can more accurately assess and guide behavior by aligning it with the natural propensities and spiritual orientations of individuals or entities.",
+        "By integrating the Threefold Faith into the algorithm, it becomes possible to tailor approaches and solutions that respect and utilize the inherent qualities of individuals, thereby enhancing the effectiveness of interventions. This component not only aids in understanding current behaviors but also in predicting future actions based on deep-seated beliefs and dispositions. This predictive capability is crucial for designing systems that are both effective and respectful of diversity in human nature."
+      ],
+      "emoji": "🛕",
+      "icon": "temple",
+      "training": "/training/threefold-faith",
+      "image": "/assets/img/page/training/ins-threefold-faith.png",
+      "video": false,
+      "audio": "https://indra.team/audio/indra/threefold-sacrifice.mp3",
+      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
+      "properties": [
+        {
+          "key": "goodness",
+          "title": "Goodness",
+          "emoji": "😀",
+          "icon": "smile",
+          "value": "Persons in the mode of goodness worship celestial controllers.",
+          "describe": [
+            "This aspect of faith is characterized by purity, knowledge, and harmony. Individuals who possess faith in the mode of goodness are inclined to worship celestial controllers—deities who embody virtues and uphold the cosmic order. These individuals are likely to be driven by altruistic motives, seek spiritual growth, and contribute positively to society. In the algorithm, recognizing and promoting actions driven by this type of faith can encourage behaviors that lead to collective well-being and ethical integrity."
+          ]
+        },
+        {
+          "key": "passion",
+          "title": "Passion",
+          "emoji": "😐",
+          "icon": "neutral",
+          "value": "Persons in the mode of passion worship supernatural rulers and demons.",
+          "describe": [
+            "Those with faith in the mode of passion are often ambitious, dynamic, and sometimes aggressive. They tend to worship powerful supernatural entities and demons—figures that represent control and dominance. This faith is associated with a desire for power, fame, and material success. In the algorithm, understanding this form of faith helps in predicting behaviors that might lead to conflict or disruptive outcomes, allowing for interventions that aim to channel this energy into more constructive pursuits."
+          ]
+        },
+        {
+          "key": "ignorance",
+          "title": "Ignorance",
+          "emoji": "🙁",
+          "icon": "sad",
+          "value": "Persons in the mode of ignorance worship ghosts, spirits, and nothing.",
+          "describe": [
+            "Faith in the mode of ignorance is marked by confusion, darkness, and destructiveness. Individuals with this type of faith may worship ghosts and spirits, reflecting a disconnection from the higher spiritual truths and an engagement with lower forms of consciousness. Such faith can lead to actions that are harmful to oneself and others. The algorithm can identify these tendencies to mitigate risks and guide individuals towards more wholesome and enlightening practices."
+          ]
+        }
+      ],
+      "instruction": [
+        "The Threefold Faith concept, as delineated in the Vedic texts, categorizes faith into three modes—goodness, passion, and ignorance—each reflecting the intrinsic nature and karmic influences of individuals. This categorization is instrumental in understanding how personal dispositions shape one's spiritual practices and the entities they choose to revere.",
+
+        "Individuals with faith in the mode of goodness tend to worship celestial controllers, who are embodiments of virtue and cosmic order, leading to actions that promote harmony and altruism.",
+
+        "Those with faith driven by passion worship powerful supernatural beings, reflecting their desires for dominance and material success, which can lead to actions that are ambitious but potentially disruptive.",
+
+        "Conversely, those in the mode of ignorance are drawn to lower energies like ghosts and spirits, often resulting in behaviors that can be harmful and are rooted in confusion and lack of spiritual awareness.",
+
+        "Incorporating the Threefold Faith into the algorithm allows for a nuanced analysis of behaviors based on underlying spiritual orientations, enhancing predictive accuracy and personalized intervention strategies. By identifying the nature of an individual's faith, the algorithm can better predict their behaviors, guide them towards more positive practices, and foster environments that cultivate their highest potentials. This approach not only respects individual differences but also leverages them to promote overall well-being and ethical integrity, making it a powerful tool for personal and societal transformation."
+      ]
+    },
+    {
       "key": "threefold-charity",
       "title": "Threefold Charity",
-      "value": "Similar to austerity, charity is also divided into three categories based on the nature of the giver and the circumstances of giving: goodness, passion, and ignorance.",
-      "describe": [],
+      "value": "Charity is also divided into three categories based on the nature of the giver and the circumstances of giving: goodness, passion, and ignorance.",
+      "describe": [
+        "Charity, in the Vedic tradition, is not merely an act of giving but a deeply spiritual practice that reflects one's inner state and intentions. It is categorized into three types based on the qualities of goodness, passion, and ignorance.",
+        "By practicing charity in the mode of goodness, we align our actions with the highest principles of the #VedicThreefoldAlgorithm, fostering personal growth, societal well-being, and spiritual fulfillment. In the next segment, we will continue to explore how these principles can be applied to other aspects of our lives."
+      ],
       "emoji": "🎁",
       "icon": "gift",
       "training": "/training/threefold-charity",
@@ -766,7 +830,11 @@
       "key": "threefold-action",
       "title": "Threefold Action",
       "value": "Analyze actions based on their motivation and impact, categorizing them into actions performed out of goodness, passion, or ignorance.",
-      "describe": [],
+      "describe": [
+        "In the Vedic tradition, every action we perform can be categorized based on the qualities of goodness, passion, and ignorance. These qualities determine the nature of our actions and their outcomes.",
+        "To align our actions with the principle of goodness, we need to cultivate mindfulness, discernment, and a spirit of selflessness.",
+        "By practicing **#ThreefoldAction**, we move towards a more balanced and fulfilling life, contributing positively to our personal development and the world around us."
+      ],
       "emoji": "🎬",
       "training": "/training/threefold-action",
       "image": "/assets/img/page/training/ins-threefold-action.png",
