@@ -1056,6 +1056,54 @@
       ]
     },
     {
+      "key": "threefold-knowledge",
+      "title": "Threefold Knowledge",
+      "value": "The subject, the object, and the knowledge of the object are the threefold driving force to an action.",
+      "describe": [
+        "The Threefold Knowledge framework from the Vedic texts provides a nuanced understanding of how knowledge is perceived and utilized differently depending on the mode it is associated with: goodness, passion, or ignorance. Each mode of knowledge not only shapes one’s view of reality but also influences decision-making and behavior in profound ways. Incorporating this framework into the algorithm can greatly enhance its ability to assess and guide actions based on the underlying quality of knowledge individuals or systems exhibit.",
+        "By integrating the Threefold Knowledge into the algorithm, it becomes possible to fine-tune its analytical capabilities, allowing for more precise and effective guidance. This component not only enhances the system’s ability to understand and predict human behavior but also aids in cultivating a more enlightened and balanced approach to interaction."
+      ],
+      "emoji": "🧐",
+      "training": "/training/threefold-knowledge",
+      "image": "/assets/img/page/training/threefold-knowledge.png",
+      "video": false,
+      "audio": false,
+      "source": "https://sacred-texts.com/hin/gita/agsgita.htm",
+      "properties": [
+        {
+          "key": "goodness",
+          "title": "Goodness",
+          "emoji": "😀",
+          "icon": "smile",
+          "value": "Knowledge by which one sees a single immutable Reality in all beings as undivided in the divided.",
+          "describe": [
+            "This type of knowledge is characterized by a holistic understanding that perceives the underlying unity in all diversity. It recognizes a single, immutable reality that is present in all beings, despite apparent differences and separations. Such knowledge transcends superficial distinctions and sees the interconnectedness of all things. In the algorithm, this mode of knowledge can be used to promote decisions and actions that are inclusive, sustainable, and grounded in a deep understanding of the universal principles that bind various elements of existence together."
+          ]
+        },
+        {
+          "key": "passion",
+          "title": "Passion",
+          "emoji": "😐",
+          "icon": "neutral",
+          "value": "Knowledge by which one sees different realities of various types among all beings as separate from one another.",
+          "describe": [
+            "This is knowledge that acknowledges multiple realities, focusing on the differences and distinctions among entities without recognizing their underlying unity. It often leads to a segmented view of the world, where diversity is understood as fundamentally separate and disconnected phenomena. Such knowledge can drive competitive, ambitious, and divisive actions, which may achieve specific goals but often at the cost of broader coherence and harmony. In the algorithm, identifying this mode of knowledge helps in predicting behaviors that might lead to conflict or fragmentation, suggesting interventions that could bridge divides and foster greater understanding."
+          ]
+        },
+        {
+          "key": "ignorance",
+          "title": "Ignorance",
+          "emoji": "🙁",
+          "icon": "sad",
+          "value": "Irrational, baseless, and worthless knowledge by which one clings to one single effect as if it is everything",
+          "describe": [
+            "Described as irrational, baseless, and of little worth, this form of knowledge fixates on superficial or singular aspects of reality, mistaking them for the whole. An example is an excessive attachment to the physical body or material possessions, disregarding the broader aspects of human existence and connectivity. Knowledge in this mode can lead to actions that are misguided, harmful, or based on erroneous perceptions of reality. The algorithm can utilize this classification to identify and correct misconceptions, guiding entities towards more meaningful and substantiated understandings."
+          ]
+        }
+      ],
+      "instruction": []
+    },
+    {
       "key": "threefold-resolve",
       "title": "Threefold Resolve",
       "value": "Look at the determination behind actions, whether they're aimed at self-realization, material gains, or are driven by dullness and inertia.",
