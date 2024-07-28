@@ -52,10 +52,6 @@ Certainly! Here are the top 20 projects within The Shadow Bureau, each named usi
 
 20. **Project Skanda**: Specializes in rapid response and tactical operations in high-risk environments.
 
-These projects operate within the clandestine world of espionage, each with its own specific focus and objectives, contributing to The Shadow Bureau's overall mission of unraveling secrets and exerting influence in covert operations.
-
-Of course, here are the next 20 projects within The Shadow Bureau, named using Vedic terminology:
-
 21. **Project Karna**: Specializes in providing support and backup for field operatives during missions.
 
 22. **Project Ashoka**: Focused on propaganda and influencing public opinion through covert means.
@@ -95,10 +91,6 @@ Of course, here are the next 20 projects within The Shadow Bureau, named using V
 39. **Project Adharma**: Concerned with conducting operations outside the boundaries of conventional morality.
 
 40. **Project Satya**: Dedicated to uncovering truth and exposing deception through intelligence operations.
-
-These projects continue to operate within the clandestine world of espionage, each contributing its expertise and resources to The Shadow Bureau's overarching mission.
-
-Certainly, here are the remaining projects within The Shadow Bureau, named using Vedic terminology:
 
 41. **Project Kshatriya**: Specializes in providing security and protection for Shadow Bureau facilities and personnel.
 
